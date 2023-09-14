@@ -37,12 +37,12 @@ atividade, responsáveis e período de gravação da apresentação), Rich Pictu
 | Planejamento do projeto     | 01/09  | 20/09 |João Pedro         |           |
 | Cronograma                  | 01/09  | 20/09 |João Pedro         |           |
 | Cronograma Realizado        | 01/09  | 20/09 |João Pedro         |           |
-| Lista de aplicativos        | 01/09  | 20/09 |         |           |
-| Ferramentas                 | 01/09  | 20/09 |         |           |
-| Rich picture                | 01/09  | 20/09 |         |           |
-| Atas das Reuniões           | 01/09  | 20/09 | João Pedro        |           |
-| GitPage                     | 01/09  | 20/09 | João Pedro        |           |
-| Video de apresentação       | 01/09  | 20/09 |         |           |
+| Lista de aplicativos        | 01/09  | 20/09 |João Gabriel         |           |
+| Ferramentas                 | 01/09  | 20/09 |Douglas       |           |
+| Rich picture                | 01/09  | 20/09 |Guilherme        |           |
+| Atas das Reuniões           | 01/09  | 20/09 |Vitor       |           |
+| GitPage                     | 01/09  | 20/09 |Pedro       |           |
+| Video de apresentação       | 01/09  | 20/09 |João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro|João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro           |
 
 Tabela 2 - Itens realizados na entrega 1. (Fonte: João Pedro Anacleto, 2023).
 
