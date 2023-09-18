@@ -33,10 +33,10 @@ Baseado nos critérios anteriores, e após instrução do professor, o grupo dec
 * Site do governo.
   
 ## Bibliografia
-[Detran Digital](https://play.google.com/store/apps/details?id=br.com.mesotec.detrandf)
-[Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-[Hemorio (hemovida)](https://play.google.com/store/apps/details?id=com.mycompany.hemorioplus)
-[Mozilla](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
+* [Detran Digital](https://play.google.com/store/apps/details?id=br.com.mesotec.detrandf)
+* [Bitwarden](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+* [Hemorio (hemovida)](https://play.google.com/store/apps/details?id=com.mycompany.hemorioplus)
+* [Mozilla](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 
 ## Histórico de Versão
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
