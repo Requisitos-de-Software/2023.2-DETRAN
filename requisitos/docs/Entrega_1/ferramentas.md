@@ -2,7 +2,7 @@
 
 ## Introdução
 
-  Este documento tem o intuito de documentar todas as ferramentas utilizadas para a realização do projeto de requisitos de software, as ferramentas listadas aqui tem a intenção de dar suporte a documentação de requisitos do aplicativo ******.
+  Este documento tem o intuito de documentar todas as ferramentas utilizadas para a realização do projeto de requisitos de software, as ferramentas listadas aqui tem a intenção de dar suporte a documentação de requisitos do aplicativo Detran Digital.
 
 ## Ferramentas utilizadas
 

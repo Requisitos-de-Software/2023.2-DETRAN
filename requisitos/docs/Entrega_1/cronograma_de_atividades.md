@@ -12,14 +12,14 @@ A Tabela 1 mostra todos os Pontos de Controles com suas respectivas datas de ent
 
 | Etapa | Título                       | Descrição                                                                                                                                        | Entrega | Apresentação |
 |-------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------------|
-| 1     | Planejamento do projeto      | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina,  Ferramentas do projeto, cronograma das atividades, Rich Picture. | 20/09   |              |
-| 2     | Elicitação de Requisitos     | técnicas e priorização                                                                                                                           | 04/10   |              |
-| 3     | Modelagem de requisitos      | cenário léxicos, use case e especificação suplementar                                                                                            | 25/10   |              |
-| 4     | Modelagem de requisitos ágil | histórias de usuários, backlogs, NFR framework                                                                                                   | 6/11    |              |
-| 5.1   | Análise de requisitos        | verificação e validação 1                                                                                                                        | 06/11   |              |
-| 5.2   | Análise de requistos         | verificação e validação 2                                                                                                                        | 13/11   |              |
-| 6     | Pós-rastreabilidade          | Gerência II                                                                                                                                      |         |              |
-| 7     | Entrrega final               | Entrrega final                                                                                                                                   |         |              |
+| 1     | Planejamento do projeto      | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina,  Ferramentas do projeto, cronograma das atividades, Rich Picture. | 20/09   |  21/09            |
+| 2     | Elicitação de Requisitos     | técnicas e priorização                                                                                                                           | 04/10   |     05/10         |
+| 3     | Modelagem de requisitos      | cenário léxicos, use case e especificação suplementar                                                                                            | 25/10   |     26/10         |
+| 4     | Modelagem de requisitos ágil | histórias de usuários, backlogs, NFR framework                                                                                                   | 06/11    |   07/11           |
+| 5.1   | Análise de requisitos        | verificação e validação 1                                                                                                                        | 13/11   |   14/11           |
+| 5.2   | Análise de requistos         | verificação e validação 2                                                                                                                        | 29/11   |   30/11           |
+| 6     | Pós-rastreabilidade          | Gerência II                                                                                                                                      |  20/11       |     21/11         |
+| 7     | Entrrega final               | Entrega final                                                                                                                                   |   06/12      |      07/12        |
 
 Tabela 1 - Cronograma Geral. (Fonte: João Pedro Anacleto, 2023).
 
@@ -34,14 +34,14 @@ atividade, responsáveis e período de gravação da apresentação), Rich Pictu
 
 | Atividade                   | Início | Fim   | Autores | Revisores |
 |-----------------------------|--------|-------|---------|-----------|
-| Planejamento do projeto     | 01/09  | 20/09 |João Pedro         |           |
-| Cronograma                  | 01/09  | 20/09 |João Pedro         |           |
-| Cronograma Realizado        | 01/09  | 20/09 |João Pedro         |           |
-| Lista de aplicativos        | 01/09  | 20/09 |João Gabriel         |           |
-| Ferramentas                 | 01/09  | 20/09 |Douglas       |           |
-| Rich picture                | 01/09  | 20/09 |Guilherme        |           |
-| Atas das Reuniões           | 01/09  | 20/09 |Vitor       |           |
-| GitPage                     | 01/09  | 20/09 |Pedro       |           |
+| Planejamento do projeto     | 01/09  | 20/09 |João Pedro         |   Pedro        |
+| Cronograma                  | 01/09  | 20/09 |João Pedro         |   Pedro        |
+| Cronograma Realizado        | 01/09  | 20/09 |João Pedro         |  Pedro         |
+| Lista de aplicativos        | 01/09  | 20/09 |João Gabriel         | João Pedro           |
+| Ferramentas                 | 01/09  | 20/09 |Douglas       |  João Gabriel         |
+| Rich picture                | 01/09  | 20/09 |Guilherme        |  Douglas         |
+| Atas das Reuniões           | 01/09  | 20/09 |Vitor       |  Guilherme          |
+| GitPage                     | 01/09  | 20/09 |Pedro       |  Vitor          |
 | Video de apresentação       | 01/09  | 20/09 |João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro|João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro           |
 
 Tabela 2 - Itens realizados na entrega 1. (Fonte: João Pedro Anacleto, 2023).
@@ -55,14 +55,14 @@ projeto.*
 
 | Atividade                                      | Início  | Fim     | Autores                                       | Revisores                         |
 |-----------------------------------------------|---------|---------|-----------------------------------------------|----------------------------------|
-| Personas                                      | 21/09   | 04/10   |                                               |                                  |
-| Storytelling                                  | 21/09   | 04/10   |                                               |                                  |
-| Questionário                                  | 21/09   | 04/10   |                                               |                                  |
-| Priorização                                   | 21/09   | 04/10   |                                               |                                  |
-| First Things First                            | 21/09   | 04/10   |                                               |                                  |
-| In or Out                                     | 21/09   | 04/10   |                                               |                                  |
-| MoSCoW                                        | 21/09   | 04/10   |                                               |                                  |
-| Gravação da apresentação                      | 21/09   | 04/10   | Todos                                         | Todos                            |
+| Personas                                      | 21/09   | 04/10   |Vitor|   Douglas                                   |
+| Storytelling                                  | 21/09   | 04/10   |João Gabriel| Vitor                                 |
+| Questionário                                  | 21/09   | 04/10   |Douglas|João Gabriel                                  |
+| Priorização                                   | 21/09   | 04/10   |João Pedro|  Douglas                                |
+| First Things First                            | 21/09   | 04/10   |Guilherme| João Pedro                                 |
+| In or Out                                     | 21/09   | 04/10   |Pedro| Guilherme                                 |
+| MoSCoW                                        | 21/09   | 04/10   |Douglas| Pedro                                 |
+| Gravação da apresentação                      | 21/09   | 04/10   | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                         | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                            |
 
 Tabela 3 - Itens realizados na entrega 2. (Fonte: João Pedro Anacleto, 2023).
 
@@ -74,12 +74,12 @@ A Tabela 4 mostra as atividades planejadas para a entrega 3, além de seus autor
 
 | Atividade                                      | Início  | Fim     | Autores                                       | Revisores                         |
 |-----------------------------------------------|---------|---------|-----------------------------------------------|----------------------------------|
-| Casos de uso                                  | 05/10   | 25/10   |                                               |                                  |
-| Cenários                                      | 05/10   | 25/10   |                                               |                                  |
-| Léxico                                        | 05/10   | 25/10   |                                               |                                  |
-| Especificação suplementar                     | 05/10   | 25/10   |                                               |                                  |
-| Gravação da apresentação                      | 05/10  | 25/10   | Todos                                         | Todos                            |
-| Correções do Ponto de Controle anterior        | 05/10   | 25/10   |                                               |                                  |
+| Casos de uso                                  | 05/10   | 25/10   |  João Pedro                                             |     João Gabriel                               |
+| Cenários                                      | 05/10   | 25/10   |  Vitor e Pedro                                            |   Douglas e Guilherme                               |
+| Léxico                                        | 05/10   | 25/10   |  Douglas e Guilherme                                             | Vitor e Pedro                                  | Pedro e Guilherme
+| Especificação suplementar                     | 05/10   | 25/10   |  João Gabriel                                             |   João Pedro                                 |
+| Gravação da apresentação                      | 05/10  | 25/10   | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                         | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                            |
+| Correções do Ponto de Controle anterior        | 05/10   | 25/10   |   Pedro e Guilherme                                            |     Vitor e Douglas                             |
 
 Tabela 4 - Itens realizados na entrega 3. (Fonte: João Pedro Anacleto, 2023).
 
@@ -92,11 +92,11 @@ Framework)*
 
 | Atividade                                      | Início  | Fim     | Autores                                       | Revisores                         |
 |-----------------------------------------------|---------|---------|-----------------------------------------------|----------------------------------|
-| Histórias de usuário                          | 26/10   | 06/11   |                                               |                                  |
-| Backlog                                       | 26/10   | 06/11   |                                               |                                  |
-| NFR Framework                                 | 26/10   | 06/11   |                                               |                                  |
-| Gravação da apresentação                      | 26/10   | 06/11   |                                               |                                  |
-| Correções do Ponto de Controle anterior        | 26/10   | 06/11   |                                               |                                  |
+| Histórias de usuário                          | 26/10   | 06/11   | João Gabriel                                              | João Pedro                                |
+| Backlog                                       | 26/10   | 06/11   | Vitor e Guilherme                                              |   Pedro e Douglas                               | Pedro e Douglas
+| NFR Framework                                 | 26/10   | 06/11   | Pedro e Douglas                                              |  Vitor e GUilherme                                |
+| Gravação da apresentação                      | 26/10   | 06/11   |   João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                             |   João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                |
+| Correções do Ponto de Controle anterior        | 26/10   | 06/11   |  João Pedro e Guilherme                                             |    João Gabriel                              |
 
 Tabela 5 - Itens realizados na entrega 4. (Fonte: João Pedro Anacleto, 2023).
 
@@ -109,10 +109,10 @@ A Tabela 6 mostra as atividades planejadas para a entrega 5.1, além de seus aut
 
 | Atividade                                      | Início  | Fim     | Autores                                       | Revisores                         |
 |-----------------------------------------------|---------|---------|-----------------------------------------------|----------------------------------|
-| Verificação de requisitos 1                   | 06/11   | 13/11   |                                               |                                  |
-| Validação de requisitos 1                     | 06/11   | 13/11   |                                               |                                  |
-| Gravação da apresentação                      | 06/11   | 13/11   |                                               |                                  |
-| Correções do Ponto de Controle anterior        | 06/11   | 13/11   |                                               |                                  |
+| Verificação de requisitos 1                   | 06/11   | 13/11   |João Gabriel ,Guilherme e Vitor                                               |    João Pedro, Pedro e Douglas                              |
+| Validação de requisitos 1                     | 06/11   | 13/11   |  João Pedro, Pedro e Douglas                                             | João Gabriel ,Guilherme e Vitor                                  |
+| Gravação da apresentação                      | 06/11   | 13/11   | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                              | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                 |
+| Correções do Ponto de Controle anterior       | 06/11   | 13/11   |  João Gabriel e Pedro                                             |   Guilherme                               |
 
 Tabela 6 - Itens realizados na entrega 3. (Fonte: João Pedro Anacleto, 2023).
 
@@ -124,10 +124,10 @@ A Tabela 7 mostra as atividades planejadas para a entrega 5.2, além de seus aut
 
 | Atividade                                      | Início  | Fim     | Autores                                       | Revisores                         |
 |-----------------------------------------------|---------|---------|-----------------------------------------------|----------------------------------|
-| Verificação de requisitos 2                   |         |         |                                               |                                  |
-| Validação de requisitos 2                     |         |         |                                               |                                  |
-| Gravação da apresentação                      |         |         |                                               |                                  |
-| Correções do Ponto de Controle anterior        |         |         |                                               |                                  |
+| Verificação de requisitos 2                   | 20/11   | 29/11   |   João Gabriel ,Guilherme e Vitor                                             |  João Pedro, Pedro e Douglas                                |
+| Validação de requisitos 2                     | 20/11   | 29/11   | João Pedro, Pedro e Douglas                                              |  João Gabriel ,Guilherme e Vitor                                | 
+| Gravação da apresentação                      | 20/11   | 29/11   | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                              |  João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                | 
+| Correções do Ponto de Controle anterior       | 20/11   | 29/11   |    Pedro e Vitor                                           |    Douglas                              |
 
 Tabela 7 - Itens realizados na entrega 3. (Fonte: João Pedro Anacleto, 2023).
 
@@ -139,14 +139,14 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 
 | Atividade                                      | Início  | Fim     | Autores                                       | Revisores                         |
 |-----------------------------------------------|---------|---------|-----------------------------------------------|----------------------------------|
-| Backward From                                 |         |         |                                               |                                  |
-| Forward From                                  |         |         |                                               |                                  |
-| Gravação da apresentação                      |         |         |                                               |                                  |
-| Correções do Ponto de Controle anterior        |         |         |                                               |                                  |
+| Backward From                                 |  14/11  |  20/11  | João Pedro, Guilherme e Douglas                                              |  João Gabriel ,Pedro e Vitor                                |
+| Forward From                                  |  14/11  |  20/11  |  João Gabriel ,Pedro e Vitor                                             | João Pedro, Guilherme e Douglas                                  |
+| Gravação da apresentação                      |  14/11  |  20/11  | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                | 
+| Correções do Ponto de Controle anterior       |  14/11  |  20/11  | João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,Douglas,Guilherme,Vitor,Pedro                                |
 
 ## Bibliografia
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27/Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27 Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
 
 ## Histórico de Versão
 
