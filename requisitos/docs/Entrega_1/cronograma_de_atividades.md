@@ -152,4 +152,4 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 01/09/22 | Template Planejamento      | João Pedro Anacleto |       |
+| 1.0    | 01/09/23 | Template Planejamento      | João Pedro Anacleto |       |
