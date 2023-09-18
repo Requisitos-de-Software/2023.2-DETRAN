@@ -1,4 +1,4 @@
-# Cronograma do projeto detalhado
+# Cronograma do projeto 
 
 ## Introdução 
 
@@ -23,6 +23,9 @@ A Tabela 1 mostra todos os Pontos de Controles com suas respectivas datas de ent
 
 Tabela 1 - Cronograma Geral. (Fonte: João Pedro Anacleto, 2023).
 
+## Cronograma detalhado
+
+Segue abaixo o cronograma detalhado para cada fase do projeto, lembrando que e o cronograma proposto estando sujeito a alterações durante o desenvolvimento do projeto.
 ## Entrega 1
 
 A Tabela 2 mostra as atividades planejadas para a entrega 1, além de seus autores, revisores e datas de entrega.

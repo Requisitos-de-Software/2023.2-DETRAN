@@ -1,12 +1,16 @@
 # Sobre o projeto
-
-## Aplicativo
-
 ## Introdução 
 
-Esse repositorio tem o objetivo de disponibilizar os artefatos e uma analise voltada a requisitos de software do aplicativo ***** produzidos para a materia Requisitos de Software.
+Esse repositorio tem o objetivo de disponibilizar os artefatos e uma analise voltada a requisitos de software do aplicativo Detran Digital produzidos para a materia Requisitos de Software.
+
+
+<img src="https://play-lh.googleusercontent.com/vMvSDR4GitBq9nh7692Y9YSL1k-KrnwSIKC02_oHbj1Ln_Vw3bDDWzZszrqH3MqsnSs" alt="Detran Digital" width="500"> 
+
+Imagem 1 - Detran Dgital 
 
 ## Sobre o aplicativo
+
+O Detran Digital é uma iniciativa que visa modernizar e facilitar os serviços oferecidos pelos Departamentos Estaduais de Trânsito (Detran) por meio de plataformas online e aplicativos móveis. Essa digitalização tem como objetivo principal proporcionar maior comodidade, agilidade e praticidade aos usuários que precisam acessar serviços relacionados à habilitação, veículos e infrações de trânsito.
 
 ## Integrantes
 
