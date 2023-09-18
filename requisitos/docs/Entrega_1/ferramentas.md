@@ -45,4 +45,4 @@
 
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 01/09/22 | Ferramentas iniciais       | João Pedro Anacleto | João Gabriel Elvas  |
+| 1.0    | 01/09/23 | Ferramentas iniciais       | João Pedro Anacleto | João Gabriel Elvas  |
