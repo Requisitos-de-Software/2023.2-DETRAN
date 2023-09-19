@@ -7,16 +7,41 @@
 
 Um Rich Picture geralmente incorpora elementos gráficos, como desenhos, ícones, setas e texto, para ilustrar diferentes aspectos de um sistema ou situação. Ele permite que os participantes de um projeto ou equipe vejam a imagem completa e compreendam melhor as interações, relações e dinâmicas envolvidas.
 
-## 3. Metodologia
-&nbsp;&nbsp;&nbsp;&nbsp;Os "Rich Pictures" realizados tiveram 5 componentes obrigatorios:Atores ,Base de dados, .
+## 2. Metodologia
+De acordo com California Tax Education Council (CTEC) 5 elementos importantes para fazer um Rich Picture são :atores,operações,Armazenamento de dados ,setas e limites.
 
-## 4. Rich Picture
+### Atores 
+Atores são as pessoas que usam o seu sistema.Geralmente são representados por pessoas em palitos. 
+
+### Operações 
+Operações são as ações do sistema.  Elas são mostradas como círculos ou ovais, com um nome dentro.
+
+### Armazenamentos de dados
+Armazenamentos de dados são as tabelas ou arquivos do sistema. Eles devem mostrar o tipo de dados que guardam. Só operações podem ler ou escrever neles. Eles são retângulos.
+
+### Setas 
+Setas mostram o fluxo de dados ou informações entre atores, armazenamentos de dados e operações. Elas são setas com uma ponta só. 
+
+### Limites
+Os limites representa o que o  sistema deve fazer tudo que está dentro do limite.  Ele é uma linha circular.
+
+## 3. Rich Picture do Detran 
+
+Na *figura 1* abaixo temos o rich picture realizado para o aplicatico do Detran
+
+
+
+*figura 1-Rich Picture*
+![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/fa586063-1851-4ef5-8d94-e411ce777f4d)
+
+*Fonte: Autores*
+
 
 
 
 ## 5. Referências
-> MONK, Andrew; HOWARD, Steve. Methods & tools: the rich picture: a tool for reasoning about work context. York: na, 1998. Disponível em: https://sswm.info/sites/default/files/reference_attachments/MONK%20and%20HOWARD%201998%20Methods%20and%20Tools%20the%20Rich%20Picture%20a%20Tool%20for%20Reasoning%20About%20Work%20Context.pdf. Acesso em: 28 jun. 2022.
-> ## 1. Versionamento
+> California Tax Education Council. Software Development Project. Acesso em: 16 set. 2023.
+## 1. Versionamento
 
 | Versão | Data       | Autor             | Descrição                                          | Revisor        |
 |:------:| ---------- | ----------------- | -------------------------------------------------- | -------------- |
