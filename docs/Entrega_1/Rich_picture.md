@@ -45,4 +45,4 @@ Na *figura 1* abaixo temos o rich picture realizado para o aplicatico do Detran
 
 | Versão | Data       | Autor             | Descrição                                          | Revisor        |
 |:------:| ---------- | ----------------- | -------------------------------------------------- | -------------- |
-|  1.0   | 18/09/2023 | Guilherme Nishimura    | Criação e inclusão de informações     | -    |
+|  1.0   | 18/09/2023 | Guilherme Nishimura    | Criação e inclusão de informações     | Vitor    |
