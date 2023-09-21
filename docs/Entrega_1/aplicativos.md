@@ -41,4 +41,4 @@ Baseado nos critérios anteriores, e após instrução do professor, o grupo dec
 ## Histórico de Versão
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 01/09/23 | Aplicativos Analisados     | João Gabriel Elvas  |   |
+| 1.0    | 01/09/23 | Aplicativos Analisados     | João Gabriel Elvas  | João Pedro  |

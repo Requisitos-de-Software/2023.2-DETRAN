@@ -147,6 +147,24 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 | Gravação da apresentação                      |  14/11  |  20/11  | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                | 
 | Correções do Ponto de Controle anterior       |  14/11  |  20/11  | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                |
 
+
+## Cronograma realizado
+
+Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
+
+| Atividade realizada   | Data  | Autores                                        |
+|-----------------------|-------|------------------------------------------------|
+| Cronograma            | 14/09 | João Pedro                                     |
+| Cronograma realizado  | 21/09 | João Pedro                                     |
+| Lista de aplicativos  | 18/09 | João Gabriel                                   |
+| Ferramentas           | 14/09 | João Pedro                                     |
+| Rich picture          | 18/09 | Guilherme                                      |
+| Atas das Reuniões     | 15/09 | Vitor                                          |
+| GitPage               | 19/09 | Pedro                                          |
+| Video de apresentação | 19/09 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
+
+Tabela 9 - cronograma realizado da entrega 1. (Fonte: João Pedro Anacleto, 2023).
+
 ## Bibliografia
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27 Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
@@ -155,4 +173,5 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 01/09/23 | Template Planejamento      | João Pedro Anacleto |       |
+| 1.0    | 01/09/23 | Template Planejamento      | João Pedro Anacleto | Pedro     |
+| 1.1    | 21/09/23 | Adição do cronograma realizado      | João Pedro Anacleto |      |
