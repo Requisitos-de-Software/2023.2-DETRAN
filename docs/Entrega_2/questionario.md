@@ -13,6 +13,35 @@ A coleta de dados é essencial para o desenvolvimento de projetos e pesquisas, a
 O questionário é amplamente utilizado pois o mesmo permite a coleta e análise de dados relevantes em grandes grupos de forma rápida e eficaz.
 </p>
 
+# 2. Estrutura do questionário
+
+<p align="justify">
+Nosso questionário foi estruturado em seções com o intuito de definir o perfil dos usuários que utilizam o applicativo Detran digital.
+</p>
+
+* Seção 01 | Introdução
+
+<p align="justify">
+Apresentação do grupo e de nosso termo de consentimento para que o participante compreenda que a participação é totalmente vonlutária e que os dados fornecidos serão utilizados apenas para fins acadêmicos.
+</p>
+
+* Seção 02 | Verificação de Uso
+
+<p align="justify">
+A segunda seção vem com o intuito de filtrar os participantes, tendo em vista que desejamos realizar a coleta de dados para descobrir o perfil dos usuários não é possível utilizar os dados de pessoas que não tenham contato com o aplicativo do Detran (do df ou de outras regiões).
+</p>
+
+* Seção 03 | Dados demográficos
+
+<p align="justify">
+A coleta de dados demográficos em um questionário é crucial para compreender a composição do público-alvo, permitindo a personalização de estratégias e a adaptação de produtos ou serviços de acordo com as características dos participantes, contribuindo para uma abordagem mais eficaz e direcionada.
+</p>
+
+* Seção 04 | Aplicativo Detran Digital
+
+<p align="justify">
+A última seção do nosso questionário vem com o intuito de visualizar quais os principais interesses dos uuários dentro do aplicativo do detran digital, sendo assim podemos descobrir quais os principais usos e quais os menos utilizados.
+</p>
 
 ## Referências
 > <a id="QT1" href="#anchor_1">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -23,3 +52,4 @@ Interação Humano-Computador e Experiência do usuário. Questionários - Pg. 1
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 03/09/2023 | Adicionado introdução sobre questionários | Vitor Borges | João Gabriel |
+| 1.1    | 03/09/2023 | Adicionado estrutura do questionário| Vitor Borges | João Gabriel |
