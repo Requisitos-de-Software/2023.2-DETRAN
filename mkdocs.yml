@@ -2,8 +2,8 @@ site_name: Detran
 
 theme:
   language: pt-BR
-  logo: assets/images/logo.png
-  favicon: assets/images/logo.png
+  logo: assets/logo.png
+  favicon: images/favicon.png
   name: material
   features:
     - navigation.tabs
