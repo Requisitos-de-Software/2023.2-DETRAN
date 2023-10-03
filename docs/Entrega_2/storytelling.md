@@ -44,9 +44,9 @@ condições para a estrada.
 ## Requisitos Elicitados 
 Legendas:
 
-ST - Storytelling
-RF: Requisito Funcional
-RNF: Requisito Não Funcional
+* ST - Storytelling
+* RF: Requisito Funcional
+* RNF: Requisito Não Funcional
 
 Tabela 1: Requisitos elicitados
 |  ID  | Descrição | Tipo | Implementados |
