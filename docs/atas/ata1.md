@@ -35,10 +35,11 @@
 
 ## Gravação da reunião
 
-[Clique aqui](Endereço)
+[Clique aqui](https://youtu.be/EmEsrjpunBY)
 
 # Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 03/10/2023 | Criação da ata 1     | João Gabriel Elvas | Vitor Borges        |
+| 1.1 | 03/10/2023 | Adicionando link da reunião | Vitor Borges | João Gabriel Elvas |
