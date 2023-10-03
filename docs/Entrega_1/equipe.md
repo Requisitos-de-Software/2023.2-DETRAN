@@ -13,4 +13,4 @@
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 31/08/2023 | Criação do documento | João Pedro Anacleto |  |
+| 1.0    | 31/08/2023 | Criação do documento | João Pedro Anacleto | Pedro  |
