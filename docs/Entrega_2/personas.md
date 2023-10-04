@@ -144,6 +144,6 @@ MJV Press, 2012. Personas - pg. 80
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 30/09/2023 | Adicionado introdução sobre personas | Vitor Borges | João Pedro |
-| 1.1    | 04/09/2023 | Adicionado perfil do usuário | Vitor Borges | João Pedro |
-| 1.2    | 04/09/2023 | Adicionado personas | Vitor Borges | João Pedro |
-| 1.3    | 04/09/2023 | Adicionado imagens das personas | Vitor Borges | João Pedro |
+| 1.1    | 04/10/2023 | Adicionado perfil do usuário | Vitor Borges | João Pedro |
+| 1.2    | 04/10/2023 | Adicionado personas | Vitor Borges | João Pedro |
+| 1.3    | 04/10/2023 | Adicionado imagens das personas | Vitor Borges | João Pedro |
