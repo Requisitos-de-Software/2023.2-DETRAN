@@ -174,7 +174,7 @@ Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
 | Personas e Questionário             | 03/10 | Vitor                                          |
 | Cronograma realizado  | 04/10 | João Pedro                                     |
 | Storytelling          | 03/10 | João Gabriel                                   |
-| Elicitação Geral      | 04/10 | João Pedro                                     |
+| Elicitação Geral e Analise de Documentos     | 04/10 | João Pedro                                     |
 | Moscow e First Things First        | 03/10 | Guilherme                                      |
 | Atas das Reuniões     | 03/10 | João Gabriel                                            |
 | Entrevista e In or Out            | 02/10 | Pedro                                          |

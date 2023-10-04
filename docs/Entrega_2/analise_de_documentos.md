@@ -10,6 +10,7 @@ A técnica ao qual sera utilizada e a análise de documentos. Sendo particularme
 
 # Elicitação de requisitos do Detran Digital
 
+Vale ressaltar que a pagina de documentos utilizada para a elicitação com base na analise de documentos foi a seguinte: https://www.detran.df.gov.br/passo-a-passo-para-os-servicos-do-detran/
 ## Funcionalidades e Recursos:
 
 - Baixar o aplicativo para sistemas Android (versão 5 ou superior) e iOS:
