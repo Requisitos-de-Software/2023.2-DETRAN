@@ -84,4 +84,5 @@ fonte:Autores
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 30/09/2023 | Adicionado tabela e introduçã0 | Guilherme Nishimura |- |
+| 1.0    | 30/09/2023 | Adicionado tabela e introduçã0 | Guilherme Nishimura |João Pedro |
+| 1.2    | 03/10/2023 | Adicionando a tabela aos requisitos  | Guilherme Nishimura |João Pedro |
