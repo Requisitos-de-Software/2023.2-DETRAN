@@ -32,19 +32,17 @@ A seguir se encontra a *tabela 1*  com a tabela levantada pela equipe para o apl
 
 
 
-*tabela 1*
-| Funcionalidade                     | Benefício Relativo | Penalidade Relativa | Valor Total | Valor Total % | Custo Relativo | Custo Relativo % | Risco Relativo | Risco Relativo % | Prioridade  | Requisitos                                                                                   |
-|------------------------------------|--------------------|----------------------|-------------|---------------|----------------|------------------|----------------|------------------|------------|----------------------------------------------------------------------------------------------|
-| CNH digital                        | 9                  | 9                   | 18          | 14.76         | 3              | 6.98             | 2              | 5.13             | 1.636363636 | ADD3, ADD6, ST11                                                                             |
-| CRLV digital                       | 8                  | 9                   | 17          | 13.84         | 4              | 9.30             | 4              | 10.26            | 0.860215054 | ADD12, ST13, PE01, PE03, ST12                                                                |
-| Vencimento da CNH                  | 6                  | 6                   | 12          | 9.84          | 6              | 13.95            | 5              | 17.95            | 0.705882353 | ADD3, ST11                                                                                   |
-| Gerenciamento de infrações e multas | 7                  | 8                   | 15          | 12.3          | 8              | 18.60            | 7              | 20.51            | 0.660377358 | PE04, PE05, ST02, ST03, ST12, ADD4                                                          |
-| Indicação de principal condutor    | 5                  | 4                   | 9           | 7.38          | 9              | 20.93            | 9              | 23.08            | 0.238095238 | ADD7                                                                                          |
-| Notificação de recall              | 3                  | 2                   | 5           | 4.1           | 4              | 9.30             | 4              | 12.82            | 0.222222222 | ADD11                                                                                        |
-| Histórico de emissão da CNH        | 3                  | 3                   | 6           | 4.92          | 9              | 20.93            | 8              | 23.08            | 0.195121951 | ADD12, ST11                                                                                  |
-| Segurança de Dados                 | 5                  | 4                   | 9           | 7.38          | 7              | 16.28            | 8              | 23.08            | 0.238095238 | ADD8, ST17                                                                                   |
-| Total                              | 46                 | 45                  | 91          | 100           | 48             | 100              | 39             | 100              | 5.420289855 | -                                                                                            |
-
+| Funcionalidade                     | Benefício Relativo | Penalidade Relativa | Valor Total | Valor Total % | Custo Relativo | Custo Relativo % | Risco Relativo | Risco Relativo % | Prioridade | Requisitos                      |
+|------------------------------------|--------------------|----------------------|-------------|---------------|----------------|------------------|----------------|------------------|------------|---------------------------------|
+| CNH digital                        | 9                  | 9                    | 18          | 14.76%        | 3              | 6.98%            | 2              | 5.13%            | 1.636       | ADD3, ADD6, ST11                |
+| CRLV digital                       | 8                  | 9                    | 17          | 13.84%        | 4              | 9.30%            | 4              | 10.26%           | 0.860       | ADD12, ST13, PE01, PE03, ST12   |
+| Vencimento da CNH                  | 6                  | 6                    | 12          | 9.84%         | 6              | 13.95%           | 5              | 17.95%           | 0.705       | ADD3, ST11                      |
+| Gerenciamento de infrações e multas | 7                  | 8                    | 15          | 12.3%         | 8              | 18.60%           | 7              | 20.51%           | 0.660       | PE04, PE05, ST02, ST03, ST12, ADD4 |
+| Indicação de principal condutor    | 5                  | 4                    | 9           | 7.38%         | 9              | 20.93%           | 9              | 23.08%           | 0.238       | ADD7                            |
+| Notificação de recall              | 3                  | 2                    | 5           | 4.1%          | 4              | 9.30%            | 4              | 12.82%           | 0.222       | ADD11                           |
+| Histórico de emissão da CNH        | 3                  | 3                    | 6           | 4.92%         | 9              | 20.93%           | 8              | 23.08%           | 0.195       | ADD12, ST11                     |
+| Segurança de Dados                 | 5                  | 4                    | 9           | 7.38%         | 7              | 16.28%           | 8              | 23.08%           | 0.238       | ADD8, ST17                      |
+| Total                              | 46                 | 45                   | 91          | 100%          | 48             | 100%             | 39             | 100%             | 5.420       | -                               |
 
 Fonte:Autores
 
