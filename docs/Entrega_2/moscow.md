@@ -18,8 +18,8 @@ Itens nesta categoria são explicitamente descartados do escopo do projeto atual
 ## Detran
 
 Com base nessas informações a equipe gerou uma *tabela 1*  contendo essas informações ao requisitos elicitados.
-
-| Número do Requisito | Categoria    | Descrição |
+*tabela 1*
+| Número do Requisito | Categoria    | Requisito |
 |---------------------|--------------|-----------|
 | ADD1                | Must (Deve)  | Baixar o aplicativo em sistemas Android (versão 5 ou superior) e iOS. |
 | ADD2                | Must (Deve)  | Permitir cadastro no Portal de Serviços, exigindo um endereço de e-mail válido. |
@@ -33,33 +33,31 @@ Com base nessas informações a equipe gerou uma *tabela 1*  contendo essas info
 | ADD10               | Should (Deveria) | Garantir desempenho aceitável em dispositivos Android e iOS. |
 | ADD11               | Could (Poderia) | Risco associado à segurança da alteração de senha e envio de e-mails. |
 | ADD12               | Should (Deveria) | Realizar testes para validação de funcionalidades do aplicativo. |
-| PE01                | Must (Deve)  | Deve ser possível baixar os boletos com os débitos do meu veículo. |
-| PE02                | Must (Deve)  | Deve ser possível realizar o pagamento dos boletos com os débitos do meu veículo. |
-| PE03                | Must (Deve)  | Deve ser possível baixar os documentos do meu veículo. |
-| PE04                | Must (Deve)  | Deve ser possível consultar os dados de veículos a partir do renavam. |
-| PE05                | Must (Deve)  | Deve ser possível consultar os dados de veículos a partir da placa. |
-| PE06                | Must (Deve)  | Deve ser possível baixar a minha CNH digital. |
-| PE07                | Must (Deve)  | Deve ser possível realizar a transferência de veículo. |
-| PE08                | Could (Poderia) | O aplicativo deverá guardar as informações de login do usuário. |
-| ST01                | Should (Deveria) | Eu, como usuário, gostaria de receber notificações automáticas quando minha carteira de motorista estiver prestes a expirar. |
-| ST02                | Should (Deveria) | Eu, como usuário, gostaria de consultar multas associadas ao meu veículo de forma rápida e precisa. |
-| ST03                | Should (Deveria) | Eu, como usuário, gostaria de poder pagar multas de trânsito de forma online, com diferentes métodos de pagamento aceitos. |
-| ST04                | Should (Deveria) | Eu, como usuário, gostaria de verificar as informações do meu veículo, incluindo licenciamento e impostos, de forma fácil e conveniente. |
-| ST05                | Could (Poderia) | Eu, como usuário, gostaria de receber dicas de segurança personalizadas para minha moto ou carro, de acordo com as condições de viagem. |
-| ST06                | Could (Poderia) | Eu, como usuário, gostaria de receber notificações em tempo real sobre atualizações nas leis de trânsito e outras informações importantes. |
-| ST07                | Should (Deveria) | Eu, como usuário, gostaria de agendar atendimento presencial no Detran para evitar longas filas e garantir um atendimento mais eficiente. |
-| ST08                | Should (Deveria) | Eu, como usuário, gostaria de poder alterar o endereço associado à minha CNH sem a necessidade de ir pessoalmente a um posto do Detran. |
-| ST09                | Should (Deveria) | Eu, como usuário, gostaria de poder alterar o endereço associado ao meu veículo sem a necessidade de ir pessoalmente a um posto do Detran. |
-| ST10                | Could (Poderia) | Eu, como usuário, gostaria de solicitar autorização de estacionamento para idoso por meio do aplicativo. |
-| ST11                | Should (Deveria) | Eu, como usuário, gostaria de consultar minha CNH para verificar sua validade, categoria e pontos de penalidade. |
-| ST12                | Should (Deveria) | Eu, como usuário, gostaria de consultar informações detalhadas sobre veículos, incluindo histórico de proprietários, débitos pendentes e informações do veículo. |
-| ST13                | Should (Deveria) | Eu, como usuário, gostaria de emitir o CRLV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) de forma rápida e fácil, sem precisar ir pessoalmente ao Detran. |
-| ST14                | Could (Poderia) | Eu, como usuário, gostaria de solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo. |
-| ST15                | Could (Poderia) | Eu, como usuário, gostaria de solicitar a segunda via do CRV (DUT) pelo aplicativo em caso de perda ou roubo do documento original. |
-| ST16                | Must (Deve)  | Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS. |
-| ST17                | Must (Deve)  | Eu, como usuário, desejo ter a segurança dos meus dados e dos dados do meu veículo. |
+| ADD13               | Must (Deve)  | Deve ser possível baixar os boletos com os débitos do meu veículo. |
+| ADD14               | Must (Deve)  | Deve ser possível realizar o pagamento dos boletos com os débitos do meu veículo. |
+| ADD15               | Must (Deve)  | Deve ser possível baixar os documentos do meu veículo. |
+| ADD16               | Must (Deve)  | Deve ser possível consultar os dados de veículos a partir do renavam. |
+| ADD17               | Must (Deve)  | Deve ser possível consultar os dados de veículos a partir da placa. |
+| ADD18               | Must (Deve)  | Deve ser possível baixar a minha CNH digital. |
+| ADD19               | Must (Deve)  | Deve ser possível realizar a transferência de veículo. |
+| ADD20               | Should (Deveria) | O aplicativo deverá guardar as informações de login do usuário. |
+| ADD21               | Must (Deve)  | Receber notificações automáticas sobre a proximidade da expiração da carteira de motorista. |
+| ADD22               | Must (Deve)  | Consultar multas associadas ao veículo de forma rápida e precisa. |
+| ADD23               | Must (Deve)  | Pagar multas de trânsito online, utilizando diferentes métodos de pagamento. |
+| ADD24               | Must (Deve)  | Verificar informações do veículo, incluindo licenciamento e impostos, de forma fácil e conveniente. |
+| ADD25               | Could (Poderia) | Receber dicas de segurança personalizadas para o veículo, baseadas nas condições de viagem. |
+| ADD26               | Could (Poderia) | Receber notificações em tempo real sobre atualizações nas leis de trânsito e outras informações relevantes. |
+| ADD27               | Should (Deveria) | Agendar atendimento presencial no Detran para evitar filas e garantir eficiência no atendimento. |
+| ADD28               | Should (Deveria) | Alterar o endereço associado à CNH sem a necessidade de ir pessoalmente a um posto do Detran. |
+| ADD29               | Should (Deveria) | Alterar o endereço associado ao veículo sem a necessidade de ir pessoalmente a um posto do Detran. |
+| ADD30               | Could (Poderia) | Solicitar autorização de estacionamento para idoso por meio do aplicativo. |
+| ADD31               | Should (Deveria) | Consultar a CNH para verificar sua validade, categoria e pontos de penalidade. |
+| ADD32               | Should (Deveria) | Consultar informações detalhadas sobre veículos, incluindo histórico de proprietários, débitos pendentes e informações do veículo. |
+| ADD33               | Should (Deveria) | Emitir o CRLV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) de forma rápida e fácil, sem precisar ir pessoalmente ao Detran. |
+| ADD34               | Could (Poderia) | Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo. |
 
 
+Fonte:Autores
 
 
 
