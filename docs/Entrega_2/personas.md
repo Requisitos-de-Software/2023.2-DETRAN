@@ -29,10 +29,16 @@ As personas são elaboradas a partir do perfil do usuário, desta forma o desenv
 # 3. Personas
 
 <p align="justify">
-Para representar os grupos de usuários do aplicativo, seus objetivos, expectativas e experiências elaboramos três personas e uma anti persona <a id="TEC2" href="#QT2">[3]</a>.
+Para representar os grupos de usuários do aplicativo, seus objetivos, expectativas e experiências elaboramos três personas e uma anti persona <a id="TEC3" href="#QT3">[3]</a>.
 </p>
 
 ## Juliana Ribeiro
+
+![Juliana Ribeiro](../../assets/juliana.png)
+<p align="center">
+    Imagem 01: Juliana Ribeiro<br>
+    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+</p>
 
 | Campo | Descrição |
 |:-----:|:---------:|
@@ -52,6 +58,12 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 ## Lucas Moreira
 
+![Lucas Moreira](../../assets/lucas.png)
+<p align="center">
+    Imagem 02: Lucas Moreira<br>
+    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+</p>
+
 | Campo | Descrição |
 |:-----:|:---------:|
 | Status | Persona Primária |
@@ -70,6 +82,12 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 ## Ana Luiza
 
+![Ana](../../assets/ana.png)
+<p align="center">
+    Imagem 03: Ana Luiza<br>
+    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+</p>
+
 | Campo | Descrição |
 |:-----:|:---------:|
 | Status | Persona Secundária |
@@ -87,6 +105,12 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 </p>
 
 ## José Silva
+
+![jose](../../assets/jose.png)
+<p align="center">
+    Imagem 01: José Silva<br>
+    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+</p>
 
 | Campo | Descrição |
 |:-----:|:---------:|
@@ -113,6 +137,8 @@ MJV Press, 2012. Personas - pg. 80
 
 > <a id="QT3" href="#anchor_3">[3]</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Cáp. 8.2 - Personas
 
+> <a id="QT4" href="#anchor_4">[4]</a> Geração de imagens disponível em: <https://thispersondoesnotexist.com/>
+
 # Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
@@ -120,3 +146,4 @@ MJV Press, 2012. Personas - pg. 80
 | 1.0    | 30/09/2023 | Adicionado introdução sobre personas | Vitor Borges | João Pedro |
 | 1.1    | 04/09/2023 | Adicionado perfil do usuário | Vitor Borges | João Pedro |
 | 1.2    | 04/09/2023 | Adicionado personas | Vitor Borges | João Pedro |
+| 1.3    | 04/09/2023 | Adicionado imagens das personas | Vitor Borges | João Pedro |
