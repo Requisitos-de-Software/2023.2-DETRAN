@@ -150,6 +150,7 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 
 ## Cronograma realizado
 
+## Entrega 1
 Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
 
 | Atividade realizada   | Data  | Autores                                        |
@@ -164,6 +165,22 @@ Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
 | Video de apresentação | 19/09 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 
 Tabela 9 - cronograma realizado da entrega 1. (Fonte: João Pedro Anacleto, 2023).
+
+## Entrega 2
+Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
+
+| Atividade realizada   | Data  | Autores                                        |
+|-----------------------|-------|------------------------------------------------|
+| Personas e Questionário             | 03/10 | Vitor                                          |
+| Cronograma realizado  | 04/10 | João Pedro                                     |
+| Storytelling          | 03/10 | João Gabriel                                   |
+| Elicitação Geral      | 04/10 | João Pedro                                     |
+| Moscow e First Things First        | 03/10 | Guilherme                                      |
+| Atas das Reuniões     | 03/10 | João Gabriel                                            |
+| Entrevista e In or Out            | 02/10 | Pedro                                          |
+| Video de apresentação | 04/10 | João Pedro,João Gabriel,Guilherme,Vitor,Pedro |
+
+Tabela 10 - cronograma realizado da entrega 2. (Fonte: João Pedro Anacleto, 2023).
 
 ## Bibliografia
 
