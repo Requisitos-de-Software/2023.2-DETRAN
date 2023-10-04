@@ -49,6 +49,8 @@ Legendas:
 * RNF: Requisito Não Funcional
 
 Tabela 1: Requisitos elicitados
+
+
 |  ID  | Descrição | Tipo | Implementados |
 | ---- | --------- | ---- | ------------- |
 | ST01 | Eu, como usuário, gostaria de receber notificações automáticas quando minha carteira de motorista estiver prestes a expirar. | RF | Sim |
@@ -69,6 +71,8 @@ Tabela 1: Requisitos elicitados
 | ST16 | Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS | RNF | Sim |
 | ST17 | Eu, como usuário, desejo ter a segurança dos meus dados e dos dados do meu veículo | RNF | Sim |
 
+
+
 Fonte: Grupo 7 - Detran Digital
 
 ## Explicação da Elicitação
@@ -83,4 +87,4 @@ Video Explicativo
 ## Histórico de Versão
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 03/10/23 |Storytelling                | João Gabriel Elvas  | |
+| 1.0    | 03/10/23 |Storytelling                | João Gabriel Elvas  | Vitor               |
