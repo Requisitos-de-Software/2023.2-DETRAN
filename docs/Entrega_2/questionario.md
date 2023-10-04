@@ -55,7 +55,7 @@ Após a divulgação do questionário em diversos grupos (faculdade, trabalho e 
 Os 23 participantes aceitaram o termo de consentimento.
 </p>
 
-![Questão 01](../../../assets/q1.png)
+![Questão 01](../../assets/q1.png)
 
 * Seção 02 | Verificação de Uso
 
@@ -63,7 +63,7 @@ Os 23 participantes aceitaram o termo de consentimento.
 A maioria dos participantes ou conhecem ou acessam o Detran de suas respectivas regiões.
 </p>
 
-![Questão 02](../../../assets/q2.png)
+![Questão 02](../../assets/q2.png)
 
 * Seção 03 | Dados demográficos
 
@@ -71,15 +71,15 @@ A maioria dos participantes ou conhecem ou acessam o Detran de suas respectivas 
 Essa seção mostra que os participantes são jovens entre 18 a 25 anos com certo conhecimento em tecnologia e ensino superior incompleto.
 </p>
 
-![Questão 03](../../../assets/q3.png)
+![Questão 03](../../assets/q3.png)
 
-![Questão 04](../../../assets/q4.png)
+![Questão 04](../../assets/q4.png)
 
-![Questão 05](../../../assets/q5.png)
+![Questão 05](../../assets/q5.png)
 
-![Questão 06](../../../assets/q6.png)
+![Questão 06](../../assets/q6.png)
 
-![Questão 07](../../../assets/q7.png)
+![Questão 07](../../assets/q7.png)
 
 * Seção 04 | Aplicativo Detran Digital
 
@@ -87,13 +87,38 @@ Essa seção mostra que os participantes são jovens entre 18 a 25 anos com cert
 Os participantes possuem em maioria CNH categoria AB, dirigem quatro vezes ou mais por semana e as principais funções utilizadas no app são as relacionadas a emissão de crlv-e, quitação de débitos e consulta de infrações.
 </p>
 
-![Questão 08](../../../assets/q8.png)
+![Questão 08](../../assets/q8.png)
 
-![Questão 09](../../../assets/q9.png)
+![Questão 09](../../assets/q9.png)
 
-![Questão 10](../../../assets/q10.png)
+![Questão 10](../../assets/q10.png)
 
-![Questão 11](../../../assets/q11.png)
+![Questão 11](../../assets/q11.png)
+
+# 4. Tabela de Requisitos
+
+## Tabela de requisitos
+A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
+
+RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
+
+RNF: Requisitos Não-Funcionais - Descrevem os atributos que o software deve ter, como desempenho, segurança e usabilidade, mas não descrevem o comportamento do software em si.
+
+RI: Requisitos de Interface - Descrevem as características da interface do usuário, como layout, navegação e personalização.
+
+RPR: Requisitos de Produto - Descrevem as características do produto, como compatibilidade, desempenho e custo.
+
+RR: Riscos - São os riscos associados ao desenvolvimento e uso do software.
+
+RT: Testes e Validações - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
+
+| Número do Requisito | Categoria              | Descrição                                                   |
+|---------------------|------------------------|-------------------------------------------------------------|
+| RQ1 | RF | Consultar informações sobre veículos |
+| RQ2 | RF | Consultar infrações |
+| RQ3 | RNF | Possuir os serviços de CNH a disposição no aplicativo |
+| RQ4 | RF | Emitir CRLV-e |
+| RQ5 | RF | Realizar agendamentos no detran |
 
 ## Referências
 > <a id="QT1" href="#anchor_1">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
@@ -106,3 +131,4 @@ Interação Humano-Computador e Experiência do usuário. Questionários - Pg. 1
 | 1.0    | 03/09/2023 | Adicionado introdução sobre questionários | Vitor Borges | João Gabriel |
 | 1.1    | 03/09/2023 | Adicionado estrutura do questionário | Vitor Borges | João Gabriel |
 | 1.2    | 03/09/2023 | Adicionado resultados do questionário | Vitor Borges | João Gabriel |
+| 1.2    | 04/09/2023 | Adicionado tabela de requisitos | Vitor Borges | João Gabriel |
