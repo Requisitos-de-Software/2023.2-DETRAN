@@ -128,7 +128,7 @@ Interação Humano-Computador e Experiência do usuário. Questionários - Pg. 1
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 03/09/2023 | Adicionado introdução sobre questionários | Vitor Borges | João Gabriel |
-| 1.1    | 03/09/2023 | Adicionado estrutura do questionário | Vitor Borges | João Gabriel |
-| 1.2    | 03/09/2023 | Adicionado resultados do questionário | Vitor Borges | João Gabriel |
-| 1.2    | 04/09/2023 | Adicionado tabela de requisitos | Vitor Borges | João Gabriel |
+| 1.0    | 03/10/2023 | Adicionado introdução sobre questionários | Vitor Borges | João Gabriel |
+| 1.1    | 03/10/2023 | Adicionado estrutura do questionário | Vitor Borges | João Gabriel |
+| 1.2    | 03/10/2023 | Adicionado resultados do questionário | Vitor Borges | João Gabriel |
+| 1.2    | 04/10/2023 | Adicionado tabela de requisitos | Vitor Borges | João Gabriel |
