@@ -634,6 +634,20 @@
   
   
     <li class="md-nav__item">
+      <a href="../requisitos_elicitados/" class="md-nav__link">
+        Requisitos elicitados
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../storytelling/" class="md-nav__link">
         Storytelling
       </a>
@@ -729,9 +743,17 @@
 <h1 id="first-thing-first">First Thing First</h1>
 <h2 id="introducao">Introdução</h2>
 <p>A abordagem "First Things First" em requisitos refere-se a uma estratégia de priorização no processo de desenvolvimento de software e gestão de requisitos. Essa abordagem enfatiza a importância de identificar e abordar primeiro os requisitos mais críticos e essenciais de um projeto, antes de lidar com requisitos menos importantes.</p>
+<p>Passo 1: Liste todos os requisitos, funcionalidades ou casos de uso que você deseja priorizar em uma planilha. Certifique-se de que todos os itens estejam no mesmo nível de abstração, ou seja, não misture requisitos individuais com funcionalidades do produto. Se certas funcionalidades estiverem logicamente relacionadas, inclua apenas a funcionalidade principal na análise. Se você tiver mais itens do que o gerenciável, agrupe funcionalidades relacionadas para criar uma lista inicial mais gerenciável. Você pode fazer uma segunda análise em um nível mais detalhado de requisitos, se necessário.</p>
+<p>Passo 2: Estime o benefício relativo que cada funcionalidade oferece ao cliente ou ao negócio em uma escala de 1 a 9, onde 1 indica muito pouco benefício e 9 é o benefício máximo possível. Esses benefícios indicam a adequação aos requisitos de negócios do produto. Seus representantes de clientes são as melhores pessoas para julgar esses benefícios.</p>
+<p>Passo 3: Estime a penalidade relativa que o cliente ou o negócio sofreria se a funcionalidade não fosse incluída, usando novamente uma escala de 1 a 9, onde 1 significa essencialmente nenhuma penalidade e 9 indica uma desvantagem muito séria. Por exemplo, não cumprir uma regulamentação governamental pode incorrer em uma penalidade alta, mesmo que o benefício para o cliente seja baixo. Requisitos que têm tanto baixo benefício quanto baixa penalidade adicionam custo, mas pouco valor; eles podem ser casos de "gold plating" (adicionar recursos sem necessidade).</p>
+<p>Passo 4: A coluna de "Valor Total" é a soma do benefício relativo e da penalidade relativa. Por padrão, benefício e penalidade têm o mesmo peso. Você pode ajustar os pesos desses dois fatores. A planilha totaliza os valores das funcionalidades e calcula a porcentagem do valor total do produto que é atribuída a cada funcionalidade.</p>
+<p>Passo 5: Estime o custo relativo de implementação de cada funcionalidade, novamente em uma escala de 1 a 9. A planilha calculará a porcentagem do custo total para cada funcionalidade. Os desenvolvedores estimam as classificações de custo com base em fatores como complexidade do requisito, trabalho na interface do usuário, potencial para reutilização de designs ou código existentes e níveis de teste e documentação necessários.</p>
+<p>Passo 6: Os desenvolvedores estimam o grau relativo de risco técnico ou outro risco associado a cada funcionalidade em uma escala de 1 a 9. Uma estimativa de 1 significa que você pode programar isso sem dificuldades, enquanto 9 indica preocupações sérias com a viabilidade, disponibilidade de pessoal com a experiência necessária ou o uso de ferramentas e tecnologias não comprovadas ou desconhecidas. A planilha calculará a porcentagem do risco total que vem de cada funcionalidade.</p>
+<p>Por padrão, custo e risco têm o mesmo peso e cada um tem o mesmo peso que os termos de benefício e penalidade. Você pode ajustar os pesos de custo e risco na planilha.</p>
+<p>Passo 7: Depois de inserir as estimativas na planilha, ela calculará um número de prioridade para cada funcionalidade. A fórmula para a coluna de Prioridade é: prioridade = valor % / (custo % * peso do custo + risco % * peso do risco).</p>
+<p>Passo 8: Ordene a lista de funcionalidades em ordem decrescente de prioridade calculada. As funcionalidades no topo da lista têm o equilíbrio mais favorável entre valor, custo e risco e, portanto, devem ter prioridade mais alta na implementação. Os representantes-chave de clientes e desenvolvedores devem revisar a planilha concluída para concordar com as classificações e a sequência resultante.</p>
 <h2 id="detran">Detran</h2>
 <p>A seguir se encontra a <em>tabela 1</em>  com a tabela levantada pela equipe para o aplicativo Detran</p>
-<p><em>tabela 1</em></p>
 <table>
 <thead>
 <tr>
@@ -745,6 +767,7 @@
 <th>Risco Relativo</th>
 <th>Risco Relativo %</th>
 <th>Prioridade</th>
+<th>Requisitos</th>
 </tr>
 </thead>
 <tbody>
@@ -753,100 +776,305 @@
 <td>9</td>
 <td>9</td>
 <td>18</td>
-<td>14.76</td>
+<td>14.76%</td>
 <td>3</td>
-<td>6.98</td>
+<td>6.98%</td>
 <td>2</td>
-<td>5.13</td>
-<td>1.636363636</td>
+<td>5.13%</td>
+<td>1.636</td>
+<td>ADD3, ADD6, ST11</td>
 </tr>
 <tr>
 <td>CRLV digital</td>
 <td>8</td>
 <td>9</td>
 <td>17</td>
-<td>13.84</td>
+<td>13.84%</td>
 <td>4</td>
-<td>9.30</td>
+<td>9.30%</td>
 <td>4</td>
-<td>10.26</td>
-<td>0.860215054</td>
+<td>10.26%</td>
+<td>0.860</td>
+<td>ADD12, ST13, PE01, PE03, ST12</td>
 </tr>
 <tr>
 <td>Vencimento da CNH</td>
 <td>6</td>
 <td>6</td>
 <td>12</td>
-<td>9.84</td>
+<td>9.84%</td>
 <td>6</td>
-<td>13.95</td>
+<td>13.95%</td>
 <td>5</td>
-<td>17.95</td>
-<td>0.705882353</td>
+<td>17.95%</td>
+<td>0.705</td>
+<td>ADD3, ST11</td>
 </tr>
 <tr>
 <td>Gerenciamento de infrações e multas</td>
 <td>7</td>
 <td>8</td>
 <td>15</td>
-<td>12.3</td>
+<td>12.3%</td>
 <td>8</td>
-<td>18.60</td>
+<td>18.60%</td>
 <td>7</td>
-<td>20.51</td>
-<td>0.660377358</td>
+<td>20.51%</td>
+<td>0.660</td>
+<td>PE04, PE05, ST02, ST03, ST12, ADD4</td>
 </tr>
 <tr>
 <td>Indicação de principal condutor</td>
 <td>5</td>
 <td>4</td>
 <td>9</td>
-<td>7.38</td>
+<td>7.38%</td>
 <td>9</td>
-<td>20.93</td>
+<td>20.93%</td>
 <td>9</td>
-<td>23.08</td>
-<td>0.238095238</td>
+<td>23.08%</td>
+<td>0.238</td>
+<td>ADD7</td>
 </tr>
 <tr>
 <td>Notificação de recall</td>
 <td>3</td>
 <td>2</td>
 <td>5</td>
-<td>4.1</td>
+<td>4.1%</td>
 <td>4</td>
-<td>9.30</td>
+<td>9.30%</td>
 <td>4</td>
-<td>12.82</td>
-<td>0.222222222</td>
+<td>12.82%</td>
+<td>0.222</td>
+<td>ADD11</td>
 </tr>
 <tr>
 <td>Histórico de emissão da CNH</td>
 <td>3</td>
 <td>3</td>
 <td>6</td>
-<td>4.92</td>
+<td>4.92%</td>
 <td>9</td>
-<td>20.93</td>
+<td>20.93%</td>
 <td>8</td>
-<td>23.08</td>
-<td>0.195121951</td>
+<td>23.08%</td>
+<td>0.195</td>
+<td>ADD12, ST11</td>
 </tr>
 <tr>
-<td><strong>Total</strong></td>
-<td><strong>41</strong></td>
-<td><strong>41</strong></td>
-<td><strong>82</strong></td>
-<td><strong>100</strong></td>
-<td><strong>43</strong></td>
-<td><strong>100</strong></td>
-<td><strong>39</strong></td>
-<td><strong>100</strong></td>
-<td><strong>5.420289855</strong></td>
+<td>Segurança de Dados</td>
+<td>5</td>
+<td>4</td>
+<td>9</td>
+<td>7.38%</td>
+<td>7</td>
+<td>16.28%</td>
+<td>8</td>
+<td>23.08%</td>
+<td>0.238</td>
+<td>ADD8, ST17</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>46</td>
+<td>45</td>
+<td>91</td>
+<td>100%</td>
+<td>48</td>
+<td>100%</td>
+<td>39</td>
+<td>100%</td>
+<td>5.420</td>
+<td>-</td>
 </tr>
 </tbody>
 </table>
 <p>Fonte:Autores</p>
+<p>A <em>Tabela 2</em> abaixo indica a legenda dos codigos dos requisitos:</p>
+<p><em>Tabela 2</em></p>
+<table>
+<thead>
+<tr>
+<th>Número do Requisito</th>
+<th>Categoria</th>
+<th>Requisito</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ADD1</td>
+<td>RF</td>
+<td>Baixar o aplicativo em sistemas Android (versão 5 ou superior) e iOS.</td>
+</tr>
+<tr>
+<td>ADD2</td>
+<td>RF</td>
+<td>Permitir cadastrro no Portal de Serviços, exigindo um endereço de e-mail válido.</td>
+</tr>
+<tr>
+<td>ADD3</td>
+<td>RF</td>
+<td>Oferecer opção de alteração de senha no aplicativo.</td>
+</tr>
+<tr>
+<td>ADD4</td>
+<td>RF</td>
+<td>Disponibilizar variedade de serviços relacionados à CNH e veículos.</td>
+</tr>
+<tr>
+<td>ADD5</td>
+<td>RNF</td>
+<td>Garantir compatibilidade com Android 5 ou superior.</td>
+</tr>
+<tr>
+<td>ADD6</td>
+<td>RNF</td>
+<td>Assegurar compatibilidade com iOS.</td>
+</tr>
+<tr>
+<td>ADD7</td>
+<td>RI</td>
+<td>Projetar interface fácil de usar para cadaAstro no Portal de Serviços.</td>
+</tr>
+<tr>
+<td>ADD8</td>
+<td>RI</td>
+<td>Criar interface para alteração de senha de forma intuitiva e segura.</td>
+</tr>
+<tr>
+<td>ADD9</td>
+<td>RI</td>
+<td>Apresentar opções de serviço de forma clara e acessível aos usuários.</td>
+</tr>
+<tr>
+<td>ADD10</td>
+<td>RPR</td>
+<td>Garantir desempenho aceitável em dispositivos Android e iOS.</td>
+</tr>
+<tr>
+<td>ADD11</td>
+<td>RR</td>
+<td>Risco associado à segurança da alteração de senha e envio de e-mails.</td>
+</tr>
+<tr>
+<td>ADD12</td>
+<td>RT</td>
+<td>Realizar testes para validação de funcionalidades do aplicativo.</td>
+</tr>
+<tr>
+<td>ADD13</td>
+<td>RF</td>
+<td>Deve ser possível baixar os boletos com os débitos do meu veículo.</td>
+</tr>
+<tr>
+<td>ADD14</td>
+<td>RF</td>
+<td>Deve ser possível realizar o pagamento dos boletos com os débitos do meu veículo.</td>
+</tr>
+<tr>
+<td>ADD15</td>
+<td>RF</td>
+<td>Deve ser possível baixar os documentos do meu veículo.</td>
+</tr>
+<tr>
+<td>ADD16</td>
+<td>RF</td>
+<td>Deve ser possível consultar os dados de veículos a partir do renavam.</td>
+</tr>
+<tr>
+<td>ADD17</td>
+<td>RF</td>
+<td>Deve ser possível consultar os dados de veículos a partir da placa.</td>
+</tr>
+<tr>
+<td>ADD18</td>
+<td>RF</td>
+<td>Deve ser possível baixar a minha CNH digital.</td>
+</tr>
+<tr>
+<td>ADD19</td>
+<td>RF</td>
+<td>Deve ser possível realizar a transferência de veículo.</td>
+</tr>
+<tr>
+<td>ADD20</td>
+<td>RNF</td>
+<td>O aplicativo deverá guardar as informações de login do usuário.</td>
+</tr>
+<tr>
+<td>ADD21</td>
+<td>RF</td>
+<td>Receber notificações automáticas sobre a proximidade da expiração da carteira de motorista.</td>
+</tr>
+<tr>
+<td>ADD22</td>
+<td>RF</td>
+<td>Consultar multas associadas ao veículo de forma rápida e precisa.</td>
+</tr>
+<tr>
+<td>ADD23</td>
+<td>RF</td>
+<td>Pagar multas de trânsito online, utilizando diferentes métodos de pagamento.</td>
+</tr>
+<tr>
+<td>ADD24</td>
+<td>RF</td>
+<td>Verificar informações do veículo, incluindo licenciamento e impostos, de forma fácil e conveniente.</td>
+</tr>
+<tr>
+<td>ADD25</td>
+<td>RF</td>
+<td>Receber dicas de segurança personalizadas para o veículo, baseadas nas condições de viagem.</td>
+</tr>
+<tr>
+<td>ADD26</td>
+<td>RF</td>
+<td>Receber notificações em tempo real sobre atualizações nas leis de trânsito e outras informações relevantes.</td>
+</tr>
+<tr>
+<td>ADD27</td>
+<td>RF</td>
+<td>Agendar atendimento presencial no Detran para evitar filas e garantir eficiência no atendimento.</td>
+</tr>
+<tr>
+<td>ADD28</td>
+<td>RF</td>
+<td>Alterar o endereço associado à CNH sem a necessidade de ir pessoalmente a um posto do Detran.</td>
+</tr>
+<tr>
+<td>ADD29</td>
+<td>RF</td>
+<td>Alterar o endereço associado ao veículo sem a necessidade de ir pessoalmente a um posto do Detran.</td>
+</tr>
+<tr>
+<td>ADD30</td>
+<td>RF</td>
+<td>Solicitar autorização de estacionamento para idoso por meio do aplicativo.</td>
+</tr>
+<tr>
+<td>ADD31</td>
+<td>RF</td>
+<td>Consultar a CNH para verificar sua validade, categoria e pontos de penalidade.</td>
+</tr>
+<tr>
+<td>ADD32</td>
+<td>RF</td>
+<td>Consultar informações detalhadas sobre veículos, incluindo hiAstórico de proprietários, débitos pendentes e informações do veículo.</td>
+</tr>
+<tr>
+<td>ADD33</td>
+<td>RF</td>
+<td>Emitir o CRLV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) de forma rápida e fácil, sem precisar ir pessoalmente ao Detran.</td>
+</tr>
+<tr>
+<td>ADD34</td>
+<td>RF</td>
+<td>Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo.</td>
+</tr>
+</tbody>
+</table>
+<p>fonte:Autores</p>
 <h2 id="referencias">Referências</h2>
 <blockquote>
 <p>First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 02 de Outubro de 2023. </p>
@@ -868,7 +1096,14 @@
 <td>30/09/2023</td>
 <td>Adicionado tabela e introduçã0</td>
 <td>Guilherme Nishimura</td>
-<td>-</td>
+<td>João Pedro</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>03/10/2023</td>
+<td>Adicionando a tabela aos requisitos</td>
+<td>Guilherme Nishimura</td>
+<td>João Pedro</td>
 </tr>
 </tbody>
 </table>
