@@ -31,7 +31,7 @@
 
 ## Gravação da reunião
 
-[Clique aqui]()
+[Clique aqui](https://youtu.be/deEODoLkxk4)
 
 # Histórico de versão
 
