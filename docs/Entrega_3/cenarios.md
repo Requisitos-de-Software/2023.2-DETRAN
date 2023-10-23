@@ -1,4 +1,4 @@
-# Análise de documentos
+# Cenários
 
 ## Introdução
 
@@ -22,6 +22,32 @@ Tabela 01 - Modelo padrão para descrição de cenários (Fonte: [1])
 
 Obs: Um episódio também pode se referir a outro cenário, o mesmo também pode apresentar restrições ou exceções.
 
+## Descrição dos Cenários
+
+### C01 - Baixar documentos do veículo
+
+| Item | Descrição |
+|:----:|:---------:|
+| Objetivo | Realizar download dos documentos do veículo |
+| Contexto | Local: casa, blitz policial <br> Tempo: durante o dia <br> Restrições: acesso a internet e possuir o app instalado |
+| Recursos | Celular, Internet |
+| Atores | Usuário |
+| Episódios | 1. Usuário deseja imprimir uma cópia fisíca do documento para deixar em seu veículo. <br> 2. Usuário deseja enviar as informações do veículo para um terceiro <br> 3. Usuário necessita apresentar o documento em um orgão do governo ou em uma blitz policial |
+
+Tabela 02 - Descrição do cenário 01 (Fonte: Vitor Borges)
+
+### C02 - Acessar CNH
+
+| Item | Descrição |
+|:----:|:---------:|
+| Objetivo | Ter a disposição uma versão digital de sua própria CNH |
+| Contexto | Local: casa, blitz policial <br> Tempo: durante o dia <br> Restrições: acesso a internet e possuir o app instalado |
+| Recursos | Celular, Internet |
+| Atores | Usuário |
+| Episódios | 1. Usuário deseja visualizar se sua CNH está próxima da data de renovação <br> 2. Usuário deseja consultar as informações de sua CNH <br> 3. Usuário necessita apresentar um documento de identificação com foto <br> 4. Usuário necessita apresentar o documento em um orgão do governo ou em uma blitz policial |
+
+Tabela 03 - Descrição do cenário 02 (Fonte: Vitor Borges)
+
 ## Bibliografia
 
 [1] Cenários - Rastreamento de Cenários. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 23 de outubro de 2023.
@@ -30,3 +56,4 @@ Obs: Um episódio também pode se referir a outro cenário, o mesmo também pode
 | ------ | ---------- | ----------------- | --------------------------------------------------- | -------------- |
 | 1.0    | 23/10/2023 | Vitor Borges | Criação do documento | Guilherme |
 | 1.1    | 23/10/2023 | Vitor Borges | Adição do modelo padrão para descrição de cenários | Guilherme |
+| 1.2    | 23/10/2023 | Vitor Borges | Adição de cenários | Guilherme |
