@@ -36,7 +36,7 @@ Obs: Um episódio também pode se referir a outro cenário, o mesmo também pode
 
 Tabela 02 - Descrição do cenário 01 (Fonte: Vitor Borges)
 
-### C02 - Acessar CNH
+### C02 - Gerar CNH digital
 
 | Item | Descrição |
 |:----:|:---------:|
