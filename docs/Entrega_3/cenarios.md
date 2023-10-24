@@ -48,6 +48,30 @@ Tabela 02 - Descrição do cenário 01 (Fonte: Vitor Borges)
 
 Tabela 03 - Descrição do cenário 02 (Fonte: Vitor Borges)
 
+### C03 - Consultar infrações
+
+| Item | Descrição |
+|:----:|:---------:|
+| Objetivo | Realizar a consulta das infrações do veículo |
+| Contexto | Local: casa, blitz policial <br> Tempo: o dia todo <br> Restrições: acesso a internet e possuir o app instalado |
+| Recursos | Celular, Internet |
+| Atores | Usuário |
+| Episódios | 1. Usuário deseja realizar consulta das infrações do veículo para saber quais infrações ele irá realizar a quitação. <br> 2. Usuário deseja enviar as informações do veículo para um terceiro <br> 3. Usuário necessita apresentar suas infrações em um orgão do governo ou em uma blitz policial <br> 4. Usuário quer saber se ele adquiriu alguma infração nova nos últimos dias. |
+
+Tabela 04 - Descrição do cenário 03 (Fonte: Pedro Campos)
+
+### C04 - Emitir CRLV-e
+
+| Item | Descrição |
+|:----:|:---------:|
+| Objetivo | Possuir a CRLV-e para ficar amparado às leis do país ou necessita apresentar o documento em algum órgão fiscalizador. |
+| Contexto | Local: casa, blitz policial <br> Tempo: durante o dia <br> Restrições: acesso a internet e possuir o app instalado |
+| Recursos | Celular, Internet |
+| Atores | Usuário |
+| Episódios | 1. Usuário necessita do documento para comprovar que ele é o dono do respectivo bem e que possui todos os direitos do licenciamento do veículo. <br> 2. Usuário deseja vender seu veículo.|
+
+Tabela 05 - Descrição do cenário 04 (Fonte: Pedro Campos)
+
 ## Bibliografia
 
 [1] Cenários - Rastreamento de Cenários. Disponível em: http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 23 de outubro de 2023.
