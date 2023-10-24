@@ -81,3 +81,4 @@ Tabela 05 - Descrição do cenário 04 (Fonte: Pedro Campos)
 | 1.0    | 23/10/2023 | Vitor Borges | Criação do documento | Guilherme |
 | 1.1    | 23/10/2023 | Vitor Borges | Adição do modelo padrão para descrição de cenários | Guilherme |
 | 1.2    | 23/10/2023 | Vitor Borges | Adição de cenários | Guilherme |
+| 1.3    | 23/10/2023 | Pedro Campos | Adição de cenários: CRLV-e e Infrações | Guilherme |
