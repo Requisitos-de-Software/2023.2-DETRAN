@@ -4,12 +4,14 @@
 O Detran Digital é um aplicativo móvel desenvolvido para proporcionar aos usuários um acesso fácil e conveniente a uma variedade de serviços relacionados a veículos e habilitação. Esta especificação suplementar estabelece os requisitos adicionais e as expectativas para o Detran Digital, com o objetivo de garantir a funcionalidade, segurança e usabilidade do aplicativo.
 
 ## Metodologia 
-Para elaborar este documento, adotaremos uma versão adaptada do FURPS+. Nessa metodologia, os requisitos são divididos em categorias específicas: Funcionalidade (F), Usabilidade (U), Confiabilidade (R), Desempenho (P) e Suportabilidade (S). Além disso, incluímos requisitos não-funcionais como Design, Implementação e Interface. Vale destacar que, nesta versão, omitiremos os requisitos de interface, bem como a seção de componentes adquiridos. Isso se deve ao fato de que esses atributos já estão especificados em outros documentos, como os requisitos não-funcionais obtidos por meio de técnicas como Observação, Introspecção, Questionário e Brainstorming.
+Para elaborar este documento, adotaremos uma versão adaptada do FURPS+. Nessa metodologia, os requisitos são divididos em categorias específicas: Funcionalidade (F), Usabilidade (U), Confiabilidade (R), Desempenho (P) e Suportabilidade (S). Além disso, incluímos requisitos não-funcionais como Design, Implementação e Interface.
 
 ## Funcionalidade
 Os requisitos funcionais estão definidos por meio dos [Casos de uso](docs/Entrega_3/casos_de_uso.md).
 
 ## Usabilidade
+
+_Tabela 1: Usabilidade_
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -24,6 +26,8 @@ _Fonte: João Gabriel Elvas_
 
 ## Confiabilidade 
 
+_Tabela 2: Confiabilidade_
+
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
 |CON01|O sistema deve estar disponível 24/7, com tempo de inatividade mínimo para garantir que os usuários possam acessá-lo sempre que precisarem.|
@@ -36,6 +40,8 @@ _Fonte: João Gabriel Elvas_
 
 ## Desempenho 
 
+_Tabela 3: Desempenho_
+
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
 |DES01|O aplicativo deve apresentar tempos de resposta rápidos para todas as interações do usuário, garantindo uma experiência sem atrasos ou lentidões.|
@@ -47,6 +53,8 @@ _Fonte: João Gabriel Elvas_
 _Fonte: João Gabriel Elvas_
 
 ## Suportabilidade  
+
+_Tabela 4: Suportabilidade_
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -61,6 +69,8 @@ _Fonte: João Gabriel Elvas_
 
 ## Design  
 
+_Tabela 5: Design_
+
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
 |DES01|O aplicativo deve seguir a paleta de cores definida.|
@@ -72,6 +82,8 @@ _Fonte: João Gabriel Elvas_
 
 ## Implementação  
 
+_Tabela 6: Implementação_
+
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
 |IMP01|O aplicativo deve ser compatível com os sistemas Android e IOS.|
@@ -80,6 +92,8 @@ _Fonte: João Gabriel Elvas_
 _Fonte: João Gabriel Elvas_
 
 ## Interface  
+
+_Tabela 7: Interface_
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -94,3 +108,4 @@ _Fonte: João Gabriel Elvas_
 | Versão | Data       | Descrição             | Autor              | Revisor             |
 | ------ | ---------- | --------------------  | ------------------ | ------------------- |
 | 1.0    | 24/10/2023 |Criação documento      | João Gabriel Elvas | João Pedro          |
+| 1.1    | 25/10/2023 |Legenda tabelas        | João Gabriel Elvas | João Pedro          |
