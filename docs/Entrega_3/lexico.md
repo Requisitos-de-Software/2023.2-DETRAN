@@ -117,6 +117,42 @@ A seguir com base na *tabela 1* acima ,foi gerado pela equipe os léxicos:
 
 *Fonte :Autores proprios*
 
+## L15: E-mail
+**Tabela 16 - E-mail**
+
+| Campo       | Sinônimos                                   | Descrição                                                   | Observações                                                                | Tipo   | Campos Relacionados                  |
+|-------------|--------------------------------------------|-------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------------------------------------|
+| L5: E-mail  | Correio eletrônico, mensagem eletrônica, email | Comunicação escrita que é enviada ou recebida por meio de um serviço online | O e-mail é um meio de comunicação entre o usuário e o Detran, e deve ser usado para confirmar o cadastro no Portal de Serviços, enviar a senha do aplicativo e outras informações relevantes | Objeto | ADD2, ADD3, ADD11 |
+
+*Fonte :Autores proprios*
+
+## L16: Multa
+**Tabela 17 - Multa**
+
+| Campo      | Sinônimos                         | Descrição                                                                                               | Observações                                                                | Tipo   | Campos Relacionados                  |
+|------------|----------------------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------------------------------------|
+| L6: Multa  | Penalidade, infração, sanção     | Valor que deve ser pago pelo usuário por cometer uma irregularidade no trânsito, como excesso de velocidade, estacionamento proibido ou dirigir sem CNH | A multa é uma consequência negativa para o usuário que desrespeita as leis de trânsito, e deve ser paga para evitar maiores problemas. O aplicativo deve permitir ao usuário consultar e pagar as multas associadas ao seu veículo online | Objeto | ADD22, ADD23 |
+
+*Fonte :Autores proprios*
+
+## L17: Expirado
+**Tabela 19 - Expirado**
+
+| Campo      | Sinônimos                         | Descrição                                                                                     | Observações                                                                | Tipo   | Campos Relacionados                  |
+|------------|----------------------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------------------------------------|
+| L7: Expirado | Vencido, ultrapassado, caducado | Qualidade de algo que está fora do prazo de validade, que não é mais reconhecido como legítimo e que perdeu o efeito jurídico | Algo expirado não tem mais valor ou credibilidade perante as autoridades e a sociedade, e não pode ser usado para comprovar uma situação ou condição. O aplicativo deve permitir ao usuário receber notificações automáticas sobre a proximidade da expiração da sua CNH, e deve impedir o usuário de baixar a sua CNH digital se ela estiver expirada | Estado | ADD18, ADD21 |
+
+
+## L18: Pendente
+**Tabela 29 - Pendente**
+
+| Campo      | Sinônimos                         | Descrição                                                                                   | Observações                                                                | Tipo   | Campos Relacionados                  |
+|------------|----------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------------------------------------|
+| L8: Pendente | Devido, atrasado, em aberto | Qualidade de algo que ainda não foi pago ou resolvido, e que gera uma dívida ou uma obrigação para o usuário | Algo pendente gera uma situação irregular para o usuário perante o Detran e outras entidades, e pode acarretar em penalidades ou restrições. O aplicativo deve permitir ao usuário consultar os débitos pendentes do seu veículo, como impostos, licenciamento e multas, e deve permitir ao usuário pagar esses débitos online | Estado | ADD13, ADD14, ADD23, ADD24, ADD32 |
+
+*Fonte :Autores proprios*
+
+
 ## Referências
 > Slides disponibilizados pelo professor da disciplina, “Modelagem parte 1, Requisitos - Aula 10” - Milene Serrano. Acesso em: 22 Out. 2023.
 
