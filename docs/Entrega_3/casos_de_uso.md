@@ -42,7 +42,7 @@ Figura 4: Elemento comunicação.
 
 ## Casos de uso
 
-![casos de uso](https://i.ibb.co/ZJ4WG4j/casos-de-uso-Detran.png)
+![casos de uso](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/assets/casos_de_uso_Detran.png)
  
 Figura 5: Diagrama de casos de uso.
 
