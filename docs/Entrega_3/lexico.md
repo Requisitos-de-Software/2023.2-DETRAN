@@ -158,4 +158,4 @@ A seguir com base na *tabela 1* acima ,foi gerado pela equipe os léxicos:
 
 | Versão | Data       | Autor             | Alterações                                          | Revisor        |
 | ------ | ---------- | ----------------- | --------------------------------------------------- | -------------- |
-| 1.0    | 24/10/2023 | Guilherme Nishimura| Criação do documento | -|
+| 1.0    | 24/10/2023 | Guilherme Nishimura| Criação do documento |Vitor e Pedro|
