@@ -10,7 +10,7 @@ Foi criada uma tabela semelhante à *tabela 1* abaixo para facilitar a compreens
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação | ID dos requisitos |
 | --- | --- | --- | --- | --- | --- |
-| Nome que o léxico irá possuir | Sinônimo do léxico | Noção do léxico | Impacto do léxico | Classificação em Objeto, Verbo ou | ID dos requisitos |
+| Nome que o léxico irá possuir | Sinônimo do léxico | Noção do léxico | Impacto do léxico | Classificação em Objeto, Verbo ou Estado | ID dos requisitos |
 
 *Fonte: Autores próprios*
 
@@ -180,7 +180,7 @@ A seguir, com base na *tabela 1* acima, foram gerados pela equipe os léxicos:
 
 ### L17: Expirado
 
-**Tabela 19 - Expirado**
+**Tabela 18 - Expirado**
 
 | Campo | Sinônimos | Descrição | Observações | Tipo | Campos Relacionados |
 | --- | --- | --- | --- | --- | --- |
