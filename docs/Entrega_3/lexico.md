@@ -4,7 +4,7 @@
 Léxico é um conjunto de termos, palavras e símbolos que são usados para descrever um sistema ou software. Esses termos são escolhidos para serem precisos e não ambíguos, para que todos os envolvidos no projeto possam entender o que está sendo discutido.
 
 ## Metodologia
-Foi criada uma tabela semelhante à *tabela 1* abaixo para facilitar a compreensão desses termos com base nos requisitos já elicidados pelo grupo em [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-DETRAN/blob/main/docs/Entrega_2/requisitos_elicitados.md).
+Foi criada uma tabela semelhante à *tabela 1* abaixo para facilitar a compreensão desses termos com base nos requisitos já elicitados pelo grupo em [Requisitos Elicitados](https://github.com/Requisitos-de-Software/2023.2-DETRAN/blob/main/docs/Entrega_2/requisitos_elicitados.md).
 
 *Tabela 1 - Exemplo*
 
