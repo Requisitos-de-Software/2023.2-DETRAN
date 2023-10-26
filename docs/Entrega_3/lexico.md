@@ -18,13 +18,14 @@ Foi criada uma tabela semelhante à *tabela 1* abaixo para facilitar a compreens
 
 A seguir, com base na *tabela 1* acima, foram gerados pela equipe os léxicos:
 
-### L1: Aplicativo
+### L1: Usuario
 
-*Tabela 2 - Aplicativo*
+*Tabela 2 - usuario*
+
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação | ID dos requisitos |
 | --- | --- | --- | --- | --- | --- |
-| Aplicativo | App, aplicação, software | Programa que permite ao usuário acessar os serviços do Detran pelo celular ou tablet | O aplicativo é o principal meio de interação entre o usuário e o Detran e deve oferecer funcionalidades úteis, seguras e confiáveis | Objeto | ADD1, ADD2, ADD3, ADD4, ADD5, ADD6, ADD7, ADD8, ADD9, ADD10, ADD11, ADD12 |
+| Usuario | Cliente | Pessoa que ira utilizar o aplicativo | Usuario que que possui CNH ou deseja verificar situação do veiculo que é a pessoa ativa que irá utilizar o aplicativo Detran .| Objeto | ADD1, ADD2, ADD3, ADD4, ADD5, ADD6, ADD7, ADD8, ADD9, ADD10, ADD11, ADD12 |
 
 *Fonte: Autores próprios*
 
