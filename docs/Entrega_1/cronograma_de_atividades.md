@@ -49,6 +49,24 @@ atividade, responsáveis e período de gravação da apresentação), Rich Pictu
 
 Tabela 2 - Itens realizados na entrega 1. (Fonte: João Pedro Anacleto, 2023).
 
+
+### Cronograma realizado Entrega 1
+Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
+
+| Atividade realizada   | Data  | Autores                                        |
+|-----------------------|-------|------------------------------------------------|
+| Cronograma            | 14/09 | João Pedro                                     |
+| Cronograma realizado  | 21/09 | João Pedro                                     |
+| Lista de aplicativos  | 18/09 | João Gabriel                                   |
+| Ferramentas           | 14/09 | João Pedro                                     |
+| Rich picture          | 18/09 | Guilherme                                      |
+| Atas das Reuniões     | 15/09 | Vitor                                          |
+| GitPage               | 19/09 | Pedro                                          |
+| Video de apresentação | 19/09 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
+
+Tabela 9 - cronograma realizado da entrega 1. (Fonte: João Pedro Anacleto, 2023).
+
+
 ## Entrega 2
 
 A Tabela 3 mostra as atividades planejadas para a entrega 2, além de seus autores, revisores e datas de entrega.
@@ -68,6 +86,23 @@ projeto.*
 | Gravação da apresentação                      | 21/09   | 04/10   | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                         | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                            |
 
 Tabela 3 - Itens realizados na entrega 2. (Fonte: João Pedro Anacleto, 2023).
+
+### Cronograma realizado entrega 2
+Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
+
+| Atividade realizada   | Data  | Autores                                        |
+|-----------------------|-------|------------------------------------------------|
+| Personas e Questionário             | 03/10 | Vitor                                          |
+| Cronograma realizado  | 04/10 | João Pedro                                     |
+| Storytelling          | 03/10 | João Gabriel                                   |
+| Elicitação Geral e Analise de Documentos     | 04/10 | João Pedro                                     |
+| Moscow e First Things First        | 03/10 | Guilherme                                      |
+| Atas das Reuniões     | 03/10 | João Gabriel                                            |
+| Entrevista e In or Out            | 02/10 | Pedro                                          |
+| Video de apresentação | 04/10 | João Pedro,João Gabriel,Guilherme,Vitor,Pedro |
+
+Tabela 10 - cronograma realizado da entrega 2. (Fonte: João Pedro Anacleto, 2023).
+
 
 ## Entrega 3 
 
@@ -103,6 +138,24 @@ Framework)*
 
 Tabela 5 - Itens realizados na entrega 4. (Fonte: João Pedro Anacleto, 2023).
 
+### Cronograma realizado entrega 4 
+
+| Atividade                                                                                                             | Início | Fim | Autores                  | Revisores |
+|-----------------------------------------------------------------------------------------------------------------------|--------|-----|--------------------------|-----------|
+| Histórias de usuário                                                                                                  |        |     | João Gabriel e Pedro     |           |
+| Backlog                                                                                                               |        |     | Vitor e Guilherme        |           |
+| NFR Framework                                                                                                         |        |     | João Pedro e Vitor       |           |
+| Correção: Refazer casos de uso e alterar cenario para sistema                                                         |        |     | João Pedro e Guilherme   |           |
+| Correção:Especificar aonde usar cada ferramenta do projeto                                                            |        |     | João Pedro               |           |
+| Correção: lexicos (add hyperlinks,especificar usuario,redundancia de verbos)                                          |        |     | Guilherme e João Gabriel |           |
+| Correção:Padronizacao (historico de versão,tabelas .. etc).Base checklist                                             |        |     | Vitor e Pedro            |           |
+| Adcionar cronograma realizado entrega 3                                                                               |        |     | João Pedro               |           |
+| Reorganizar estrutura do GitPages                                                                                     |        |     | Pedro                    |           |
+| Correção: Personas: Adcionar explicação do porque da quantidade de personas                                           |        |     | Vitor e Guilherme        |           |
+| Correção: Perfil do Usuario: Ser uma aba separada do questionario                                                     |        |     | Vitor e Pedro            |           |
+| Correção: Adcionar gravação da priorizaçao de requisitos                                                              |        |     | Guilherme e Pedro        |           |
+| Correção: Especificação suplementar (abranger menos e ser mais especifico)                                            |        |     | João Gabriel             |           |
+| Correção: Cenarios (Adcionar funcionalidades nao implementadas,Padronizar metodologias,criar hyperlinks para lexicos) |        |     | Guilherme e Pedro        |           |
 
 ## Entrega 5.1
 
@@ -148,39 +201,6 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 | Correções do Ponto de Controle anterior       |  14/11  |  20/11  | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                |
 
 
-## Cronograma realizado
-
-## Entrega 1
-Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
-
-| Atividade realizada   | Data  | Autores                                        |
-|-----------------------|-------|------------------------------------------------|
-| Cronograma            | 14/09 | João Pedro                                     |
-| Cronograma realizado  | 21/09 | João Pedro                                     |
-| Lista de aplicativos  | 18/09 | João Gabriel                                   |
-| Ferramentas           | 14/09 | João Pedro                                     |
-| Rich picture          | 18/09 | Guilherme                                      |
-| Atas das Reuniões     | 15/09 | Vitor                                          |
-| GitPage               | 19/09 | Pedro                                          |
-| Video de apresentação | 19/09 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
-
-Tabela 9 - cronograma realizado da entrega 1. (Fonte: João Pedro Anacleto, 2023).
-
-## Entrega 2
-Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
-
-| Atividade realizada   | Data  | Autores                                        |
-|-----------------------|-------|------------------------------------------------|
-| Personas e Questionário             | 03/10 | Vitor                                          |
-| Cronograma realizado  | 04/10 | João Pedro                                     |
-| Storytelling          | 03/10 | João Gabriel                                   |
-| Elicitação Geral e Analise de Documentos     | 04/10 | João Pedro                                     |
-| Moscow e First Things First        | 03/10 | Guilherme                                      |
-| Atas das Reuniões     | 03/10 | João Gabriel                                            |
-| Entrevista e In or Out            | 02/10 | Pedro                                          |
-| Video de apresentação | 04/10 | João Pedro,João Gabriel,Guilherme,Vitor,Pedro |
-
-Tabela 10 - cronograma realizado da entrega 2. (Fonte: João Pedro Anacleto, 2023).
 
 ## Bibliografia
 
