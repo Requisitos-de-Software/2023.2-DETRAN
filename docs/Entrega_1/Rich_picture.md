@@ -1,9 +1,8 @@
 # Rich Picture
 
-
 ## 1. Introdução
 
- Um Rich Picture é uma representação visual ou diagrama que é usado para capturar e comunicar de forma eficaz informações complexas e contextuais sobre um determinado sistema, situação ou problema. Ele é frequentemente usado em contextos de análise de sistemas, design organizacional, resolução de problemas e planejamento.
+Um Rich Picture é uma representação visual ou diagrama que é usado para capturar e comunicar de forma eficaz informações complexas e contextuais sobre um determinado sistema, situação ou problema. Ele é frequentemente usado em contextos de análise de sistemas, design organizacional, resolução de problemas e planejamento.
 
 Um Rich Picture geralmente incorpora elementos gráficos, como desenhos, ícones, setas e texto, para ilustrar diferentes aspectos de um sistema ou situação. Ele permite que os participantes de um projeto ou equipe vejam a imagem completa e compreendam melhor as interações, relações e dinâmicas envolvidas.
 
@@ -27,22 +26,21 @@ Os limites representa o que o  sistema deve fazer tudo que está dentro do limit
 
 ## 3. Rich Picture do Detran 
 
-Na *figura 1* abaixo temos o rich picture realizado para o aplicatico do Detran
+Na figura 01 abaixo temos o rich picture realizado para o aplicatico do Detran
 
-
-
-*figura 1-Rich Picture*
 ![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/fa586063-1851-4ef5-8d94-e411ce777f4d)
 
-*Fonte: Autores*
+<p align="center">
+Figura 01 - RichPicture Detran<br>
+(Fonte: Guilherme).
+</p>
 
-
-
-
-## 5. Referências
+## Bibliografia
 > California Tax Education Council. Software Development Project. Acesso em: 16 set. 2023.
-## 1. Versionamento
 
-| Versão | Data       | Autor             | Descrição                                          | Revisor        |
-|:------:| ---------- | ----------------- | -------------------------------------------------- | -------------- |
-|  1.0   | 18/09/2023 | Guilherme Nishimura    | Criação e inclusão de informações     | Vitor    |
+## Histórico de versão
+
+| Versão | Data       | Descrição            | Autor              | Revisor             |
+| ------ | ---------- | -------------------- | ------------------ | ------------------- |
+| 1.0    | 18/09/2023 | Criação e inclusão de informações | Guilherme Nishimura  | Vitor Borges |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

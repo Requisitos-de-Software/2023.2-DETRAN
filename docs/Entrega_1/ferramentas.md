@@ -1,10 +1,10 @@
 # Ferramentas
 
-## Introdução
+## 1. Introdução
 
   Este documento tem o intuito de documentar todas as ferramentas utilizadas para a realização do projeto de requisitos de software, as ferramentas listadas aqui tem a intenção de dar suporte a documentação de requisitos do aplicativo Detran Digital.
 
-## Ferramentas utilizadas
+## 2. Ferramentas utilizadas
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
@@ -22,7 +22,7 @@
 <p>Tabela 1: Descrição das ferramentas utilizadas no projeto (Fonte:João Pedro Anacleto. 2023). </p>
 </div>
 
-## Bibliografia
+## Referência
 
 <a id="aa" href="#a">[1]</a> GITHUB. Disponível em: [GitHub](https://github.com). Acesso em: 5 de Setembro de 2023.
 
@@ -46,3 +46,4 @@
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
 | 1.0    | 01/09/23 | Ferramentas iniciais       | João Pedro Anacleto | João Gabriel Elvas  |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

@@ -1,14 +1,14 @@
 # Cronograma do projeto 
 
-## Introdução 
+## 1. Introdução 
 
 O cronograma geral e expecifico das entregas fois estabelecido com base no cronograma geral de entregas da disciplina Requisitos de Software ministrada pelo professoe André Barros.
 
 Este arquivo tem como principal objetivo estabelecer um cronograma de atividas para a realização das entregas, que eserão feitas de maneira constante durante o semestre.Sendo divididos em entregas/pontos de controle , sendo expressos de maneira explicativa nas tabelas abaixo.
 
-## Cronograma geral
+## 2. Cronograma geral
 
-A Tabela 1 mostra todos os Pontos de Controles com suas respectivas datas de entrega.
+A Tabela 01 mostra todos os Pontos de Controles com suas respectivas datas de entrega.
 
 | Etapa | Título                       | Descrição                                                                                                                                        | Entrega | Apresentação |
 |-------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------------|
@@ -21,14 +21,17 @@ A Tabela 1 mostra todos os Pontos de Controles com suas respectivas datas de ent
 | 6     | Pós-rastreabilidade          | Gerência II                                                                                                                                      |  20/11       |     21/11         |
 | 7     | Entrrega final               | Entrega final                                                                                                                                   |   06/12      |      07/12        |
 
-Tabela 1 - Cronograma Geral. (Fonte: João Pedro Anacleto, 2023).
+<p align="center">
+Tabela 01 - Cronograma Geral<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
-## Cronograma detalhado
+## 3. Cronograma detalhado
 
 Segue abaixo o cronograma detalhado para cada fase do projeto, lembrando que e o cronograma proposto estando sujeito a alterações durante o desenvolvimento do projeto.
 ## Entrega 1
 
-A Tabela 2 mostra as atividades planejadas para a entrega 1, além de seus autores, revisores e datas de entrega.
+A Tabela 02 mostra as atividades planejadas para a entrega 1, além de seus autores, revisores e datas de entrega.
  
 * Planejamento do Projeto, equipe, Heatmap de disponibilidade dos
 integrantes, App selecionado para o projeto da disciplina, cópia do Termo de Uso do aplicativo permitindo o estudo na
@@ -47,11 +50,13 @@ atividade, responsáveis e período de gravação da apresentação), Rich Pictu
 | GitPage                     | 01/09  | 20/09 |Pedro       |  Vitor          |
 | Video de apresentação       | 01/09  | 20/09 |João Pedro,João Gabriel,,Guilherme,Vitor,Pedro|João Pedro,João Gabriel,,Guilherme,Vitor,Pedro           |
 
-Tabela 2 - Itens realizados na entrega 1. (Fonte: João Pedro Anacleto, 2023).
-
+<p align="center">
+Tabela 02 - Planejamento Entrega 01<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ### Cronograma realizado Entrega 1
-Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
+Segue na tabela abaixo na tabela 03 o cronograma realizado da entrega 1.
 
 | Atividade realizada   | Data  | Autores                                        |
 |-----------------------|-------|------------------------------------------------|
@@ -64,12 +69,14 @@ Segue na tabela abaixo na tabela 9 o cronograma realizado da entrega 1.
 | GitPage               | 19/09 | Pedro                                          |
 | Video de apresentação | 19/09 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 
-Tabela 9 - cronograma realizado da entrega 1. (Fonte: João Pedro Anacleto, 2023).
-
+<p align="center">
+Tabela 09 - Cronograma realizado da entrega 01<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ## Entrega 2
 
-A Tabela 3 mostra as atividades planejadas para a entrega 2, além de seus autores, revisores e datas de entrega.
+A Tabela 03 mostra as atividades planejadas para a entrega 2, além de seus autores, revisores e datas de entrega.
 
 *Perfil dos usuários, técnicas de elecitação usadas e que serão usadas, técnicas priorização usadas e que serão usadas no
 projeto.*
@@ -85,7 +92,11 @@ projeto.*
 | MoSCoW                                        | 21/09   | 04/10   |Vitor| Pedro                                 |
 | Gravação da apresentação                      | 21/09   | 04/10   | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                         | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                            |
 
-Tabela 3 - Itens realizados na entrega 2. (Fonte: João Pedro Anacleto, 2023).
+<p align="center">
+Tabela 03 - Planejamento Entrega 02<br>
+(Fonte: João Pedro Anacleto)
+</p>
+
 
 ### Cronograma realizado entrega 2
 Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
@@ -101,12 +112,14 @@ Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
 | Entrevista e In or Out            | 02/10 | Pedro                                          |
 | Video de apresentação | 04/10 | João Pedro,João Gabriel,Guilherme,Vitor,Pedro |
 
-Tabela 10 - cronograma realizado da entrega 2. (Fonte: João Pedro Anacleto, 2023).
-
+<p align="center">
+Tabela 10 - Cronograma realizado da entrega 01<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ## Entrega 3 
 
-A Tabela 4 mostra as atividades planejadas para a entrega 3, além de seus autores, revisores e datas de entrega.
+A Tabela 06 mostra as atividades planejadas para a entrega 3, além de seus autores, revisores e datas de entrega.
 
 *Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar*
 
@@ -119,7 +132,10 @@ A Tabela 4 mostra as atividades planejadas para a entrega 3, além de seus autor
 | Gravação da apresentação                      | 05/10  | 25/10   | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                         | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                            |
 | Correções do Ponto de Controle anterior        | 05/10   | 25/10   |   Pedro e Guilherme                                            |     Vitor                 |
 
-Tabela 4 - Itens realizados na entrega 3. (Fonte: João Pedro Anacleto, 2023).
+<p align="center">
+Tabela 04 - Planejamento Entrega 03<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ## Entrega 4
 
@@ -136,7 +152,10 @@ Framework)*
 | Gravação da apresentação                      | 26/10   | 06/11   |   João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                             |   João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                |
 | Correções do Ponto de Controle anterior        | 26/10   | 06/11   |  João Pedro e Guilherme                                             |    João Gabriel                              |
 
-Tabela 5 - Itens realizados na entrega 4. (Fonte: João Pedro Anacleto, 2023).
+<p align="center">
+Tabela 05 - Planejamento Entrega 04<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ### Cronograma realizado entrega 4 
 
@@ -170,7 +189,10 @@ A Tabela 6 mostra as atividades planejadas para a entrega 5.1, além de seus aut
 | Gravação da apresentação                      | 06/11   | 13/11   | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                              | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                 |
 | Correções do Ponto de Controle anterior       | 06/11   | 13/11   |  João Gabriel e Pedro                                             |   Guilherme                               |
 
-Tabela 6 - Itens realizados na entrega 3. (Fonte: João Pedro Anacleto, 2023).
+<p align="center">
+Tabela 6 - Planejamento Entrega 5.1<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ## Entrega 5.2
 
@@ -185,7 +207,10 @@ A Tabela 7 mostra as atividades planejadas para a entrega 5.2, além de seus aut
 | Gravação da apresentação                      | 20/11   | 29/11   | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                              |  João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                | 
 | Correções do Ponto de Controle anterior       | 20/11   | 29/11   |    Pedro e Vitor                                           |   Guilherme                               |
 
-Tabela 7 - Itens realizados na entrega 3. (Fonte: João Pedro Anacleto, 2023).
+<p align="center">
+Tabela 07 - Planejamento Entrega 5.2<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
 ## Entrega 6 
 
@@ -200,9 +225,12 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 | Gravação da apresentação                      |  14/11  |  20/11  | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                | 
 | Correções do Ponto de Controle anterior       |  14/11  |  20/11  | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                               |  João Pedro,João Gabriel,,Guilherme,Vitor,Pedro                                |
 
+<p align="center">
+Tabela 08 - Planejamento Entrega 06<br>
+(Fonte: João Pedro Anacleto)
+</p>
 
-
-## Bibliografia
+## Referência
 
 [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27 Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
 
@@ -210,5 +238,6 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 01/09/23 | Template Planejamento      | João Pedro Anacleto | Pedro     |
-| 1.1    | 21/09/23 | Adição do cronograma realizado      | João Pedro Anacleto |      |
+| 1.0    | 01/09/2023 | Template Planejamento      | João Pedro Anacleto | Pedro     |
+| 1.1    | 21/09/2023 | Adição do cronograma realizado      | João Pedro Anacleto |      |
+| 1.2 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
