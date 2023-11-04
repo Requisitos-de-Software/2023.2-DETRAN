@@ -8,13 +8,14 @@ O método **In or Out** é uma abordagem simples e eficaz para a priorização d
 
 A priorização será realizada com um usuário frequente do Detran DF atuando como cliente, a partir daí o membro previamente designado para esta técnica de priorização irá mostrar cada requisito elicitado e conduzirá as perguntas binárias a fim de aferir se o requisito irá ser incluído ou excluído do escopo do projeto.
 
-**Tabela 1: Dados do usuário**
-
 | Nome            | Idade   | Gênero   | Ocupação  | Cidade/Estado |
 | --------------- | ------- | -------- | --------- | ------------- |
 | Lucas Gomes | 22 anos | Masculino | Estudante | Brasília/DF   |
 
-*Fonte: Pedro Campos*
+<p align="center">
+Tabela 01 - Dados do usuário<br>
+(Fonte: Pedro Campos)
+</p>
 
 ## 4. In or Out
 
@@ -57,25 +58,32 @@ A priorização será realizada com um usuário frequente do Detran DF atuando c
 | ADD32                | RF                     | Consultar informações detalhadas sobre veículos, incluindo hiAstórico de proprietários, débitos pendentes e informações do veículo. | in  |
 | ADD33                | RF                     | Emitir o CRLV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) de forma rápida e fácil, sem precisar ir pessoalmente ao Detran. |  in |
 | ADD34                | RF                     | Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo. |  in |
-*Fonte: Grupo 7*
+
+<p align="center">
+Tabela 02 - Requisitos Elicitados<br>
+(Fonte: Grupo 07)
+</p>
 
 ## 5. Vídeo
-
-**Vídeo 1: Entrevista de priorização**
 
 Importante: por conta da falta de compatibilidade de horário, a entrevista foi realizada no whatsapp.
 
 [Acessar dados da entrevista](https://drive.google.com/file/d/1HdVSoUQB4QYY2sWFRYFNlUHf52DWwRC0/view?usp=sharing)
 
-Fonte: Grupo 7
+<p align="center">
+Vídeo 01 - Dados da entrevista<br>
+(Fonte: Pedro Campos).
+</p>
 
-## 6. Referências
+## 6. Bibliografia
 
 > WIEGERS, Karl; BEATTY, Joy. *Software Requirements, Third Edition*. [S.L.]: Microsoft, [20--]. 9 slides, P&B. Disponível em: [https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaÃ§Ã£o%20de%20Req.pdf](https://aprender3.unb.br/pluginfile.php/2124455/mod_resource/content/1/Priorização%20de%20Req.pdf). Acesso em: 3 out. 2023.
 
-## 7. Versionamento
 
-| Versão | Data       | Autor             | Descrição             | Revisor     |
-| ------ | ---------- | ----------------- | --------------------- | ----------- |
-| 1.0    | 03/10/2023 | Pedro Campos      | Criação do documento  | Guilherme    |
-| 1.1    | 04/10/2023 | Pedro Campos      | Atualização da tabela de requisitos | Guilherme    |
+# Histórico de versão
+
+| Versão | Data       | Descrição            | Autor              | Revisor             |
+| ------ | ---------- | -------------------- | ------------------ | ------------------- |
+| 1.0    | 03/10/2023 | Criação do documento      | Pedro Campos  | Guilherme    |
+| 1.1    | 04/10/2023 | Atualização da tabela de requisitos      | Pedro Campos | Guilherme    |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

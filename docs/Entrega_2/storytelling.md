@@ -1,11 +1,12 @@
 # Storytelling
-## Introdução
+
+## 1. Introdução
 Essa abordagem envolve a coleta de requisitos por meio de narrativas fornecidas pelos usuários. Através dessas histórias, é possível 
 detalhar as atividades realizadas pelas pessoas, as tarefas que executam e as informações necessárias ou produzidas durante essas 
 ações. A compreensão é facilitada quando os conceitos são apresentados em forma de histórias, permitindo uma identificação mais fácil
 com as experiências descritas 
 
-## Metodologia
+## 2. Metodologia
 Por meio da construção de personas e da delineação detalhada de seus perfis, uma técnica de narrativa, conhecida como storytelling, 
 foi empregada para explorar as experiências dos usuários em cenários específicos. Essas histórias foram criadas para examinar as 
 tarefas que realizam, os objetivos que buscam alcançar e os sentimentos que experimentam ao interagir com um sistema ou serviço. 
@@ -13,8 +14,9 @@ Ao adotar essa perspectiva centrada no usuário, foi possível identificar de ma
 necessários. Estes requisitos foram compilados e apresentados no final do documento, proporcionando uma visão abrangente e detalhada 
 das necessidades dos usuários, fundamentais para orientar o desenvolvimento do projeto.
 
-## Storytelling
-### Maria, a Motorista Consciente
+## 3. Storytelling
+
+### 3.1 Maria, a Motorista Consciente
 
 Maria é uma mulher de 35 anos que trabalha como gerente de vendas em uma empresa de tecnologia. Ela é mãe de dois filhos pequenos e 
 tem uma vida agitada, com muitos compromissos familiares e profissionais. Maria é uma motorista cautelosa e sempre se preocupa em 
@@ -29,7 +31,7 @@ percebe que sua carteira estava prestes a vencer, algo que poderia ter passado d
 Maria utiliza da informação do aplicativo para renovar sua carteira de motorista rapidamente, garantindo sua conformidade com as regras de 
 trânsito.
 
-### João, o Motorista Aventureiro
+### 3.2 João, o Motorista Aventureiro
 
 João, com 28 anos, é um entusiasta de viagens e aventureiro de coração. Ele adora explorar novos lugares e está sempre em movimento. 
 João possui mais de uma motocicleta e utiliza o aplicativo do Detran Digital para verificar as condições de multas de suas motos. Para ele, 
@@ -41,15 +43,12 @@ nova moto no aplicativo do Detran Digital. Com alguns toques na tela, ele confir
 não há multas pendentes. Sentindo-se seguro e confiante, João parte para sua aventura, sabendo que sua moto está em perfeitas 
 condições para a estrada.
 
-## Requisitos Elicitados 
+## 4. Requisitos Elicitados 
 Legendas:
 
 * ST - Storytelling
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
-
-Tabela 1: Requisitos elicitados
-
 
 |  ID  | Descrição | Tipo | Implementados |
 | ---- | --------- | ---- | ------------- |
@@ -71,20 +70,24 @@ Tabela 1: Requisitos elicitados
 | ST16 | Eu, como usuário, desejo utilizar o aplicativo em dispositivos Android e iOS | RNF | Sim |
 | ST17 | Eu, como usuário, desejo ter a segurança dos meus dados e dos dados do meu veículo | RNF | Sim |
 
+<p align="center">
+Tabela 01 - Requisitos elicitados <br>
+(Fonte: João Gabriel)
+</p>
 
-
-Fonte: Grupo 7 - Detran Digital
-
-## Explicação da Elicitação
+## 5. Explicação da Elicitação
 
 Video Explicativo
   
 ## Bibliografia
-* Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
-* Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
-* https://segov.df.gov.br/app-detran-digital-oferece-cinco-novos-servicos/
+> Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
+
+> Santos, V. G., Daher N., UTILIZAÇÃO DE STORYTELLING COMO FERRAMENTA DE AQUISIÇÃO DE REQUISITOS EM PROCESSO DE DESENVOLVIMENTO DE SOFTWARE APOIADOS EM MODELOS ÁGEIS: O USO APOIADO NO EXTREME PROGRAMMING, Belo Horizonte, 2008. 14 p., Artigo (Análise de Sistemas), e-tec UNI-BH
+
+> https://segov.df.gov.br/app-detran-digital-oferece-cinco-novos-servicos/
   
 ## Histórico de Versão
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 03/10/23 |Storytelling                | João Gabriel Elvas  | Vitor               |
+| 1.0    | 03/10/2023 |Storytelling                | João Gabriel Elvas  | Vitor               |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

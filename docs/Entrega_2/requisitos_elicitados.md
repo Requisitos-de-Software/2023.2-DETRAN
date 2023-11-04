@@ -1,12 +1,12 @@
 # Requisitos elicitados
 
-## Introdução
+## 1. Introdução
 
 Esse documeno tem como bjetivo documentar os requisitos obtidos atraves de diversos metodos como Questionario,Entrevista,Storytelling e por fim Analise de documentos (para suporte).
 
-## Documentos elicitados
+## 2. Documentos elicitados
 
-Segue abaixo na Tabela 1 todos os requisitos elicitados através dos metodos previamente citados.A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
+Segue abaixo na Tabela 01 todos os requisitos elicitados através dos metodos previamente citados.A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'ADD' + numero do requisito, e com a seguinte legenda de categoria:
 
 RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 
@@ -19,8 +19,6 @@ RPR: Requisitos de Produto - Descrevem as características do produto, como comp
 RR: Riscos - São os riscos associados ao desenvolvimento e uso do software.
 
 RT: Testes e Validações - Descrevem as atividades necessárias para testar e validar o software antes de sua implantação.
-
-Tabela 1
 
 | Número do Requisito | Categoria              | Requisito                                                     |
 |---------------------|------------------------|-------------------------------------------------------------|
@@ -60,9 +58,15 @@ Tabela 1
 | ADD34                | RF                     | Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo. | 
 | 
 
+<p align="center">
+Tabela 01 - Requisitos elicitados <br>
+(Fonte: Grupo 07)
+</p>
+
 ## Histórico de Versão
 
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 04/10/23 | Primeira versão dos requisitos elicitados      | João Pedro Anacleto |     |
+| 1.0    | 04/10/2023 | Primeira versão dos requisitos elicitados      | João Pedro Anacleto |     |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
 

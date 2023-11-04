@@ -23,7 +23,7 @@ As personas são elaboradas a partir do perfil do usuário, desta forma o desenv
 
 <p align="center">
     Tabela 1: Perfil do usuário <br>
-    Fonte: <a id="TEC2" href="#QT2">[2]</a>
+    (Fonte: <a id="TEC2" href="#QT2">[2]</a>)
 </p>
 
 # 3. Personas
@@ -36,8 +36,8 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 ![Juliana Ribeiro](../../assets/juliana.png)
 <p align="center">
-    Imagem 01: Juliana Ribeiro<br>
-    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+    Figura 01: Juliana Ribeiro<br>
+    (Fonte: <a id="TEC4" href="#QT4">[4]</a>)
 </p>
 
 | Campo | Descrição |
@@ -53,15 +53,15 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 <p align="center">
     Tabela 2: Persona 01<br>
-    Fonte: Vitor Borges
+    (Fonte: Vitor Borges)
 </p>
 
 ## Lucas Moreira
 
 ![Lucas Moreira](../../assets/lucas.png)
 <p align="center">
-    Imagem 02: Lucas Moreira<br>
-    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+    Figura 02: Lucas Moreira<br>
+   (Fonte: <a id="TEC4" href="#QT4">[4]</a>)
 </p>
 
 | Campo | Descrição |
@@ -77,15 +77,15 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 <p align="center">
     Tabela 3: Persona 02<br>
-    Fonte: Vitor Borges
+    (Fonte: Vitor Borges)
 </p>
 
 ## Ana Luiza
 
 ![Ana](../../assets/ana.png)
 <p align="center">
-    Imagem 03: Ana Luiza<br>
-    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+    Figura 03: Ana Luiza<br>
+    (Fonte: <a id="TEC4" href="#QT4">[4]</a>)
 </p>
 
 | Campo | Descrição |
@@ -101,15 +101,15 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 <p align="center">
     Tabela 4: Persona 03<br>
-    Fonte: Vitor Borges
+    (Fonte: Vitor Borges)
 </p>
 
 ## José Silva
 
 ![jose](../../assets/jose.png)
 <p align="center">
-    Imagem 01: José Silva<br>
-    Fonte: <a id="TEC4" href="#QT4">[4]</a>
+    Figura 01: José Silva<br>
+    (Fonte: <a id="TEC4" href="#QT4">[4]</a>)
 </p>
 
 | Campo | Descrição |
@@ -125,19 +125,19 @@ Para representar os grupos de usuários do aplicativo, seus objetivos, expectati
 
 <p align="center">
     Tabela 5: Persona 04<br>
-    Fonte: Vitor Borges
+    (Fonte: Vitor Borges)
 </p>
 
 ## Referências
-> <a id="QT1" href="#anchor_1">[1]</a> Design thinking : inovação em negócios | Maurício Vianna... [et al.]. -
+<a id="QT1" href="#anchor_1">[1]</a> Design thinking : inovação em negócios | Maurício Vianna... [et al.]. -
 Rio de Janeiro :
 MJV Press, 2012. Personas - pg. 80
 
-> <a id="QT2" href="#anchor_2">[2]</a> Questionário elaborado para o projeto disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/questionario/>
+<a id="QT2" href="#anchor_2">[2]</a> Questionário elaborado para o projeto disponível em: <https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/questionario/>
 
-> <a id="QT3" href="#anchor_3">[3]</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Cáp. 8.2 - Personas
+<a id="QT3" href="#anchor_3">[3]</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Cáp. 8.2 - Personas
 
-> <a id="QT4" href="#anchor_4">[4]</a> Geração de imagens disponível em: <https://thispersondoesnotexist.com/>
+<a id="QT4" href="#anchor_4">[4]</a> Geração de imagens disponível em: <https://thispersondoesnotexist.com/>
 
 # Histórico de versão
 
@@ -147,3 +147,4 @@ MJV Press, 2012. Personas - pg. 80
 | 1.1    | 04/10/2023 | Adicionado perfil do usuário | Vitor Borges | João Pedro |
 | 1.2    | 04/10/2023 | Adicionado personas | Vitor Borges | João Pedro |
 | 1.3    | 04/10/2023 | Adicionado imagens das personas | Vitor Borges | João Pedro |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

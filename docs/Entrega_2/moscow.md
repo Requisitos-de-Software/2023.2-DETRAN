@@ -15,12 +15,9 @@ Itens nesta categoria são considerados opcionalmente benéficos. Eles são recu
 * WOULD (Não terá)
 Itens nesta categoria são explicitamente descartados do escopo do projeto atual. Isso não significa que esses itens sejam indesejáveis ou inúteis; simplesmente, não serão considerados durante o projeto atual. Eles podem ser abordados em projetos futuros ou em fases posteriores do projeto atual.
 
-## Detran
+## 2. Detran
 
 Com base nessas informações a equipe gerou uma *tabela 1*  contendo essas informações ao requisitos elicitados.
-
-*tabela 1*
-
 
 | Número do Requisito | Categoria       | Requisito                                                                                   |
 |---------------------|-----------------|----------------------------------------------------------------------------------------------|
@@ -59,13 +56,13 @@ Com base nessas informações a equipe gerou uma *tabela 1*  contendo essas info
 | ADD33               | Should (Deveria)| Emitir o CRLV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) de forma rápida e fácil, sem precisar ir pessoalmente ao Detran. |
 | ADD34               | Could (Poderia) | Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo.    |
 
-
-Fonte:Autores
-
-
+<p align="center">
+Tabela 01 - Requisitos elicitados <br>
+(Fonte: Grupo 07)
+</p>
 
 ## Referências
-> <a id="QT1" href="#anchor_1">[1] Software Requirements 3rd Edition | Karl Wiegers e Joy Beatty - Microsoft Press, 2013. pg. 320-321</a>
+<a id="QT1" href="#anchor_1">[1] Software Requirements 3rd Edition | Karl Wiegers e Joy Beatty - Microsoft Press, 2013. pg. 320-321</a>
 
 # Histórico de versão
 

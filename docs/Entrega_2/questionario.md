@@ -97,8 +97,7 @@ Os participantes possuem em maioria CNH categoria AB, dirigem quatro vezes ou ma
 
 # 4. Tabela de Requisitos
 
-## Tabela de requisitos
-A tabela 1 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
+A tabela 01 disposta abaixo representa todos os requisitos levantados durante a análise de documentos, identificados com 'RQ' + numero do requisito, e com a seguinte legenda de categoria:
 
 RF: Requisitos Funcionais - Descrevem o comportamento ou a funcionalidade que o software deve ter para atender às necessidades do usuário.
 
@@ -120,8 +119,13 @@ RT: Testes e Validações - Descrevem as atividades necessárias para testar e v
 | RQ4 | RF | Emitir CRLV-e |
 | RQ5 | RF | Realizar agendamentos no detran |
 
+<p align="center">
+Tabela 01 - Requisitos elicitados<br>
+(Fonte: Vitor Borges)
+</p>
+
 ## Referências
-> <a id="QT1" href="#anchor_1">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+<a id="QT1" href="#anchor_1">[1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Questionários - Pg. 148</a> 
 
 # Histórico de versão
@@ -132,3 +136,4 @@ Interação Humano-Computador e Experiência do usuário. Questionários - Pg. 1
 | 1.1    | 03/10/2023 | Adicionado estrutura do questionário | Vitor Borges | João Gabriel |
 | 1.2    | 03/10/2023 | Adicionado resultados do questionário | Vitor Borges | João Gabriel |
 | 1.2    | 04/10/2023 | Adicionado tabela de requisitos | Vitor Borges | João Gabriel |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

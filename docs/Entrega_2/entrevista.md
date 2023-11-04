@@ -8,30 +8,25 @@ A entrevista descrita neste documento foi conduzida para entender as necessidade
 
 Entrevistamos um usuário que tem completo domínio do aplicativo e o utiliza semanalmente para aferir informações à respeito de documentações e dados do seu veículo.
 
-<div style="text-align: left">
-<p>Tabela 1: Dados da entrevista</p>
-</div>
-
 | Entrevistador     | Entrevistado    | Duração | Data       |
 | ----------------| --------------| ------| ---------|
 | Pedro Campos | Lucas Gomes |     6 minutos e 41 segundos    | 03/10/2023 |
-<div style="text-align: left">
-<p>Fonte: Grupo 7</p>
-</div>
+
+<p align="center">
+Tabela 01 - Dados da entrevista 01<br>
+(Fonte: Grupo 07)
+</p>
 
 ### 2.1 Dados do entrevistado
-
-<div style="text-align: left">
-<p>Tabela 2: Dados do entrevistado</p>
-</div>
 
 | Nome            | Idade   | Gênero   | Ocupação  | Cidade/Estado |
 | --------------| ------| -------| --------| ------------|
 | Lucas Gomes | 22 anos | Masculino | Estudante | Brasília/DF   |
 
-<div style="text-align: left">
-<p>Fonte: Grupo 7</p>
-</div>
+<p align="center">
+Tabela 02 - Dados do entrevistado<br>
+(Fonte: Grupo 07)
+</p>
 
 ### 2.2 Perguntas e respostas
 
@@ -83,25 +78,20 @@ Entrevistamos um usuário que tem completo domínio do aplicativo e o utiliza se
 
 ### 2.3 Vídeo da entrevista
 
-**Vídeo 1: Entrevista com o cliente**
-
 [Assista ao vídeo](https://youtu.be/RXudRhupgbA)
 
-<div style="text-align: left">
-<p>Fonte: Grupo 7</p>
-</div>
+<p align="center">
+Vídeo 01 - Entrevista<br>
+(Fonte: Grupo 07)
+</p>
 
 ## 3. Requisitos elicitados
 
-### Legenda
+### 3.1 Legenda
 
 * PE => P: Pergunta, E: entrevista
 * RF => RF: Requisito Funcional
 * RNF => RNF: Requisito Não Funcional
-
-<div style="text-align: left">
-<p>Tabela 3: Tabela de requisitos elicitados</p>
-</div>
 
 | ID    | Descrição                                                     | Tipo  |
 | ----| ------------------------------------------------------------| ----|
@@ -114,18 +104,19 @@ Entrevistamos um usuário que tem completo domínio do aplicativo e o utiliza se
 | PE07 | Deve ser possível realizar a transferência de veículo | RF |
 | PE08 | O aplicativo deverá guardas as informações de login do usuário | RNF |
 
+<p align="center">
+Tabela 03 - Requisitos elicitados<br>
+(Fonte: Grupo 07)
+</p>
 
-<div style="text-align: left">
-<p>Fonte: Grupo 7</p>
-</div>
+## Bibliografia
 
-## 4. Referências
+> SERRANO, Milene; SERRANO, Maurício. Requisitos Aula 07. Brasília: Unb-Gama, 20--. Color. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 03 out. 2023.
 
->SERRANO, Milene; SERRANO, Maurício. Requisitos Aula 07. Brasília: Unb-Gama, 20--. Color. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 03 out. 2023.
+# Histórico de versão
 
-## 5. Versionamento
-
-| Versão | Data       | Autor             | Alterações                                          | Revisor        |
-| -----| ---------| ----------------| --------------------------------------------------| -------------|
-| 1.0    | 03/10/2023 | Pedro Campos | Criação do documento  | Vitor |
-| 1.1    | 03/10/2023 | Pedro Campos | Adicionando dados da entrevista  | Vitor |
+| Versão | Data       | Descrição            | Autor              | Revisor             |
+| ------ | ---------- | -------------------- | ------------------ | ------------------- |
+| 1.0    | 03/10/2023 | Criação do documento | Pedro Campos | Vitor |
+| 1.1    | 03/10/2023 | Adicionando dados da entrevista | Pedro Campos | Vitor |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

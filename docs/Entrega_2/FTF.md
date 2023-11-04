@@ -1,7 +1,6 @@
 # First Thing First
 
-## Introdução
-
+## 1. Introdução
 
 A abordagem "First Things First" em requisitos refere-se a uma estratégia de priorização no processo de desenvolvimento de software e gestão de requisitos. Essa abordagem enfatiza a importância de identificar e abordar primeiro os requisitos mais críticos e essenciais de um projeto, antes de lidar com requisitos menos importantes.
 
@@ -23,14 +22,9 @@ Passo 7: Depois de inserir as estimativas na planilha, ela calculará um número
 
 Passo 8: Ordene a lista de funcionalidades em ordem decrescente de prioridade calculada. As funcionalidades no topo da lista têm o equilíbrio mais favorável entre valor, custo e risco e, portanto, devem ter prioridade mais alta na implementação. Os representantes-chave de clientes e desenvolvedores devem revisar a planilha concluída para concordar com as classificações e a sequência resultante.
 
+## 2. Detran
 
-
-## Detran
-
-A seguir se encontra a *tabela 1*  com a tabela levantada pela equipe para o aplicativo Detran
-
-
-
+A seguir se encontra a tabela 01 com a tabela levantada pela equipe para o aplicativo Detran
 
 | Funcionalidade                     | Benefício Relativo | Penalidade Relativa | Valor Total | Valor Total % | Custo Relativo | Custo Relativo % | Risco Relativo | Risco Relativo % | Prioridade | Requisitos                      |
 |------------------------------------|--------------------|----------------------|-------------|---------------|----------------|------------------|----------------|------------------|------------|---------------------------------|
@@ -44,13 +38,12 @@ A seguir se encontra a *tabela 1*  com a tabela levantada pela equipe para o apl
 | Segurança de Dados                 | 5                  | 4                    | 9           | 7.38%         | 7              | 16.28%           | 8              | 23.08%           | 0.238       | ADD8, ST17                      |
 | Total                              | 46                 | 45                   | 91          | 100%          | 48             | 100%             | 39             | 100%             | 5.420       | -                               |
 
-Fonte:Autores
+<p align="center">
+Tabela 01 - FTF Detran<br>
+(Fonte: Grupo 07)
+</p>
 
-
-
-A *Tabela 2* abaixo indica a legenda dos codigos dos requisitos:
-
-*Tabela 2*
+A Tabela 02 abaixo indica a legenda dos codigos dos requisitos:
 
 | Número do Requisito | Categoria              | Requisito                                                     |
 |---------------------|------------------------|-------------------------------------------------------------|
@@ -89,9 +82,12 @@ A *Tabela 2* abaixo indica a legenda dos codigos dos requisitos:
 | ADD33                | RF                     | Emitir o CRLV-e (Certificado de Registro e Licenciamento de Veículo eletrônico) de forma rápida e fácil, sem precisar ir pessoalmente ao Detran. | 
 | ADD34                | RF                     | Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo. | 
 
+<p align="center">
+Tabela 01 - Requisitos elicitados <br>
+(Fonte: Grupo 07)
+</p>
 
-fonte:Autores
-## Referências
+## Bibliografia
 > First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 02 de Outubro de 2023. 
 
 # Histórico de versão
@@ -100,3 +96,4 @@ fonte:Autores
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 30/09/2023 | Adicionado tabela e introduçã0 | Guilherme Nishimura |João Pedro |
 | 1.2    | 03/10/2023 | Adicionando a tabela aos requisitos  | Guilherme Nishimura |João Pedro |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
