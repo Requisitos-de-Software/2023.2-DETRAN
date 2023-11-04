@@ -1,22 +1,24 @@
 # Sobre o projeto
-## Introdução 
+## 1. Introdução 
 
 Esse repositorio tem o objetivo de disponibilizar os artefatos e uma analise voltada a requisitos de software do aplicativo Detran Digital produzidos para a materia Requisitos de Software.
 
+<div align="center">
+    <img src="https://play-lh.googleusercontent.com/vMvSDR4GitBq9nh7692Y9YSL1k-KrnwSIKC02_oHbj1Ln_Vw3bDDWzZszrqH3MqsnSs" alt="Detran Digital" width="500"> 
+</div>
 
-<img src="https://play-lh.googleusercontent.com/vMvSDR4GitBq9nh7692Y9YSL1k-KrnwSIKC02_oHbj1Ln_Vw3bDDWzZszrqH3MqsnSs" alt="Detran Digital" width="500"> 
+<p align="center">
+Figura 01 - Detran Digital<br>
+(Fonte: Detran DF).
+</p>
 
-Imagem 1 - Detran Dgital 
-
-## Sobre o aplicativo
+## 2. Sobre o aplicativo
 
 O Detran Digital é uma iniciativa que visa modernizar e facilitar os serviços oferecidos pelos Departamentos Estaduais de Trânsito (Detran) por meio de plataformas online e aplicativos móveis. Essa digitalização tem como objetivo principal proporcionar maior comodidade, agilidade e praticidade aos usuários que precisam acessar serviços relacionados à habilitação, veículos e infrações de trânsito.
 
-## Integrantes
+## 3. Integrantes
 
-Os integrantes que compõem a equipe são estudantes do curso de Engenharia de Sfotware da universidade de brasilia.
-
-# Equipe do projeto
+Os integrantes que compõem a equipe são estudantes do curso de Engenharia de Software da universidade de brasilia. Todos estão presentes na tabela 01 desta página.
 
 | Foto                                                                                                   | Nome                      | Github                                                      |
 | ------------------------------------------------------------------------------------------------------ | ------------------------- | ----------------------------------------------------------- |
@@ -26,8 +28,12 @@ Os integrantes que compõem a equipe são estudantes do curso de Engenharia de S
 | <img src="https://avatars.githubusercontent.com/u/71887485?v=4" alt="JoaoGElvas" width="100">          | João G Elvas              | [@JoaoGElvas](https://github.com/JoaoGElvas)                |
 | <img src="https://avatars.githubusercontent.com/u/78763082?v=4" alt="VitorB2002" width="100">         | Vitor Borges      | [@VitorB2002](https://github.com/VitorB2002)                  |
 
+<p align="center">
+Tabela 01 - Integrantes da Equipe 07<br>
+(Fonte: Equipe 07)
+</p>
 
-## Termo de Consentimento
+## 5. Termo de Consentimento
 
 <p align="justify">
 Para a confecção de alguns artefatos é necessário a interação de participantes externos, sendo assim para que os mesmos estejam cientes no que estão participando e como os dados serão utilizados é necessário a apresentação de um documento que informa e esclarece aos participantes da pesquisa sobre os objetivos e procedimentos do estudo, bem como seus direitos e deveres. Este documento é o termo de consentimento, o mesmo é essencial para garantir a ética e legalidade do estudo e a proteção dos participantes que participem da nossa pesquisa.
@@ -58,3 +64,4 @@ Termo de Consentimento Livre e Esclarecido
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 31/08/2023 | Criação do documento | João Pedro Anacleto | Vitor Borges |
 | 2.0 | 30/09/2023 | Adição do termo de consentimento para participantes | Vitor Borges | João Pedro Anacleto|
+| 3.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
