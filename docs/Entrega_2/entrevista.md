@@ -113,7 +113,7 @@ Tabela 03 - Requisitos elicitados<br>
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos Aula 07. Brasília: Unb-Gama, 20--. Color. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 03 out. 2023.
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

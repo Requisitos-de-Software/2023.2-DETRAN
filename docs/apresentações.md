@@ -35,7 +35,7 @@ Video 03 - Apresentação da etapa 03<br>
 (Fonte: Grupo 07).
 </p>
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

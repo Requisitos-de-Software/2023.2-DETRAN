@@ -93,7 +93,7 @@ Tabela 01 - Requisitos levantados<br>
 (Fonte: João Pedro)
 </p>
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

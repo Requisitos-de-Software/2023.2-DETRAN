@@ -64,7 +64,7 @@ Tabela 01 - Requisitos elicitados <br>
 ## Referências
 <a id="QT1" href="#anchor_1">[1] Software Requirements 3rd Edition | Karl Wiegers e Joy Beatty - Microsoft Press, 2013. pg. 320-321</a>
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

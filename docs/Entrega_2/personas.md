@@ -139,7 +139,7 @@ MJV Press, 2012. Personas - pg. 80
 
 <a id="QT4" href="#anchor_4">[4]</a> Geração de imagens disponível em: <https://thispersondoesnotexist.com/>
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

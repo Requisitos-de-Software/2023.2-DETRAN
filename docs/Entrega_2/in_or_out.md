@@ -79,8 +79,7 @@ Vídeo 01 - Dados da entrevista<br>
 
 > WIEGERS, Karl; BEATTY, Joy. *Software Requirements, Third Edition*. [S.L.]: Microsoft, [20--]. 9 slides, P&B. Disponível em: [https://aprender3.unb.br/pluginfile.php/2692778/mod_resource/content/2/PriorizaÃ§Ã£o%20de%20Req.pdf](https://aprender3.unb.br/pluginfile.php/2124455/mod_resource/content/1/Priorização%20de%20Req.pdf). Acesso em: 3 out. 2023.
 
-
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

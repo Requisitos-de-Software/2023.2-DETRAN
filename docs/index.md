@@ -58,7 +58,7 @@ Termo de Consentimento Livre e Esclarecido
 &emsp;&emsp;Ciente das informações acima, eu autorizo a utilização dos meus dados para fins acadêmicos pelo Grupo 7 da disciplina de Requisitos de Software da Universidade de Brasília, em conformidade com as normas aplicáveis.
 </p>
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

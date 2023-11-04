@@ -2,7 +2,7 @@
 
 O termo de uso do Detran digital foi coletado diretamente do aplicativo na data: 24/09/2023. O mesmo está disponível em formato pdf no seguinte link: [Termo de Uso](https://github.com/Requisitos-de-Software/2023.2-DETRAN/blob/main/docs/assets/termo/termo_de_uso.pdf).
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |

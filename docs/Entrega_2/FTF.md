@@ -90,7 +90,7 @@ Tabela 01 - Requisitos elicitados <br>
 ## Bibliografia
 > First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 02 de Outubro de 2023. 
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
