@@ -1,17 +1,15 @@
 # Especificação Suplementar
 
-## Introdução 
+## 1. Introdução 
 O Detran Digital é um aplicativo móvel desenvolvido para proporcionar aos usuários um acesso fácil e conveniente a uma variedade de serviços relacionados a veículos e habilitação. Esta especificação suplementar estabelece os requisitos adicionais e as expectativas para o Detran Digital, com o objetivo de garantir a funcionalidade, segurança e usabilidade do aplicativo.
 
-## Metodologia 
+## 2. Metodologia 
 Para elaborar este documento, adotaremos uma versão adaptada do FURPS+. Nessa metodologia, os requisitos são divididos em categorias específicas: Funcionalidade (F), Usabilidade (U), Confiabilidade (R), Desempenho (P) e Suportabilidade (S). Além disso, incluímos requisitos não-funcionais como Design, Implementação e Interface.
 
-## Funcionalidade
+## 3. Funcionalidade
 Os requisitos funcionais estão definidos por meio dos [Casos de uso](docs/Entrega_3/casos_de_uso.md).
 
-## Usabilidade
-
-_Tabela 1: Usabilidade_
+## 4. Usabilidade
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -22,11 +20,12 @@ _Tabela 1: Usabilidade_
 |USA05|Os usuários devem ter a opção de personalizar algumas configurações do aplicativo de acordo com suas preferências, como tamanho de fonte, tema de cores e notificações.|
 |USA06|O sistema deve permitir a consulta de informações detalhadas sobre seus veículos, incluindo licenciamento e impostos.|
 
-_Fonte: João Gabriel Elvas_
+<p align="center">
+Tabela 01 - Requisitos relacionados a usabilidade<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Confiabilidade 
-
-_Tabela 2: Confiabilidade_
+## 5. Confiabilidade 
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -36,11 +35,12 @@ _Tabela 2: Confiabilidade_
 |CON04|O sistema deve protejer dados sensiveis do usuário e do seu veículo.|
 |CON05|Em caso de problemas ou manutenções programadas, o sistema deve comunicar de forma transparente aos usuários, fornecendo informações sobre a situação e estimativas de tempo para a resolução.|
 
-_Fonte: João Gabriel Elvas_
+<p align="center">
+Tabela 02 - Requisitos relacionados a confiabilidade<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Desempenho 
-
-_Tabela 3: Desempenho_
+## 6. Desempenho 
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -50,11 +50,12 @@ _Tabela 3: Desempenho_
 |DES04|O sistema deve ser capaz de gerenciar eficientemente o tráfego de rede, evitando congestionamentos e garantindo que as transações sejam concluídas de forma suave, mesmo em redes com largura de banda limitada.|
 |DES05|As consultas e transações realizadas pelos usuários devem ser processadas de maneira eficiente, utilizando recursos do sistema de forma otimizada para evitar sobrecargas.|
 
-_Fonte: João Gabriel Elvas_
+<p align="center">
+Tabela 03 - Requisitos relacionados a desempenho<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Suportabilidade  
-
-_Tabela 4: Suportabilidade_
+## 7. Suportabilidade  
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -65,11 +66,12 @@ _Tabela 4: Suportabilidade_
 |SUP05|O aplicativo deve ser localizável para diferentes idiomas e regiões, adaptando-se automaticamente ao idioma e às preferências de formato de data, hora e moeda do usuário.|
 |SUP06|Deve existir um sistema de suporte técnico eficaz, oferecendo canais claros para que os usuários relatem problemas e recebam assistência rápida e precisa quando necessário.|
 
-_Fonte: João Gabriel Elvas_
+<p align="center">
+Tabela 04 - Requisitos relacionados a suportabilidade<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Design  
-
-_Tabela 5: Design_
+## 8. Design  
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
@@ -78,34 +80,43 @@ _Tabela 5: Design_
 |DES03|O app deve ter um design bonito e familiar.|
 |DES04|O design do aplicativo deve ser responsivo e otimizado para uma variedade de dispositivos móveis e sistemas operacionais.|
 
-_Fonte: João Gabriel Elvas_
+<p align="center">
+Tabela 05 - Requisitos relacionados a design<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Implementação  
-
-_Tabela 6: Implementação_
+## 9. Implementação  
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
 |IMP01|O aplicativo deve ser compatível com os sistemas Android e IOS.|
 |IMP02|O aplicativo deve ser facilmente atualizável para incluir novos recursos e correções de bugs conforme necessário.|
 
-_Fonte: João Gabriel Elvas_
+<p align="center">
+Tabela 06 - Requisitos relacionados a implementação<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Interface  
-
-_Tabela 7: Interface_
+## 10. Interface  
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
 |IMP01|A padronização da interface dos diversos componentes é essencial para evitar confusões por parte dos usuários. Todos os elementos devem seguir um padrão consistente, garantindo uma experiência de usuário coesa e intuitiva em todas as interações com o sistema.|
 |IMP02|O sistema deve ser compatível com uma variedade de dispositivos móveis e sistemas operacionais para atingir um amplo público de usuários.|
 
-## Referencias
-* GAMBLE, S. Example: Supplementary Specification. [S. l.]: Pace University, 21 dez. 1998. Disponível em: https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm. Acesso em: 19 jul. 2022.'
-* Samily Rocha Gois: Especificação Suplementar, 27 out. 2012. Disponível em: https://aprender3.unb.br/pluginfile.php/2124482/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf. Acesso em: 19 jul. 2022.'
+<p align="center">
+Tabela 01 - Requisitos relacionados a interface<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
-## Versão
+## Bibliografia
+> GAMBLE, S. Example: Supplementary Specification. [S. l.]: Pace University, 21 dez. 1998. Disponível em: https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm. Acesso em: 19 jul. 2022.'
+
+> Samily Rocha Gois: Especificação Suplementar, 27 out. 2012. Disponível em: https://aprender3.unb.br/pluginfile.php/2124482/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf. Acesso em: 19 jul. 2022.'
+
+## Histórico de versão
 | Versão | Data       | Descrição             | Autor              | Revisor             |
 | ------ | ---------- | --------------------  | ------------------ | ------------------- |
 | 1.0    | 24/10/2023 |Criação documento      | João Gabriel Elvas | João Pedro          |
 | 1.1    | 25/10/2023 |Legenda tabelas        | João Gabriel Elvas | João Pedro          |
+| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

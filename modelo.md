@@ -30,7 +30,7 @@ Obs: as figuras/tabelas sempre devem ser chamadas no texto
 ## Referência
 [1] Obras Citadas
 
-# Histórico de versão
+## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
