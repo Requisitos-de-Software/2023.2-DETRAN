@@ -157,27 +157,27 @@ Tabela 05 - Planejamento Entrega 04<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
-### Cronograma realizado entrega 4 
+### Cronograma realizado entrega 4
 
-| Atividade                                                                                                             | Início | Fim   | Autores                  | Revisores |
-| --------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ------------------------ | --------- |
-| Histórias de usuário                                                                                                  |        |       | João Gabriel e Pedro     |           |
-| Backlog                                                                                                               |        |       | Vitor e Guilherme        |           |
-| NFR Framework                                                                                                         | 02/11       |  06/11     | João Pedro e Vitor       |           |
-| Correção: Refazer o casos de uso e adcionar card de login                                                             | 04/11  | 06/11 | João Pedro e Guilherme   |           |
-| Correção:Especificar aonde usar cada ferramenta do projeto                                                            |        |       | João Pedro               |           |
-| Correção: lexicos (add hyperlinks,especificar usuario,redundancia de verbos)                                          |        |       | Guilherme e João Gabriel |           |
-| Correção:Padronizacao (historico de versão,tabelas .. etc).Base checklist                                             |        |       | Vitor e Pedro            |           |
-| Adcionar cronograma realizado entrega 3                                                                               |  06/11 | 06/11 | João Pedro               |           |
-| Reorganizar estrutura do GitPages                                                                                     |        |       | Pedro                    |           |
-| Correção: Personas: Adcionar explicação do porque da quantidade de personas                                           |        |       | Vitor e Guilherme        |           |
-| Correção: Perfil do Usuario: Ser uma aba separada do questionario                                                     |        |       | Vitor e Pedro            |           |
-| Correção: Adcionar gravação da priorizaçao de requisitos                                                              |        |       | Guilherme e Pedro        |           |
-| Correção: Especificação suplementar (abranger menos e ser mais especifico)                                            |        |       | João Gabriel             |           |
-| Correção: Cenarios (Adcionar funcionalidades nao implementadas,Padronizar metodologias,criar hyperlinks para lexicos) |        |       | Guilherme e Pedro        |           |
-| Padronização: Cronograma realizado entrega 4                                                                          | 06/11  | 06/11 | Pedro                    |           |
-| Adição: Léxico 18 - CRLV                                                                                              | 06/11  | 06/11 | Pedro                    |           |
-| Adição: Histórias de usuários                                                                                         | 05/11  | 06/11 | João Elvas e Pedro       |           |
+| Atividade                                                                                                           | Início | Fim   | Autores                  | Revisores |
+| ------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ------------------------ | --------- |
+| Histórias de usuário                                                                                                | 05/11  | 06/11 | João Gabriel e Pedro     |           |
+| Backlog                                                                                                             |        |       | Vitor e Guilherme        |           |
+| NFR Framework                                                                                                       | 02/11  | 06/11 | João Pedro e Vitor       |           |
+| Correção: Refazer o casos de uso e adicionar card de login                                                           | 04/11  | 06/11 | João Pedro e Guilherme   |           |
+| Correção: Especificar onde usar cada ferramenta do projeto                                                           |        |       | João Pedro               |           |
+| Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                   |        |       | Guilherme e João Gabriel |           |
+| Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist                                          |        |       | Vitor e Pedro            |           |
+| Adicionar cronograma realizado entrega 3                                                                            | 06/11  | 06/11 | João Pedro               |           |
+| Reorganizar estrutura do GitPages                                                                                  |        |       | Pedro                    |           |
+| Correção: Personas - Adicionar explicação do motivo da quantidade de personas                                        |        |       | Vitor e Guilherme        |           |
+| Correção: Perfil do Usuário - Ser uma aba separada do questionário                                                 |        |       | Vitor e Pedro            |           |
+| Correção: Adicionar gravação da priorização de requisitos                                                           |        |       | Guilherme e Pedro        |           |
+| Correção: Especificação suplementar - Abranger menos e ser mais específico                                           | 05/11  | 06/11 | João Gabriel             |           |
+| Correção: Cenários (Adicionar funcionalidades não implementadas, Padronizar metodologias, criar hyperlinks para léxicos) |        |       | Guilherme e Pedro        |           |
+| Padronização: Cronograma realizado entrega 4                                                                      | 06/11  | 06/11 | Pedro                    |           |
+| Adição: Léxico 18 - CRLV                                                                                           | 06/11  | 06/11 | Pedro                    |           |
+| Adição: Histórias de Usuários                                                                                      | 05/11  | 06/11 | João Elvas e Pedro       |           |
 
 ## Entrega 5.1
 
