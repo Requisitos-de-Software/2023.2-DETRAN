@@ -19,12 +19,12 @@ Figura 01 - Elemento Ator<br>
 (Fonte: João Pedro).
 </p>
 
-2) Cenario : E o elemento onde e descrito os eventos que acontecem quando um usuário utiliza o sistema,onde todos os casos de usos descritos pelo sistema Normalmente estao dentro do cenário, caso contrário serão considerados fora do escopo do sistema.Normalmente representado por uma caixa (Figura 2).
+2) Sistema : E o elemento onde e descrito os eventos que acontecem quando um usuário utiliza o sistema,onde todos os casos de usos descritos pelo sistema Normalmente estao dentro do sistema, caso contrário serão considerados fora do escopo do sistema.Normalmente representado por uma caixa (Figura 2).
 
-![Cenario](https://raw.githubusercontent.com/requisitos-de-software/2023.1-vlc/master/docs/modelagem/img/cenario.png)
+![sistema](/docs/assets/sistema.PNG)
 
 <p align="center">
-Figura 02 - Elemento Cenário<br>
+Figura 02 - Elemento Sistema<br>
 (Fonte: João Pedro).
 </p>
 
@@ -54,7 +54,7 @@ Figura 04 - Elemento Comunicação<br>
 
 ## 4. Casos de uso
 
-![casos de uso](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/assets/casos_de_uso_Detran.png)
+![casos de uso]()
  
 <p align="center">
 Figura 05 - Diagrama de Casos de Uso<br>
