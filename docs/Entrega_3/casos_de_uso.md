@@ -54,7 +54,7 @@ Figura 04 - Elemento Comunicação<br>
 
 ## 4. Casos de uso
 
-![casos de uso]()
+![casos de uso](/docs/assets/casos_de_uso_Detran(1).png)
  
 <p align="center">
 Figura 05 - Diagrama de Casos de Uso<br>
