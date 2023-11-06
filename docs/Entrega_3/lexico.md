@@ -34,7 +34,7 @@ Tabela 02 - Léxico Usuario<br>
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação | ID dos requisitos |
 | --- | --- | --- | --- | --- | --- |
-| CNH | Carteira Nacional de Habilitação, carteira de motorista, habilitação | Documento que comprova que o usuário está apto a dirigir veículos de determinada categoria | A CNH é um documento obrigatório para os condutores de veículos e deve estar sempre atualizada e válida. O aplicativo deve permitir ao usuário consultar, baixar e alterar os dados da sua CNH | Objeto | ADD18, ADD21, ADD28, ADD31 |
+| CNH | Carteira Nacional de Habilitação, carteira de motorista, habilitação, CNH-e| Documento que comprova que o usuário está apto a dirigir veículos de determinada categoria | A CNH é um documento obrigatório para os condutores de veículos e deve estar sempre atualizada e válida. O aplicativo deve permitir ao usuário consultar, baixar e alterar os dados da sua CNH | Objeto | ADD18, ADD21, ADD28, ADD31 |
 
 <p align="center">
 Tabela 03 - Léxico CNH<br>
@@ -206,6 +206,18 @@ Tabela 18 - Léxico Expirado<br>
 (Fonte: Guilherme Nishimura)
 </p>
 
+### L18: CRLV
+
+| Léxico | Sinônimos | Descrição | Observações | Tipo | Campos Relacionados |
+| --- | --- | --- | --- | --- | --- |
+| CRLV | Certificado de Registro e Licenciamento de Veículo, CRLV, CRLV-e | Trata-se de um documento de porte obrigatório que todo proprietário de veículo automotivo deve possuir no Brasil. | O Aplicativo deve permitir a consulta/download deste documento para o usuário | Objeto | ADD33 |
+
+<p align="center">
+Tabela 18 - Léxico Expirado<br>
+(Fonte: Pedro Campos)
+</p>
+
+
 ## Bibliografia
 
 > Slides disponibilizados pelo professor da disciplina, “Modelagem parte 1, Requisitos - Aula 10” - Milene Serrano. Acesso em: 22 Out. 2023.
@@ -216,3 +228,4 @@ Tabela 18 - Léxico Expirado<br>
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 24/10/2023 | Criação do documento | Guilherme Nishimura | Vitor, Pedro |
 | 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
+| 2.1 | 06/11/2023 | Adição do léxico 18 e correção do léxico 2 | Pedro Campos | Vitor Borges |
