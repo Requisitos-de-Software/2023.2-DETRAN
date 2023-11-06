@@ -115,8 +115,8 @@ Nome
 * Os usuários devem poder obter acesso às principais informações de suas Carteiras, informações essas exemplificadas na Descrição desta História.
 * Válido: O usuário representativo considerou esta funcionalidade relevante para os usuários do Detran Digital.
 
-### 3.9 História 9: Consultar dados do veículo.
-* ID: US09
+### 3.10 História 10: Consultar dados do veículo.
+* ID: US10
 * Origem: [ADD16, ADD17, ADD15, ADD13, ADD22, ADD24](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/requisitos_elicitados/#2-documentos-elicitados)
 * Descrição: Eu, como usuário, desejo poder consultar/baixar os dados do meu veículo, como por exemplo: boletos com os débitos do meu veículo, documentos, dados, multas.
 * Motivo: Gostaria de aferir a atual situação da minha Carteira Nacional de Habilitação.
@@ -128,8 +128,8 @@ Nome
 * Os usuários devem poder baixar os dados dos veículos.
 * Válido: O usuário representativo considerou esta funcionalidade relevante para os usuários do Detran Digital.
 
-### 3.10 História 10: Transferência de pontuação
-* ID: US10
+### 3.11 História 11: Transferência de pontuação
+* ID: US11
 * Origem: Este requisito não foi elicitado pelo nosso grupo, porém trata-se de uma funcionalidade importante do produto.
 * Descrição: Eu, como usuário, desejo poder consultar/baixar os dados do meu veículo, como por exemplo: boletos com os débitos do meu veículo, documentos, dados, multas.
 * Motivo: Quero a oportunidade de mostrar o real infrator de trânsito de maneira educativa, quando aplicável, sem receber penalidades financeiras ou perder pontos na carteira.
@@ -137,8 +137,8 @@ Nome
 ##### **Critérios de Aceitação:**
 * Os usuários devem poder trasnferir as pontuações referentes à multas quando a situação da multa for aplicável para tal.
 
-### 3.11 História 11: Lembrar dados do usuário.
-* ID: US11
+### 3.12 História 12: Lembrar dados do usuário.
+* ID: US12
 * Origem: [ADD20](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/requisitos_elicitados/#2-documentos-elicitados)
 * Descrição: Eu, como usuário, gostaria que o aplicativo lembrasse os meus dados após uma primeira utilização, sem ser necessário realizar a inserção desses dados no aplicativo todas as vezes em que eu abrí-lo.
 * Motivo: Caso o produto tenha esse comportamento, seria muito mais prático e rápido o acesso à informação.
@@ -148,8 +148,8 @@ Nome
 * Os usuários devem permitir que o aplicativo grave suas informações de acesso.
 * Válido: O usuário representativo considerou esta funcionalidade relevante para os usuários do Detran Digital.
 
-### 3.12 História 12: Recolocação de placa do veículo.
-* ID: US11
+### 3.13 História 13: Recolocação de placa do veículo.
+* ID: US13
 * Origem: [ADD20](https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/requisitos_elicitados/#2-documentos-elicitados)
 * Descrição: Eu, como usuário, gostaria que fosse possível solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo.
 * Motivo: Gostaria dessa funcionalidade para que esse processo de recolocação de placa seja menos burocrático, mais rápido e simples.
