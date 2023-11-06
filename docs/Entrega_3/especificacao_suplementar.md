@@ -13,7 +13,7 @@ Os requisitos funcionais estão definidos por meio dos [Casos de uso](docs/Entre
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
-|USA01|O sistema deve ter a interface do aplicativo deve ser intuitiva, garantindo que usuários de todas as idades possam interagir facilmente com o sistema.|
+|USA01|O sistema deve ter a interface do aplicativo deve ser intuitiva, garantindo que usuários possam interagir facilmente com o sistema.|
 |USA02|O sistema deve oferecer orientações claras para os usuários durante todo o processo de renovação da carteira de motorista.|
 |USA03|O sistema O aplicativo deve oferecer uma seção de ajuda com documentação clara e instruções detalhadas sobre como usar as diferentes funcionalidades, facilitando o entendimento para usuários com diferentes níveis de habilidade.|
 |USA04|O sistema deve fornecer feedback claro e imediato para cada ação do usuário, indicando se uma ação foi bem-sucedida ou se há erros que precisam ser corrigidos.|
@@ -29,7 +29,7 @@ Tabela 01 - Requisitos relacionados a usabilidade<br>
 
 | ID  | Descrição                                                                          |
 |-----|------------------------------------------------------------------------------------|
-|CON01|O sistema deve estar disponível 24/7, com tempo de inatividade mínimo para garantir que os usuários possam acessá-lo sempre que precisarem.|
+|CON01|O sistema deve estar disponível o maximo de tempo possivel, com tempo de inatividade mínimo para garantir que os usuários possam acessá-lo sempre que precisarem.|
 |CON02|Todas as informações pessoais e transações dos usuários devem ser criptografadas e protegidas por medidas de segurança avançadas para evitar acessos não autorizados ou vazamentos de dado.|
 |CON03|O sistema tem que garantir a confiablidade nas infirmações geradas, como numero de placa, boleto, quantidade de multas.|
 |CON04|O sistema deve protejer dados sensiveis do usuário e do seu veículo.|
@@ -46,7 +46,7 @@ Tabela 02 - Requisitos relacionados a confiabilidade<br>
 |-----|------------------------------------------------------------------------------------|
 |DES01|O aplicativo deve apresentar tempos de resposta rápidos para todas as interações do usuário, garantindo uma experiência sem atrasos ou lentidões.|
 |DES02|O sistema deve ser escalável para acomodar um aumento significativo no número de usuários, mantendo o desempenho mesmo durante picos de uso, como em períodos de vencimento de documentos.|
-|DES03|O aplicativo deve ser otimizado para minimizar o consumo de recursos do dispositivo do usuário, como CPU e memória, para garantir que o desempenho global do dispositivo não seja prejudicado.|
+|DES03|O aplicativo deve ser otimizado para minimizar o consumo de recursos do dispositivo do usuário, como CPU e memória, para garantir que o desempenho do dispositivo não seja prejudicado.|
 |DES04|O sistema deve ser capaz de gerenciar eficientemente o tráfego de rede, evitando congestionamentos e garantindo que as transações sejam concluídas de forma suave, mesmo em redes com largura de banda limitada.|
 |DES05|As consultas e transações realizadas pelos usuários devem ser processadas de maneira eficiente, utilizando recursos do sistema de forma otimizada para evitar sobrecargas.|
 
@@ -115,8 +115,8 @@ Tabela 01 - Requisitos relacionados a interface<br>
 > Samily Rocha Gois: Especificação Suplementar, 27 out. 2012. Disponível em: https://aprender3.unb.br/pluginfile.php/2124482/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf. Acesso em: 19 jul. 2022.'
 
 ## Histórico de versão
-| Versão | Data       | Descrição             | Autor              | Revisor             |
-| ------ | ---------- | --------------------  | ------------------ | ------------------- |
-| 1.0    | 24/10/2023 |Criação documento      | João Gabriel Elvas | João Pedro          |
-| 1.1    | 25/10/2023 |Legenda tabelas        | João Gabriel Elvas | João Pedro          |
-| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
+| Versão | Data       | Descrição              | Autor              | Revisor             |
+| ------ | ---------- | --------------------   | ------------------ | ------------------- |
+| 1.0    | 24/10/2023 | Criação documento      | João Gabriel Elvas | João Pedro          |
+| 1.1    | 25/10/2023 | Legenda tabelas        | João Gabriel Elvas | João Pedro          |
+| 2.0    | 04/11/2023 | Atualização descrições | João Gabriel Elvas | Pedro               |
