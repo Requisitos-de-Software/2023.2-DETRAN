@@ -40,17 +40,36 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 
 ![Sig Usability](/docs/assets/sig-usabilidade.png)
 
+<p align="center">
+Figura 02- SIG:Usabilidade<br>
+(Fonte: João Pedro)
+</p>
+
 **Propagação:**
 
 ![prop Usability](/docs/assets/propagacao_usability.png)
+
+<p align="center">
+Figura 03- Propagação:Usabilidade<br>
+(Fonte: João Pedro)
+</p>
 
 ### Confiabilidade
 
 ![Deinifitivo 2 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/bf2d4c1c-b76d-4ccd-8da5-663fb9b5ffbb)
 
+<p align="center">
+Figura 04- SIG:Confiabilidade<br>
+(Fonte: Guilherme Nishimura)
+</p>
+
 **Propagação:**
 ![Definitivo drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/af22fe17-06c8-4703-a89b-ee142b6f00b9)
 
+<p align="center">
+Figura 05- Propagação:Confiabilidade<br>
+(Fonte: Guilherme Nishimura)
+</p>
 
 ### Desempenho
 
@@ -58,17 +77,46 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 
 ![Sig desempenho](/docs/assets/sig_desempenho.png)
 
+<p align="center">
+Figura 06- SIG:Desempenho<br>
+(Fonte: João Pedro)
+</p>
+
 **Propagação:**
 
 ![prop desempenho](/docs/assets/prop_desempenho.png)
+
+<p align="center">
+Figura 07- Propagação:Desempenho<br>
+(Fonte: João Pedro)
+</p>
 
 ### Suportabilidade
 
 ![Definitivo 3 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/c2ba4b8b-7374-4501-a15c-a9f83310a3b3)
 
+<p align="center">
+Figura 08- SIG:Suportabilidade<br>
+(Fonte: Guilherme Nishimura)
+</p>
+
 **Propagação:**
 ![dEFINICITO 5 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/8ed4426f-de7a-4142-8b97-4882045f339c)
 
-
+<p align="center">
+Figura 09- Propagação:Suportabilidade<br>
+(Fonte: Guilherme Nishimura)
+</p>
 
 ## Conclusão
+## Referências
+[1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 26 de Dezembro de 2022
+
+[2] SILVA, R. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Tese (Mestrado em Engenharia de Software) - Centro de Informática, Universidade Federal de Pernambuco. Recife, p. 155. 2019. Acesso em: 25 de Dezembro de 2022
+
+## Histórico de versão
+
+| Versão | Data       | Descrição            | Autor              | Revisor             |
+| ------ | ---------- | -------------------- | ------------------ | ------------------- |
+| 1.0 | 06/11/2023 | Criação do documento | João Pedro e Guilherme | - |
+| 1.1 | 06/11/2023 | Adição de tabelas | João Pedro e Guilherme | - |
