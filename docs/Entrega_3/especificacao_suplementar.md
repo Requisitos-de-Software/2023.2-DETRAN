@@ -119,4 +119,5 @@ Tabela 01 - Requisitos relacionados a interface<br>
 | ------ | ---------- | --------------------   | ------------------ | ------------------- |
 | 1.0    | 24/10/2023 | Criação documento      | João Gabriel Elvas | João Pedro          |
 | 1.1    | 25/10/2023 | Legenda tabelas        | João Gabriel Elvas | João Pedro          |
-| 2.0    | 04/11/2023 | Atualização descrições | João Gabriel Elvas | Pedro               |
+| 2.0    | 04/11/2023 | Padronização           | Vitor Borges       | Pedro |
+| 2.1    | 04/11/2023 | Atualização descrições | João Gabriel Elvas | Pedro               |
