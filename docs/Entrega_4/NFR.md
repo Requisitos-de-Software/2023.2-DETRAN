@@ -33,15 +33,28 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 
 ## NFRs
 
-### Interfaces
-
-O aplicativo deve possuir uma interface simples,intuitiva e padronizada para os usuarios poderem recorrer aos seus documentos de maneira simples.Os requisitos nao funcionais elicitados podem ser divididos em duas frentes como : Interface do **Usuario** e a Interface do **Hardware**
 
 ### Usabilidade
+
+**SIG  (SIG – Softgoal Interdependency Graph):**
+
+![Sig Usability](/docs/assets/sig-usabilidade.png)
+
+**Propagação:**
+
+![prop Usability](/docs/assets/propagacao_usability.png)
 
 ### Confiabilidade
 
 ### Desempenho
+
+**SIG  (SIG – Softgoal Interdependency Graph):**
+
+![Sig desempenho](/docs/assets/sig_desempenho.png)
+
+**Propagação:**
+
+![prop desempenho](/docs/assets/prop_desempenho.png)
 
 ### Suportabilidade
 
