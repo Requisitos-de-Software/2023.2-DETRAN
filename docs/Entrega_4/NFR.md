@@ -46,6 +46,12 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 
 ### Confiabilidade
 
+![Deinifitivo 2 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/bf2d4c1c-b76d-4ccd-8da5-663fb9b5ffbb)
+
+**Propagação:**
+![Definitivo drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/af22fe17-06c8-4703-a89b-ee142b6f00b9)
+
+
 ### Desempenho
 
 **SIG  (SIG – Softgoal Interdependency Graph):**
@@ -57,5 +63,12 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 ![prop desempenho](/docs/assets/prop_desempenho.png)
 
 ### Suportabilidade
+
+![Definitivo 3 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/c2ba4b8b-7374-4501-a15c-a9f83310a3b3)
+
+**Propagação:**
+![dEFINICITO 5 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/8ed4426f-de7a-4142-8b97-4882045f339c)
+
+
 
 ## Conclusão
