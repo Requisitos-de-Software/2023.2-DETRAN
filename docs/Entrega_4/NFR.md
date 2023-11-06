@@ -58,6 +58,17 @@ Figura 03- Propagação:Usabilidade<br>
 
 ### Confiabilidade
 
+A Confiabilidade é um aspecto fundamental para garantir que o aplicativo Detran digital atenda efetivamente às necessidades de seus usuários:
+
+1. **Confiança do usuário**: Se o aplicativo for confiável, os usuários terão mais confiança em usá-lo para realizar tarefas importantes. Isso pode levar a um aumento na adoção do aplicativo.
+2. **Precisão das informações**: Como o aplicativo lida com informações sensíveis e importantes, é crucial que ele seja confiável para garantir que as informações sejam precisas e atualizadas.
+3. **Disponibilidade**: O aplicativo precisa estar disponível sempre que os usuários precisarem dele. Se o aplicativo não for confiável e estiver frequentemente indisponível ou falhando, isso pode causar frustração e inconveniência para os usuários.
+4. **Segurança dos dados**: A confiabilidade também está relacionada à segurança dos dados. Se o aplicativo for confiável, os usuários podem confiar que seus dados estão seguros e protegidos contra corrupção ou perda.
+5. **Manutenção e atualizações**: Um aplicativo confiável é mais fácil de manter e atualizar. Isso significa que novos recursos podem ser adicionados mais facilmente e os bugs podem ser corrigidos de maneira mais eficiente.
+
+
+
+
 ![Deinifitivo 2 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/bf2d4c1c-b76d-4ccd-8da5-663fb9b5ffbb)
 
 <p align="center">
@@ -96,6 +107,28 @@ Figura 07- Propagação:Desempenho<br>
 </p>
 
 ### Suportabilidade
+Garanti  que o aplicativo Detran digital seja suportável e eficaz para os usuários:
+
+
+1. **Desempenho**: Este subnó garante que o aplicativo funcione de maneira eficiente e rápida. Isso inclui:
+    - **Eficiência**: O aplicativo deve usar recursos de maneira eficiente para garantir um bom desempenho.
+    - **Alta performance**: O aplicativo deve ser capaz de lidar com altas cargas de trabalho e ainda manter um bom desempenho.
+
+2. **Segurança**: Este subnó garante que os dados no aplicativo sejam seguros e protegidos. Isso inclui:
+    - **Proteção de dados**: O aplicativo deve ter mecanismos para proteger os dados dos usuários de acessos não autorizados.
+    - **Autenticação segura**: O aplicativo deve ter um sistema de autenticação seguro para garantir que apenas usuários autorizados tenham acesso.
+
+3. **Compatibilidade**: Este subnó garante que o aplicativo possa funcionar em diferentes dispositivos e sistemas operacionais. Isso inclui:
+    - **Suporte a múltiplos dispositivos**: O aplicativo deve ser compatível com uma variedade de dispositivos, como smartphones, tablets e computadores.
+    - **Suporte a múltiplos sistemas operacionais**: O aplicativo deve ser capaz de funcionar em diferentes sistemas operacionais, como Android, iOS, Windows, etc.
+
+4. **Robustez**: Este subnó garante que o aplicativo possa lidar com falhas e erros de maneira eficaz. Isso inclui:
+    - **Tolerância a falhas de rede**: O aplicativo deve ser capaz de lidar com falhas de rede e ainda funcionar corretamente.
+    - **Recuperação de erros**: Se ocorrerem erros, o aplicativo deve ser capaz de se recuperar e continuar funcionando.
+
+
+
+
 
 ![Definitivo 3 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/c2ba4b8b-7374-4501-a15c-a9f83310a3b3)
 
