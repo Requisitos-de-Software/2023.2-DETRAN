@@ -163,12 +163,12 @@ Tabela 05 - Planejamento Entrega 04<br>
 | --------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ------------------------ | --------- |
 | Histórias de usuário                                                                                                  |        |       | João Gabriel e Pedro     |           |
 | Backlog                                                                                                               |        |       | Vitor e Guilherme        |           |
-| NFR Framework                                                                                                         |        |       | João Pedro e Vitor       |           |
+| NFR Framework                                                                                                         | 02/11       |  06/11     | João Pedro e Vitor       |           |
 | Correção: Refazer o casos de uso e adcionar card de login                                                             | 04/11  | 06/11 | João Pedro e Guilherme   |           |
 | Correção:Especificar aonde usar cada ferramenta do projeto                                                            |        |       | João Pedro               |           |
 | Correção: lexicos (add hyperlinks,especificar usuario,redundancia de verbos)                                          |        |       | Guilherme e João Gabriel |           |
 | Correção:Padronizacao (historico de versão,tabelas .. etc).Base checklist                                             |        |       | Vitor e Pedro            |           |
-| Adcionar cronograma realizado entrega 3                                                                               |        |       | João Pedro               |           |
+| Adcionar cronograma realizado entrega 3                                                                               |    06/11    |  06/11     | João Pedro               |           |
 | Reorganizar estrutura do GitPages                                                                                     |        |       | Pedro                    |           |
 | Correção: Personas: Adcionar explicação do porque da quantidade de personas                                           |        |       | Vitor e Guilherme        |           |
 | Correção: Perfil do Usuario: Ser uma aba separada do questionario                                                     |        |       | Vitor e Pedro            |           |

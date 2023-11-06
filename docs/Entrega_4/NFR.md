@@ -24,7 +24,7 @@ Esse documento tem o objetivo ao utilizar o  NFR framework  documentar os requis
 
 Segue abaixo a legenda explicando os tipos de softgoal e os rotulos da propagação de impactos que serao utilizados.
 
-![](/docs/assets/legenda.png)
+![Legenda](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/docs/assets/legenda.png)
 
 <p align="center">
 Figura 01 - Rotulos e representacoes das Softgoals<br>
@@ -36,9 +36,11 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 
 ### Usabilidade
 
+Usabilidade (Usability) refere-se à facilidade de uso de um produto ou sistema. Suas cinco principais características incluem: facilidade de aprendizado (Learnability), eficiência de uso (Efficiency), memorabilidade (Memorability), satisfação do usuário (User Satisfaction) e tolerância a erros (Error Tolerance). Uma boa usabilidade visa tornar a interação dos usuários eficaz, eficiente, satisfatória, fácil de aprender (Learnability) e capaz de lidar com erros (Error Tolerance). Esses aspectos são cruciais para garantir uma experiência positiva e produtiva para os usuários.
+
 **SIG  (SIG – Softgoal Interdependency Graph):**
 
-![Sig Usability](/docs/assets/sig-usabilidade.png)
+![Sig Usability](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/docs/assets/sig-usabilidade.png)
 
 <p align="center">
 Figura 02- SIG:Usabilidade<br>
@@ -47,7 +49,7 @@ Figura 02- SIG:Usabilidade<br>
 
 **Propagação:**
 
-![prop Usability](/docs/assets/propagacao_usability.png)
+![prop Usability](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/docs/assets/propagacao_usability.png)
 
 <p align="center">
 Figura 03- Propagação:Usabilidade<br>
@@ -73,9 +75,11 @@ Figura 05- Propagação:Confiabilidade<br>
 
 ### Desempenho
 
+Desempenho em uma aplicação refere-se à sua capacidade de executar tarefas de forma eficiente. Duas características-chave do desempenho são o tempo de resposta ágil e o baixo uso de memória. Um tempo de resposta rápido garante que a aplicação seja responsiva, enquanto o uso eficiente de memória otimiza o uso dos recursos do sistema, proporcionando uma experiência mais suave e eficaz aos usuários.
+
 **SIG  (SIG – Softgoal Interdependency Graph):**
 
-![Sig desempenho](/docs/assets/sig_desempenho.png)
+![Sig desempenho](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/docs/assets/sig_desempenho.png)
 
 <p align="center">
 Figura 06- SIG:Desempenho<br>
@@ -84,7 +88,7 @@ Figura 06- SIG:Desempenho<br>
 
 **Propagação:**
 
-![prop desempenho](/docs/assets/prop_desempenho.png)
+![prop desempenho](https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-DETRAN/main/docs/assets/prop_desempenho.png)
 
 <p align="center">
 Figura 07- Propagação:Desempenho<br>
