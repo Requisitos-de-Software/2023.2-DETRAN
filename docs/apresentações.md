@@ -35,6 +35,16 @@ Video 03 - Apresentação da etapa 03<br>
 (Fonte: Grupo 07).
 </p>
 
+## 4. Entrega 04
+
+Segue abaixo o video de apresentação da entrega 3, realizado no dia 06/11/2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Y0Y1fTJxMw?si=NtxMtsd78TkPT24P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center">
+Video 04 - Apresentação da etapa 04<br>
+(Fonte: Grupo 07).
+</p>
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
@@ -43,3 +53,4 @@ Video 03 - Apresentação da etapa 03<br>
 | 2.0    | 04/10/2023 | Adicionado video da apresentação etapa 2 | Vitor Borges |  |
 | 3.0    | 25/10/2023 | Adicionado video da apresentação etapa 3 | Vitor Borges |  |
 | 3.1 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
+| 4.0    | 25/10/2023 | Adicionado video da apresentação etapa 4 | Vitor Borges |  |
