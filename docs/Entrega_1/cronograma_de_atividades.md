@@ -167,7 +167,7 @@ Tabela 05 - Planejamento Entrega 04<br>
 | Correção: Refazer o casos de uso e adicionar card de login                                                           | 04/11  | 06/11 | João Pedro e Guilherme   |           |
 | Correção: Especificar onde usar cada ferramenta do projeto                                                           |        |       | João Pedro               |           |
 | Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                   |        |       | Guilherme e João Gabriel |           |
-| Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist                                          |        |       | Vitor e Pedro            |           |
+| Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist                                          |    04/11    |   04/11    | Vitor e Pedro            |           |
 | Adicionar cronograma realizado entrega 3                                                                            | 06/11  | 06/11 | João Pedro               |           |
 | Reorganizar estrutura do GitPages                                                                                  |        |       | Pedro                    |           |
 | Correção: Personas - Adicionar explicação do motivo da quantidade de personas                                        |        |       | Vitor e Guilherme        |           |
