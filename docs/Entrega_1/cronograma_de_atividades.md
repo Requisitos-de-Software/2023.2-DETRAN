@@ -162,8 +162,8 @@ Tabela 05 - Planejamento Entrega 04<br>
 | Atividade                                                                                                           | Início | Fim   | Autores                  | Revisores |
 | ------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ------------------------ | --------- |
 | Histórias de usuário                                                                                                | 05/11  | 06/11 | João Gabriel e Pedro     |           |
-| Backlog                                                                                                             |        |       | Vitor e Guilherme        |           |
-| NFR Framework                                                                                                       | 02/11  | 06/11 | João Pedro e Vitor       |           |
+| Backlog                                                                                                             |        |       | Vitor       |           |
+| NFR Framework                                                                                                       | 02/11  | 06/11 | João Pedro e Guilherme         |           |
 | Correção: Refazer o casos de uso e adicionar card de login                                                           | 04/11  | 06/11 | João Pedro e Guilherme   |           |
 | Correção: Especificar onde usar cada ferramenta do projeto                                                           |        |       | João Pedro               |           |
 | Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                   |        |       | Guilherme e João Gabriel |           |
