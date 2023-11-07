@@ -165,16 +165,10 @@ Tabela 05 - Planejamento Entrega 04<br>
 | Backlog                                                                                                             | 05/11       |  06/11     | Vitor       |     João Pedro      |
 | NFR Framework                                                                                                       | 02/11  | 06/11 | João Pedro e Guilherme         |           |
 | Correção: Refazer o casos de uso e adicionar card de login                                                           | 04/11  | 06/11 | João Pedro e Guilherme   |           |
-| Correção: Especificar onde usar cada ferramenta do projeto                                                           |        |       | João Pedro               |           |
-| Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                   |        |       | Guilherme e João Gabriel |           |
 | Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist                                          |    04/11    |   04/11    | Vitor e Pedro            |           |
 | Adicionar cronograma realizado entrega 3                                                                            | 06/11  | 06/11 | João Pedro               |           |
-| Reorganizar estrutura do GitPages                                                                                  |        |       | Pedro                    |           |
-| Correção: Personas - Adicionar explicação do motivo da quantidade de personas                                        |        |       | Vitor e Guilherme        |           |
-| Correção: Perfil do Usuário - Ser uma aba separada do questionário                                                 |        |       | Vitor e Pedro            |           |
-| Correção: Adicionar gravação da priorização de requisitos                                                           |        |       | Guilherme e Pedro        |           |
+| Reorganizar estrutura do GitPages                                                                                  | 06/11  | 06/11 | Pedro                    |           |
 | Correção: Especificação suplementar - Abranger menos e ser mais específico                                           | 05/11  | 06/11 | João Gabriel             |           |
-| Correção: Cenários (Adicionar funcionalidades não implementadas, Padronizar metodologias, criar hyperlinks para léxicos) |        |       | Guilherme e Pedro        |           |
 | Padronização: Cronograma realizado entrega 4                                                                      | 06/11  | 06/11 | Pedro                    |           |
 | Adição: Léxico 18 - CRLV                                                                                           | 06/11  | 06/11 | Pedro                    |           |
 | Adição: Histórias de Usuários                                                                                      | 05/11  | 06/11 | João Elvas e Pedro       |           |
@@ -191,6 +185,12 @@ A Tabela 6 mostra as atividades planejadas para a entrega 5.1, além de seus aut
 | Validação de requisitos 1               | 06/11  | 13/11 | João Pedro, Pedro                              | João Gabriel ,Guilherme e Vitor                |
 | Gravação da apresentação                | 06/11  | 13/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 | Correções do Ponto de Controle anterior | 06/11  | 13/11 | João Gabriel e Pedro                           | Guilherme                                      |
+| Correção: Especificar onde usar cada ferramenta do projeto                                                           | 06/11  | 13/11 | João Pedro               |           |
+| Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                   | 06/11  | 13/11 | Guilherme e João Gabriel |           |
+| Correção: Personas - Adicionar explicação do motivo da quantidade de personas                                        | 06/11  | 13/11 | Vitor e Guilherme        |           |
+| Correção: Perfil do Usuário - Ser uma aba separada do questionário                                                 | 06/11  | 13/11 | Vitor e Pedro            |           |
+| Correção: Adicionar gravação da priorização de requisitos                                                           | 06/11  | 13/11 | Guilherme e Pedro        |           |
+| Correção: Cenários (Adicionar funcionalidades não implementadas, Padronizar metodologias, criar hyperlinks para léxicos) | 06/11  | 13/11 | Guilherme e Pedro        |           |
 
 <p align="center">
 Tabela 6 - Planejamento Entrega 5.1<br>
