@@ -166,7 +166,6 @@ Tabela 05 - Planejamento Entrega 04<br>
 | NFR Framework                                                                                                       | 02/11  | 06/11 | João Pedro e Guilherme         |           |
 | Correção: Refazer o casos de uso e adicionar card de login                                                           | 04/11  | 06/11 | João Pedro e Guilherme   |           |
 | Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist                                          |    04/11    |   04/11    | Vitor e Pedro            |           |
-| Adicionar cronograma realizado entrega 3                                                                            | 06/11  | 06/11 | João Pedro               |           |
 | Reorganizar estrutura do GitPages                                                                                  | 06/11  | 06/11 | Pedro                    |           |
 | Correção: Especificação suplementar - Abranger menos e ser mais específico                                           | 05/11  | 06/11 | João Gabriel             |           |
 | Padronização: Cronograma realizado entrega 4                                                                      | 06/11  | 06/11 | Pedro                    |           |
@@ -191,6 +190,7 @@ A Tabela 6 mostra as atividades planejadas para a entrega 5.1, além de seus aut
 | Correção: Perfil do Usuário - Ser uma aba separada do questionário                                                 | 06/11  | 13/11 | Vitor e Pedro            |           |
 | Correção: Adicionar gravação da priorização de requisitos                                                           | 06/11  | 13/11 | Guilherme e Pedro        |           |
 | Correção: Cenários (Adicionar funcionalidades não implementadas, Padronizar metodologias, criar hyperlinks para léxicos) | 06/11  | 13/11 | Guilherme e Pedro        |           |
+| Adicionar cronograma realizado entrega 3                                                                            |   |  | João Pedro               |           |
 
 <p align="center">
 Tabela 6 - Planejamento Entrega 5.1<br>
