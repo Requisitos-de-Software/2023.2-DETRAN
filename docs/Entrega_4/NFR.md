@@ -146,6 +146,9 @@ Figura 09- Propagação:Suportabilidade<br>
 </p>
 
 ## Conclusão
+
+Com base no documento feito,pode-se concluir a partir do softgoals que a maioria  das características estudadas atendeu os requisitos não funcionais propostos porem muitos ficaram incompletos o que se faz necessários melhorias.
+
 ## Referências
 [1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 26 de Dezembro de 2022
 
