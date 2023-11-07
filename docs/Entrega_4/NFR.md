@@ -67,22 +67,22 @@ A Confiabilidade é um aspecto fundamental para garantir que o aplicativo Detran
 5. **Manutenção e atualizações**: Um aplicativo confiável é mais fácil de manter e atualizar. Isso significa que novos recursos podem ser adicionados mais facilmente e os bugs podem ser corrigidos de maneira mais eficiente.
 
 
-
-
-![Deinifitivo 2 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/bf2d4c1c-b76d-4ccd-8da5-663fb9b5ffbb)
+![Definitivo 3 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/c2ba4b8b-7374-4501-a15c-a9f83310a3b3)
 
 <p align="center">
-Figura 04- SIG:Confiabilidade<br>
+Figura 08- SIG:Suportabilidade<br>
 (Fonte: Guilherme Nishimura)
 </p>
 
 **Propagação:**
-![Definitivo drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/af22fe17-06c8-4703-a89b-ee142b6f00b9)
+![dEFINICITO 5 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/8ed4426f-de7a-4142-8b97-4882045f339c)
 
 <p align="center">
-Figura 05- Propagação:Confiabilidade<br>
+Figura 09- Propagação:Suportabilidade<br>
 (Fonte: Guilherme Nishimura)
 </p>
+
+
 
 ### Desempenho
 
@@ -127,23 +127,23 @@ Garanti  que o aplicativo Detran digital seja suportável e eficaz para os usuá
     - **Recuperação de erros**: Se ocorrerem erros, o aplicativo deve ser capaz de se recuperar e continuar funcionando.
 
 
-
-
-
-![Definitivo 3 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/c2ba4b8b-7374-4501-a15c-a9f83310a3b3)
+![Deinifitivo 2 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/bf2d4c1c-b76d-4ccd-8da5-663fb9b5ffbb)
 
 <p align="center">
-Figura 08- SIG:Suportabilidade<br>
+Figura 04- SIG:Confiabilidade<br>
 (Fonte: Guilherme Nishimura)
 </p>
 
 **Propagação:**
-![dEFINICITO 5 drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/8ed4426f-de7a-4142-8b97-4882045f339c)
+![Definitivo drawio](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/af22fe17-06c8-4703-a89b-ee142b6f00b9)
 
 <p align="center">
-Figura 09- Propagação:Suportabilidade<br>
+Figura 05- Propagação:Confiabilidade<br>
 (Fonte: Guilherme Nishimura)
 </p>
+
+
+
 
 ## Conclusão
 
