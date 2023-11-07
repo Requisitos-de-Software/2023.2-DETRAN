@@ -85,7 +85,7 @@ Tabela 08 - Descrição do épico 08<br>
 
 ## 4. Priorização
 A priorização enfoca o valor do cliente, minimiza riscos, promove entregas incrementais e feedback rápido. Facilita a adaptação a mudanças, otimiza o uso de recursos e melhora a comunicação entre a equipe e as partes interessadas. Além disso, torna o planejamento de sprint mais eficaz, garantindo que as funcionalidades mais cruciais sejam desenvolvidas primeiro, resultando em um projeto bem-sucedido e alinhado com as necessidades do negócio e dos usuários.<br>
-Com isso em mente realizamos a priorização do nosso backlog tomando como base as histórias dos usuários criadas [2]. A partir disso a tabela 01 foi criada para mostrar a prioridade de cada épico para os usuários (a prioridade pode ser definida como baixa, média ou alta)
+Com isso em mente realizamos a priorização do nosso backlog tomando como base as histórias dos usuários criadas [2]. A partir disso a tabela 09 foi criada para mostrar a prioridade de cada épico para os usuários (a prioridade pode ser definida como baixa, média ou alta)
 
 | Épico | Histórias Relacionadas | Prioridade |
 |:-----:|:----------------------:|:----------:|
@@ -99,7 +99,7 @@ Com isso em mente realizamos a priorização do nosso backlog tomando como base 
 | Pagamento e Multas | US08, US06 | Baixa |
 
 <p align="center">
-Tabela 01 - Priorização do Backlog<br>
+Tabela 09 - Priorização do Backlog<br>
 (Fonte: Vitor Borges)
 </p>
 
