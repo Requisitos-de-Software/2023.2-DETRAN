@@ -197,9 +197,15 @@ Tabela 6 - Planejamento Entrega 5.1<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
+### Cronograma realizado entrega 5.1
+
+A Tabela 7 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
+
+*Análise de Requisitos: Verificação e Validação – Grupo + 1*
+
 ## Entrega 5.2
 
-A Tabela 7 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
+A Tabela 8 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
 
 *Análise de Requisitos: Verificação e Validação II*
 
@@ -211,13 +217,13 @@ A Tabela 7 mostra as atividades planejadas para a entrega 5.2, além de seus aut
 | Correções do Ponto de Controle anterior | 20/11  | 29/11 | Pedro e Vitor                                  | Guilherme                                      |
 
 <p align="center">
-Tabela 07 - Planejamento Entrega 5.2<br>
+Tabela 08 - Planejamento Entrega 5.2<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 ## Entrega 6 
 
-A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autores, revisores e datas de entrega.
+A Tabela 9 mostra as atividades planejadas para a entrega 6, além de seus autores, revisores e datas de entrega.
 
 *Pós-Rastreabilidade - Gerência II*
 
@@ -229,13 +235,13 @@ A Tabela 8 mostra as atividades planejadas para a entrega 6, além de seus autor
 | Correções do Ponto de Controle anterior | 14/11  | 20/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 
 <p align="center">
-Tabela 08 - Planejamento Entrega 06<br>
+Tabela 09 - Planejamento Entrega 06<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 ## Referência
 
-[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27 Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
+[1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: https://aprender3.unb.br/pluginfile.php/2523005/mod_resource/content/27Plano_de_Ensino%20RE%20202301%20Turma%202.pdf. Acesso em 26 de abril de 2023.
 
 ## Histórico de Versão
 
