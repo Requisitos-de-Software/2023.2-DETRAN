@@ -1,20 +1,20 @@
-# Verificação Ferramentas
+# Verificação Rich Picture
 
 # Introdução
 
 A verificação de software é um processo sistemático de avaliação e revisão do código fonte, design e documentação de um programa de computador com bjetivo principal de garantir que o software atenda aos requisitos especificados e que funcione conforme o esperado. 
 
-Esse documento tem o objetivo de documentar as verificações realizadas no artefato de Ferraments utilizadas no projeto.O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
+Esse documento tem o objetivo de documentar as verificações realizadas no artefato de Rich Picture do projeto.O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
 
 # Objetivo
 
-O artefato de verificação de Ferramentas tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta
+O artefato de verificação do Rich Picture tem o objetivo de documentar se o artefato de Rich Picture foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta.
 
 # Tabela de verificação
 
 ## Verificação Geral do padrão do projeto
 
-A tabela 1 abaixo tem o objetivo de realizar a verificação geral do artefato de aplicativos.
+A tabela 1 abaixo tem o objetivo de realizar a verificação geral do artefato de Rich Picture.
 
 *Verificação Geral do artefato*
 
@@ -36,7 +36,7 @@ Tabela 01 - Verificação Geral do artefato<br>
 
 ## Verificação expecifica do artefato
 
-O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/serão utilizadas durante o projeto e rastrear os seu uso ,a tabela 1 abaixo relaciona as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+O artefato de ferramentas tem o objetivo de documentar o Rich Picture realizado para o projeto, a tabela 1 abaixo relaciona as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
@@ -44,13 +44,18 @@ O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/
 
 *Verificação expecifica do artefato*
 
-| ID | Conteudo                                                              | Possue    | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------|-----------|-----------|------------|
-| 1  | O artefato possue as ferramentas utilizadas no projeto ?              |           |           |            |
-| 2  | As ferramentas possuem imagens e hyperlinks?                          |           |           |            |
-| 3  | Foi feito a rastreabilidade do uso das ferramentas do projeto ?       |           |           |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                       |           |           |            |
-| 5  | Foi dado uma breve descrição da motivação de utilizar tal aplicativo? |           |           |            |
+| ID | Conteudo                                                                                    | Possue    | Qualidade | Comentario |
+|----|---------------------------------------------------------------------------------------------|-----------|-----------|------------|
+| 1  | O artefato documenta todos os richPictures dos softwares selecionados ?                     |           |           |            |
+| 2  | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? |           |           |            |
+| 3  | O rich picture esta de facil entendimento ?                                                 |           |           |            |
+| 4  | O rich picture esta com o seu escopo definido ?                                             |           |           |            |
+| 5  | A escolha de plavaras para o richPicture esta de facil entendimento ?                       |           |           |            |
+| 6  | A mensagem passada pelo richPicture e efetiva ?                                             |           |           |            |
+| 7  | A historia e contada de forma eficiente ?                                                   |           |           |            |
+| 8  | O richPicture possui uma legenda explicando os símbolos utilizados no diagrama?             |           |           |            |
+|    |                                                                                             |           |           |            |
+
 
 <p align="center">
 Tabela 02 - Verificação Expecifica do artefato<br>
