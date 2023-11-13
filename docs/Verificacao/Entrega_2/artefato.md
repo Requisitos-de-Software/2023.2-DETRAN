@@ -9,39 +9,40 @@ Esse documento tem o objetivo de documentar as verificações realizadas no arte
 
 # Objetivo
 
-O artefato de verificação de Ferramentas tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta
+O artefato de verificação de Moscow tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta
 
 # Tabela de verificação
 
 ## Verificação Geral do padrão do projeto
 
-| ID | Conteudo                                                                                      | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------------------------------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     |    Excelente       |            |
-| 2  | O artefato possue revisor ?                                                                   |     Excelente      |            |
-| 3  | O historico de versão esta padronizado ?                                                      |    Excelente       |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                                               |      Imcompleta     |            |
-| 5  | O artefato possue Referências bibliográficas ?                                                |    Boa       |            |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |      Excelente      |            |
-| 7  | O artefato possue um texto fazendo uma introdução ?                                           |      Excelente      |            |
-| 8  | O artefato possui links para os outros artefatos?                                             |       Não realizado    |            |
+| ID | Conteudo                                                                                      | Cumprido | Qualidade | Comentario |
+|----|-----------------------------------------------------------------------------------------------|----------|-----------|------------|
+| 1  | O artefato possue autor ?                                                                     |  Sim        | Excelente |            |
+| 2  | O artefato possue revisor ?                                                                   |  Sim          | Excelente |            |
+| 3  | O historico de versão esta padronizado ?                                                      |   Sim         | Excelente |            |
+| 4  | Todas as ferramentas do projeto foram citadas ?                                               |   Sim         | Imcompleta |            |
+| 5  | O artefato possue Referências bibliográficas ?                                                |   Sim         | Boa       |            |
+| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |   Sim         | Excelente |            |
+| 7  | O artefato possue um texto fazendo uma introdução ?                                           |    Sim        | Excelente |            |
+| 8  | O artefato possui links para os outros artefatos?                                             |   Não     | Não realizado |            |
+
 
 ## Verificação expecifica do artefato
 
-O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/serão utilizadas durante o projeto e rastrear os seu uso ,a tabela 1 abaixo relaciona as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+O artefato de Moscow tem o objetivo de mostrar a aplicação da tecnica de priorização,a tabela 1 abaixo relaciona as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
 - Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
-- Não realizado( Não consta no documento)
 
-| ID | Conteudo                                                              | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------|-----------|------------|
-| 1  | Possue a gravação com um usuario              |           |            |
-| 2  | As ferramentas possuem imagens e hyperlinks?                          |           |            |
-| 3  | Foi feito a rastreabilidade do uso das ferramentas do projeto ?       |           |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                       |           |            |
-| 5  | Foi dado uma breve descrição da motivação de utilizar tal aplicativo? |           |            |
+
+| ID | Conteudo                                                              | Cumprido | Qualidade | Comentario |
+|----|-----------------------------------------------------------------------|----------|-----------|------------|
+| 1  | Possue a gravação com um usuario                                     |     Não     |           |    Não foi encontradas gravações        |
+| 2  | Os requisitos possuem rastreabilidade                                |    Sim    |    Excelente       |            |
+| 3  | Foi utilizado as 4 priorizações? (Must, should, could, won't )      |   Sim       |   Excelente          |            |
+| 4  | Possue legenda para identificar do que se trata o id?                |       Sim   |      Excelente     |            |
+
 
 ## Referencias Bibliograficas
 
@@ -53,4 +54,4 @@ O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/
 
 | Versão | Data       | Descrição | Autor               | Revisor |
 |--------|------------|-----------|---------------------|---------|
-| 1.0    | 13/11/2023 |           | João Pedro Anacleto |         |
+| 1.0    | 13/11/2023 |           | Guilherme Nishimura|      Vitor   |
