@@ -18,16 +18,15 @@ A tabela 1 abaixo tem o objetivo de realizar a verificação geral do artefato d
 
 *Verificação Geral do artefato*
 
-| ID | Conteudo                                                                                      | Possue    | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------------------------------|-----------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     |           |           |            |
-| 2  | O artefato possue revisor ?                                                                   |           |           |            |
-| 3  | O historico de versão esta padronizado ?                                                      |           |           |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                                               |           |           |            |
-| 5  | O artefato possue Referências bibliográficas ?                                                |           |           |            |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |           |           |            |
-| 7  | O artefato possue um texto fazendo uma introdução ?                                           |           |           |            |
-| 8  | O artefato possui links para os outros artefatos?                                             |           |           |            |
+| ID  | Conteudo                                                                                      | Possue | Qualidade  | Comentario                                       |
+| --- | --------------------------------------------------------------------------------------------- | ------ | ---------- | ------------------------------------------------ |
+| 1   | O artefato possue autor ?                                                                     | sim    | Excelente  |                                                  |
+| 2   | O artefato possue revisor ?                                                                   | sim    | Excelente  |                                                  |
+| 3   | O historico de versão esta padronizado ?                                                      | sim    | Excelente  |                                                  |
+| 4   | O artefato possue Referências bibliográficas ?                                                | não    | incompleta | não foi chamada no texto a tabela de ferramentas |
+| 5   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Excelente  |                                                  |
+| 6   | O artefato possue um texto fazendo uma introdução ?                                           | sim    | Excelente  |                                                  |
+| 7   | O artefato possui links para os outros artefatos?                                             |        |            | Não e necessario                                 |
 
 <p align="center">
 Tabela 01 - Verificação Geral do artefato<br>
@@ -44,13 +43,13 @@ O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/
 
 *Verificação expecifica do artefato*
 
-| ID | Conteudo                                                              | Possue    | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------|-----------|-----------|------------|
-| 1  | O artefato possue as ferramentas utilizadas no projeto ?              |           |           |            |
-| 2  | As ferramentas possuem imagens e hyperlinks?                          |           |           |            |
-| 3  | Foi feito a rastreabilidade do uso das ferramentas do projeto ?       |           |           |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                       |           |           |            |
-| 5  | Foi dado uma breve descrição da motivação de utilizar tal aplicativo? |           |           |            |
+| ID  | Conteudo                                                        | Possue | Qualidade  | Comentario |
+| --- | --------------------------------------------------------------- | ------ | ---------- | ---------- |
+| 1   | O artefato possue as ferramentas utilizadas no projeto ?        | sim    | Excelente  |            |
+| 2   | As ferramentas possuem imagens e hyperlinks?                    | sim    | Excelente  |            |
+| 3   | Foi feito a rastreabilidade do uso das ferramentas do projeto ? | não    | incompleta |            |
+| 4   | Todas as ferramentas do projeto foram citadas ?                 | sim    | Excelente  |            |
+
 
 <p align="center">
 Tabela 02 - Verificação Expecifica do artefato<br>
@@ -65,7 +64,7 @@ Tabela 02 - Verificação Expecifica do artefato<br>
 
 # Historico de versão
 
-| Versão | Data       | Descrição                     | Autor               | Revisor |
-|--------|------------|-----------                    |---------------------|---------|
-| 1.0    | 13/11/2023 | Criação do documento          | João Pedro Anacleto |         |
-|        |            |                               |                     |         |
+| Versão | Data       | Descrição            | Autor               | Revisor |
+| ------ | ---------- | -------------------- | ------------------- | ------- |
+| 1.0    | 13/11/2023 | Criação do documento | João Pedro Anacleto |         |
+|        |            |                      |                     |         |

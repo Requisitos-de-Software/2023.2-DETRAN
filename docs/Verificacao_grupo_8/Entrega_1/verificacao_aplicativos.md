@@ -14,20 +14,25 @@ O artefato de verificação de aplicativos tem o objetivo de documentar se o art
 
 ## Verificação Geral do padrão do projeto
 
+O artefato de aplicativos tem o objetivo de documentar os aplicativos que foram escolhidos e utilizados durante o projeto e rastrear os seu uso ,a tabela 1 abaixo relaciona as especificações gerais que um artefato deve possuir, onde a qualidade é baseada na seguinte classificação:
+
+- Excelente (Cumpre com todo conteúdo esperado na avaliação).
+- Boa (Possue parte do conteúdo esperado na avaliação).
+- Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
+
 A tabela 1 abaixo tem o objetivo de realizar a verificação geral do artefato de aplicativos.
 
 *Verificação Geral do artefato*
 
-| ID | Conteudo                                                                                      | Possue    | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------------------------------|-----------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     |           |           |            |
-| 2  | O artefato possue revisor ?                                                                   |           |           |            |
-| 3  | O historico de versão esta padronizado ?                                                      |           |           |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                                               |           |           |            |
-| 5  | O artefato possue Referências bibliográficas ?                                                |           |           |            |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |           |           |            |
-| 7  | O artefato possue um texto fazendo uma introdução ?                                           |           |           |            |
-| 8  | O artefato possui links para os outros artefatos?                                             |           |           |            |
+| ID  | Conteudo                                                                                      | Possue | Qualidade | Comentario |
+| --- | --------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
+| 1   | O artefato possue autor ?                                                                     | sim    | Excelente |            |
+| 2   | O artefato possue revisor ?                                                                   | sim    | Excelente |            |
+| 3   | O historico de versão esta padronizado ?                                                      | sim    | Excelente |            |
+| 4   | O artefato possue Referências bibliográficas ?                                                | sim    | Excelente |            |
+| 5   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Excelente |            |
+| 6   | O artefato possue um texto fazendo uma introdução ?                                           | sim    | Excelente |            |
+| 7   | O artefato possui links para os outros artefatos?                                             | sim    | Excelente |            |
 
 <p align="center">
 Tabela 01 - Verificação Geral do artefato<br>
@@ -36,25 +41,25 @@ Tabela 01 - Verificação Geral do artefato<br>
 
 ## Verificação expecifica do artefato
 
-O artefato de aplicativos tem o objetivo de documentar os aplicativos que foram escolhidos e utilizados durante o projeto e rastrear os seu uso ,a tabela 2 abaixo relaciona as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
+O artefato de aplicativos tem o objetivo de documentar os aplicativos que foram escolhidos e utilizados durante o projeto e rastrear os seu uso ,a tabela 1 abaixo relaciona as especificações ideais do artefato, se ele possue ou não e a qualidade da entrega, onde a qualidade é baseada na seguinte classificação:
 
 - Excelente (Cumpre com todo conteúdo esperado na avaliação).
 - Boa (Possue parte do conteúdo esperado na avaliação).
-- Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
+- Incompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 
 *Verificação expecifica do artefato*
 
-| ID | Conteudo                                                               | Possue    | Qualidade | Comentario |
-|----|------------------------------------------------------------------------|-----------|-----------|------------|
-| 1  | A motivação e os critérios para a escolha do App?                      |           |           |            |
-| 2  | Cada membro sugeriu um app para a avaliação ?                          |           |           |            |
-| 3  | Possue metodologia para escolha do aplicativo ?                        |           |           |            |
-| 4  | Os aplicativos nunca foram trabalhados anteriormente na disciplina?    |           |           |            |
-| 5  | Possue um richPicture para cada aplicativo ?                           |           |           |            |
-| 6  | O aplicativo definitivo e relacionado ao governo ou de software livre? |           |           |            |
-| 7  | O motivo da escolha do app esta descrito ?                             |           |           |            |
-| 8  | O aplicativo possue alguma documentação publica ?                      |           |           |            |
-| 9  | O aplicatvo pode ser acessado gratuitamente ?                          |           |           |            |
+| ID  | Conteudo                                                               | Possue | Qualidade  | Comentario                           |
+| --- | ---------------------------------------------------------------------- | ------ | ---------- | ------------------------------------ |
+| 1   | A motivação e os critérios para a escolha do App?                      | sim    | Excelente  |                                      |
+| 2   | Cada membro sugeriu um app para a avaliação ?                          | não    | Incompleta | So possue o app final                |
+| 3   | Possue metodologia para escolha do aplicativo ?                        | sim    | Excelente  |                                      |
+| 4   | Os aplicativos nunca foram trabalhados anteriormente na disciplina?    | sim    | Excelente  |                                      |
+| 5   | Possue um richPicture para cada aplicativo ?                           | não    | Incompleta | So possue o richPicture do app final |
+| 6   | O aplicativo definitivo e relacionado ao governo ou de software livre? | sim    | Excelente  |                                      |
+| 7   | O motivo da escolha do app esta descrito ?                             | sim    | Excelente  |                                      |
+| 8   | O aplicativo possue alguma documentação publica ?                      | sim    | Excelente  |                                      |
+| 9   | O aplicatvo pode ser acessado gratuitamente ?                          | sim    | Excelente  |                                      |
 
 <p align="center">
 Tabela 02 - Verificação Expecifica do artefato<br>
@@ -69,7 +74,7 @@ Tabela 02 - Verificação Expecifica do artefato<br>
 
 # Historico de versão
 
-| Versão | Data       | Descrição                     | Autor               | Revisor |
-|--------|------------|-----------                    |---------------------|---------|
-| 1.0    | 13/11/2023 | Criação do documento          | João Pedro Anacleto |         |
-|        |            |                               |                     |         |
+| Versão | Data       | Descrição            | Autor               | Revisor |
+| ------ | ---------- | -------------------- | ------------------- | ------- |
+| 1.0    | 13/11/2023 | Criação do documento | João Pedro Anacleto |         |
+|        |            |                      |                     |         |
