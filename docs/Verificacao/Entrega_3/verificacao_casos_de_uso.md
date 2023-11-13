@@ -7,7 +7,7 @@ Esse documento tem o objetivo de documentar as verificações realizadas no arte
 
 # Objetivo
 
-O artefato de verificação NFR tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta.
+O artefato de verificação Casos de Uso tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta.
 
 # Tabela de verificação
 
