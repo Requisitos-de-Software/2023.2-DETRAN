@@ -59,8 +59,10 @@ Tabela 02 - Tabela de verificação da técnica de Inspecção<br>
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: https://www.abnt.org.br/. Acesso em: 13/11/2023.
 
+- SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Acesso em: 13/11/2023.
+
 # Historico de versão
 
 | Versão | Data       | Descrição | Autor               | Revisor |
 |--------|------------|-----------|---------------------|---------|
-| 1.0    | 13/11/2023 | Adicionado verificação da técnica de Introspecção | Vitor Borges | Guilherme Nishimura|
+| 1.0    | 13/11/2023 | Adicionado verificação da técnica de Introspecção | Vitor Borges | Guilherme Nishimura |

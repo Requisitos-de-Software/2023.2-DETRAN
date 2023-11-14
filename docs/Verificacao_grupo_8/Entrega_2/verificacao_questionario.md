@@ -1,4 +1,4 @@
-# Verificação Perfil do Usuário
+# Verificação da Técnica de Questionário
 
 # Introdução
 
@@ -21,7 +21,7 @@ O artefato de verificação de Ferramentas tem o objetivo de documentar se o art
 | 3  | O historico de versão esta padronizado ?                                                      |    Excelente       | |
 | 4  | Todas as ferramentas do projeto foram citadas ?                                               |      Excelente    | |
 | 5  | O artefato possue Referências bibliográficas ?                                                |    Excelente      | |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | - | O artefato não apresenta nenhuma imagem ou tabela |
+| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | Incompleto | O artefato possui as legendas porém a descrição das figuras está repetida para todas as figuras |
 | 7  | O artefato possue um texto fazendo uma introdução ?                                           |      Excelente   | |
 | 8  | O artefato possui links para os outros artefatos?                                             |      Excelente   | |
 
@@ -41,17 +41,20 @@ O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/
 
 | ID | Conteudo                                                              | Qualidade | Comentario |
 |----|-----------------------------------------------------------------------|-----------|------------|
-| 01 | A faixa etária é apresentada? | Excelente |            |
-| 02 | O nível de educação é apresentado? | Excelente |
-| 03 | O nível de experiência com tecnologia é apresentado? | Excelente |
-| 04 | As tarefas que o usuário realiza são apresentadas? | Excelente |
-| 05 | É apresentado a ocupação do usuário? | Excelente | |
-| 06 | Uma ou mais metodologias foram utilizadas para a definição do perfil do usuário? | Boa | |
-| 07 | Foi explicado como a coleta de dados foi realizado? | Boa | |
-| 08 | A metodologia utilizada foi devidamente referenciada? | Boa | |
+| 01 | A técnica utilizada foi devidamente explicada? | Excelente | |
+| 02 | A técnica utilizada foi devidamente referenciada? | Excelente | |
+| 03 | A forma como os dados foram coletados foi apresentada? | Excelente | |
+| 04 | O termo de consentimento foi devidamente apresentado antes da coleta? | Excelente | |
+| 05 | O questionário possui uma seção voltada para dados demográficos? | Excelente | |
+| 06 | O questionário possui uma seção voltada para informações do aplicativo? | Excelente | |
+| 07 | Os resultados do questionário são devidamente apresentados? | Bom | |
+| 08 | O questionário possui um link para o perfil de usuário? | Não realizado | |
+| 09 | Os requisitos elicitados foram devidamente apresentados? | - | O questionário foi utilizado unicamente para elaborar o perfil do usuário |
+| 10 | Os requisitos elicitados possuem identificadores únicos? | - | O questionário foi utilizado unicamente para elaborar o perfil do usuário |
+| 11 | Os requisitos elicitados possuem os tipos definidos (funcional ou não funcional)? | - | O questionário foi utilizado unicamente para elaborar o perfil do usuário |
 
 <p align="center">
-Tabela 02 - Tabela de verificação perfil do usuário<br>
+Tabela 02 - Tabela de verificação da técnica de Questionário<br>
 (Fonte: Vitor Borges)
 </p>
 
@@ -61,10 +64,10 @@ Tabela 02 - Tabela de verificação perfil do usuário<br>
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: https://www.abnt.org.br/. Acesso em: 13/11/2023.
 
-- BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em: 13/11/2023.
+- SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Acesso em: 13/11/2023.
 
 # Historico de versão
 
 | Versão | Data       | Descrição | Autor               | Revisor |
 |--------|------------|-----------|---------------------|---------|
-| 1.0    | 13/11/2023 | Adicionado verificação do artefato perfil do usuário | Vitor Borges | Guilherme Nishimura |
+| 1.0    | 13/11/2023 | Adicionado verificação da técnica de Questionário | Vitor Borges | Guilherme Nishimura |

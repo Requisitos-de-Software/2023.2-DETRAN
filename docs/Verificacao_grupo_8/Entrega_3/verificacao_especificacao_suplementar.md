@@ -15,16 +15,17 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 *Tabela 1: Checklist para a verificação geral do padrão do projeto*
 
-| ID | Conteudo                                                                                      | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------------------------------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     |           |            |
-| 2  | O artefato possue revisor ?                                                                   |           |            |
-| 3  | O historico de versão esta padronizado ?                                                      |           |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                                               |           |            |
-| 5  | O artefato possue Referências bibliográficas ?                                                |           |            |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |           |            |
-| 7  | O artefato possue um texto fazendo uma introdução ?                                           |           |            |
-| 8  | O artefato possui links para os outros artefatos?                                             |           |            |
+| ID | Conteudo                                                                                      | Possui | Qualidade | Comentario |
+|----|-----------------------------------------------------------------------------------------------|--------|-----------|------------|
+| 1  | O artefato possui autor?                                                                      |     Sim   |        Boa   |        Sem Comentário    |
+| 2  | O artefato possui revisor?                                                                    |  Sim      |   Boa        |   Sem Comentário        |
+| 3  | O histórico de versão está padronizado?                                                       |  Sim      | Boa          |       Poucas Versões     |
+| 4  | Todas as ferramentas do projeto foram citadas?                                                |   Sim      |   Boa        |   Sem Comentário        |
+| 5  | O artefato possui referências bibliográficas?                                                 |   Sim      |   Boa        |   Sem Comentário        |
+| 6  | O artefato possui tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? |   Sim      |   Boa        |   Sem Comentário        |
+| 7  | O artefato possui um texto fazendo uma introdução?                                            |  Sim      |   Boa        |   Sem Comentário        |
+| 8  | O artefato possui links para os outros artefatos?                                            |   Sim      |   Médio        |   Contem poucos hyperlinks        |
+
 
 *Fonte: Grupo 7*
 
@@ -32,28 +33,28 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 *Tabela 2: Checklist para o artefato de Especificação Suplementar*
 
-| ID | Descrição | Qualidade | Comentário |
-|----|-----------|-----------|------------|
-| 1  | O artefato inclui a especificação suplementar? | | - |
-| 2  | A especificação suplementar segue o modelo FURPS+? | | - |
-| 3  | O artefato possui uma seção de Funcionalidade contendo requisitos testáveis? | | - |
-| 4  | O artefato inclui uma seção de Usabilidade com requisitos testáveis? | Incompleto | - |
-| 5  | Os requisitos apresentados são formulados de maneira a facilitar as tarefas realizadas pelos usuários? | | - |
-| 6  | O artefato possui uma seção de Confiabilidade? | | - |
-| 7  | Os requisitos apresentados contribuem para aumentar a confiabilidade do sistema? | | - |
-| 8  | O artefato especifica o Tempo Médio entre Falhas (MTBF)? | | - |
-| 9  | O artefato especifica o Tempo Médio para Reparo (MTTR)? | | - |
-| 10 | Os requisitos relacionados à segurança são explicitamente apresentados? | | - |
-| 11 | O artefato possui uma seção de Desempenho com requisitos testáveis? | | - |
-| 12 | Os requisitos relacionados aos tempos de resposta são apresentados com tempos especificados? | | - |
-| 13 | Os requisitos sobre a disponibilidade são apresentados? | | - |
-| 14 | O artefato possui uma seção de Suportabilidade com requisitos testáveis? | | - |
-| 15 | São apresentados os sistemas operacionais nos quais o sistema funcionará? | | - |
-| 16 | O artefato possui uma seção de Restrições de Design com requisitos testáveis? | | - |
-| 17 | Os requisitos apresentados especificam ou restringem o design do sistema? | | - |
-| 18 | O artefato possui uma seção de Requisitos de Implementação com requisitos testáveis? | | - |
-| 19 | O artefato possui uma seção de Requisitos de Interface com requisitos testáveis? | | - |
-| 20 | O artefato possui uma seção de Requisitos Físicos com requisitos testáveis? | | - |
+| ID | Descrição | Qualidade | Possui | Comentário |
+|----|-----------|-----------|--------|------------|
+| 1  | O artefato inclui a especificação suplementar? | Sim | Boa | Sem comentários |
+| 2  | A especificação suplementar segue o modelo FURPS+? | Sim | Boa | Sem comentários |
+| 3  | O artefato possui uma seção de Funcionalidade contendo requisitos testáveis? | Sim | Boa | Sem comentários |
+| 4  | O artefato inclui uma seção de Usabilidade com requisitos testáveis? | Incompleto | Sim | Boa | Sem comentários |
+| 5  | Os requisitos apresentados são formulados de maneira a facilitar as tarefas realizadas pelos usuários? | Sim | Boa | Sem comentários |
+| 6  | O artefato possui uma seção de Confiabilidade? | Sim | Boa | Sem comentários |
+| 7  | Os requisitos apresentados contribuem para aumentar a confiabilidade do sistema? | Sim | Boa | Sem comentários |
+| 8  | O artefato especifica o Tempo Médio entre Falhas (MTBF)? | Sim | Boa | Sem comentários |
+| 9  | O artefato especifica o Tempo Médio para Reparo (MTTR)? | Não | Incompleto | Não contém |
+| 10 | Os requisitos relacionados à segurança são explicitamente apresentados? | Não | Incompleto | Não estão explicitamente apresentados |
+| 11 | O artefato possui uma seção de Desempenho com requisitos testáveis? | Não | Incompleto | Não tem |
+| 12 | Os requisitos relacionados aos tempos de resposta são apresentados com tempos especificados? | Não | Incompleto | Não tem |
+| 13 | Os requisitos sobre a disponibilidade são apresentados? | Sim | Boa | Sem comentários |
+| 14 | O artefato possui uma seção de Suportabilidade com requisitos testáveis? | Sim | Boa | Sem comentários |
+| 15 | São apresentados os sistemas operacionais nos quais o sistema funcionará? |Não | Incompleto | Não tem |
+| 16 | O artefato possui uma seção de Restrições de Design com requisitos testáveis? |Não | Incompleto | Não tem |
+| 17 | Os requisitos apresentados especificam ou restringem o design do sistema? | Sim | Boa | Sem comentários |
+| 18 | O artefato possui uma seção de Requisitos de Implementação com requisitos testáveis? | Sim | Boa | Sem comentários |
+| 19 | O artefato possui uma seção de Requisitos de Interface com requisitos testáveis? | Sim | Boa | Sem comentários |
+| 20 | O artefato possui uma seção de Requisitos Físicos com requisitos testáveis? |  Sim | Boa | Sem comentários |
 
 *Fonte: João Gabriel Elvas*
 
@@ -61,4 +62,5 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 | Versão | Data       | Descrição   | Autor               | Revisor |
 |--------|------------|-------------|---------------------|---------|
-| 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas  |         |
+| 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas  | João Pedro Anacleto  |
+| 1.1    | 13/11/2023 | Realização Checklist | João Gabriel Elvas  | João Pedro Anacleto  |

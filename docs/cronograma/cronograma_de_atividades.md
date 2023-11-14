@@ -70,13 +70,13 @@ Segue na tabela abaixo na tabela 03 o cronograma realizado da entrega 1.
 | Video de apresentação | 19/09 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 
 <p align="center">
-Tabela 09 - Cronograma realizado da entrega 01<br>
+Tabela 03 - Cronograma realizado da entrega 01<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 ## Entrega 2
 
-A Tabela 03 mostra as atividades planejadas para a entrega 2, além de seus autores, revisores e datas de entrega.
+A Tabela 04 mostra as atividades planejadas para a entrega 2, além de seus autores, revisores e datas de entrega.
 
 *Perfil dos usuários, técnicas de elecitação usadas e que serão usadas, técnicas priorização usadas e que serão usadas no
 projeto.*
@@ -93,13 +93,13 @@ projeto.*
 | Gravação da apresentação | 21/09  | 04/10 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 
 <p align="center">
-Tabela 03 - Planejamento Entrega 02<br>
+Tabela 04 - Planejamento Entrega 02<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 
 ### Cronograma realizado entrega 2
-Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
+Segue na tabela abaixo na tabela 05 o cronograma realizado da entrega 1.
 
 | Atividade realizada                      | Data  | Autores                                       |
 | ---------------------------------------- | ----- | --------------------------------------------- |
@@ -113,7 +113,7 @@ Segue na tabela abaixo na tabela 10 o cronograma realizado da entrega 1.
 | Video de apresentação                    | 04/10 | João Pedro,João Gabriel,Guilherme,Vitor,Pedro |
 
 <p align="center">
-Tabela 10 - Cronograma realizado da entrega 01<br>
+Tabela 05 - Cronograma realizado da entrega 01<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
@@ -133,13 +133,13 @@ A Tabela 06 mostra as atividades planejadas para a entrega 3, além de seus auto
 | Correções do Ponto de Controle anterior | 05/10  | 25/10 | Pedro e Guilherme                              | Vitor                                          |
 
 <p align="center">
-Tabela 04 - Planejamento Entrega 03<br>
+Tabela 06 - Planejamento Entrega 03<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 ## Entrega 4
 
-A Tabela 5 mostra as atividades planejadas para a entrega 4, além de seus autores, revisores e datas de entrega.
+A Tabela 7 mostra as atividades planejadas para a entrega 4, além de seus autores, revisores e datas de entrega.
 
 *Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR
 Framework)*
@@ -153,7 +153,7 @@ Framework)*
 | Correções do Ponto de Controle anterior | 26/10  | 06/11 | João Pedro e Guilherme                         | João Gabriel                                   |
 
 <p align="center">
-Tabela 05 - Planejamento Entrega 04<br>
+Tabela 07 - Planejamento Entrega 04<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
@@ -172,9 +172,14 @@ Tabela 05 - Planejamento Entrega 04<br>
 | Adição: Léxico 18 - CRLV                                                                                           | 06/11  | 06/11 | Pedro                    |           |
 | Adição: Histórias de Usuários                                                                                      | 05/11  | 06/11 | João Elvas e Pedro       |           |
 
+<p align="center">
+Tabela 08 - cronograma realizado da Entrega 4<br>
+(Fonte: João Pedro Anacleto)
+</p>
+
 ## Entrega 5.1
 
-A Tabela 6 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
+A Tabela 09 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
@@ -193,19 +198,35 @@ A Tabela 6 mostra as atividades planejadas para a entrega 5.1, além de seus aut
 | Adicionar cronograma realizado entrega 3                                                                            |   |  | João Pedro               |           |
 
 <p align="center">
-Tabela 6 - Planejamento Entrega 5.1<br>
+Tabela 09 - Planejamento Entrega 5.1<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 ### Cronograma realizado entrega 5.1
 
-A Tabela 7 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
+A Tabela 10 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
+
+| Atividade                   | inicio | fim   | autores    | Revisores |
+|-----------------------------|--------|-------|------------|-----------|
+| Verificação aplicativos     | 09/11  | 13/11 | João Pedro | Vitor     |
+| Verificação das ferramentas | 09/11  | 13/11 | João Pedro | Vitor     |
+| Verificação do cronograma   | 09/11  | 13/11 | João Pedro | Vitor     |
+| Verificação richPicture     | 09/11  | 13/11 | João Pedro | Vitor     |
+|                             |        |       |            |           |
+|                             |        |       |            |           |
+|                             |        |       |            |           |
+|                             |        |       |            |           |
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
+<p align="center">
+Tabela 10 - cronograma realizado da Entrega 5.1<br>
+(Fonte: João Pedro Anacleto)
+</p>
+
 ## Entrega 5.2
 
-A Tabela 8 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
+A Tabela 11 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
 
 *Análise de Requisitos: Verificação e Validação II*
 
@@ -217,13 +238,13 @@ A Tabela 8 mostra as atividades planejadas para a entrega 5.2, além de seus aut
 | Correções do Ponto de Controle anterior | 20/11  | 29/11 | Pedro e Vitor                                  | Guilherme                                      |
 
 <p align="center">
-Tabela 08 - Planejamento Entrega 5.2<br>
+Tabela 11 - Planejamento Entrega 5.2<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
 ## Entrega 6 
 
-A Tabela 9 mostra as atividades planejadas para a entrega 6, além de seus autores, revisores e datas de entrega.
+A Tabela 12 mostra as atividades planejadas para a entrega 6, além de seus autores, revisores e datas de entrega.
 
 *Pós-Rastreabilidade - Gerência II*
 
@@ -235,7 +256,7 @@ A Tabela 9 mostra as atividades planejadas para a entrega 6, além de seus autor
 | Correções do Ponto de Controle anterior | 14/11  | 20/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 
 <p align="center">
-Tabela 09 - Planejamento Entrega 06<br>
+Tabela 12 - Planejamento Entrega 06<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
@@ -248,6 +269,6 @@ Tabela 09 - Planejamento Entrega 06<br>
 | Versão | Data       | Descrição                      | Autor               | Revisor |
 | ------ | ---------- | ------------------------------ | ------------------- | ------- |
 | 1.0    | 01/09/2023 | Template Planejamento          | João Pedro Anacleto | Pedro   |
-| 1.1    | 21/09/2023 | Adição do cronograma realizado | João Pedro Anacleto |         |
+| 1.1    | 21/09/2023 | Adição do cronograma realizado | João Pedro Anacleto | Pedro       |
 | 1.2    | 04/11/2023 | Padronização                   | Vitor Borges        | Pedro   |
 | 1.2    | 06/11/2023 | Padronizações, Correções e Adições no Cronograma Realizado da entrega 4 | Pedro       | Vitor Borges   |
