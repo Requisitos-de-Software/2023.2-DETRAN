@@ -215,7 +215,10 @@ A Tabela 10 mostra as atividades planejadas para a entrega 5.1, além de seus au
 | Verificação 100 dolar   | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel     |
 | Verificação Moscow   | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel     |
 | Verificação Brainstorming  | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel     |
-|                             |        |       |            |           |
+| Verificação Casos de Usos  | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
+| Verificação Cenarios  | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
+| Verificação Especificacao Suplementar  | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
+| Verificação Lexicos | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
