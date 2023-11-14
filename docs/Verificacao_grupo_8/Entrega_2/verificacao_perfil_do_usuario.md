@@ -14,16 +14,16 @@ O artefato de verificação de Ferramentas tem o objetivo de documentar se o art
 
 ## Verificação Geral do padrão do projeto
 
-| ID | Conteudo                                                                                      | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------------------------------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     |    Excelente       | |
-| 2  | O artefato possue revisor ?                                                                   |     Excelente      | |
-| 3  | O historico de versão esta padronizado ?                                                      |    Excelente       | |
-| 4  | Todas as ferramentas do projeto foram citadas ?                                               |      Excelente    | |
-| 5  | O artefato possue Referências bibliográficas ?                                                |    Excelente      | |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | - | O artefato não apresenta nenhuma imagem ou tabela |
-| 7  | O artefato possue um texto fazendo uma introdução ?                                           |      Excelente   | |
-| 8  | O artefato possui links para os outros artefatos?                                             |      Excelente   | |
+| ID | Conteudo                                                                                      | Possui | Qualidade | Comentario |
+|----|-----------------------------------------------------------------------------------------------|--------|-----------|------------|
+| 1  | O artefato possue autor ?                                                                     | Sim |    Excelente       | |
+| 2  | O artefato possue revisor ?                                                                   | Sim |     Excelente      | |
+| 3  | O historico de versão esta padronizado ?                                                      | Sim |    Excelente       | |
+| 4  | Todas as ferramentas do projeto foram citadas ?                                               | Sim |      Excelente    | |
+| 5  | O artefato possue Referências bibliográficas ?                                                | Sim |    Excelente      | |
+| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | Não |  |  |
+| 7  | O artefato possue um texto fazendo uma introdução ?                                           | Sim |      Excelente   | |
+| 8  | O artefato possui links para os outros artefatos?                                             | Sim |      Excelente   | |
 
 <p align="center">
 Tabela 01 - Tabela de verificação geral<br>
@@ -39,16 +39,16 @@ O artefato de ferramentas tem o objetivo de documentar as ferramentas que foram/
 - Imcompleta (Passa brevemente pelo conteúdo esperado na avaliação).
 - Não realizado( Não consta no documento)
 
-| ID | Conteudo                                                              | Qualidade | Comentario |
-|----|-----------------------------------------------------------------------|-----------|------------|
-| 01 | A faixa etária é apresentada? | Excelente |            |
-| 02 | O nível de educação é apresentado? | Excelente |
-| 03 | O nível de experiência com tecnologia é apresentado? | Excelente |
-| 04 | As tarefas que o usuário realiza são apresentadas? | Excelente |
-| 05 | É apresentado a ocupação do usuário? | Excelente | |
-| 06 | Uma ou mais metodologias foram utilizadas para a definição do perfil do usuário? | Boa | |
-| 07 | Foi explicado como a coleta de dados foi realizado? | Boa | |
-| 08 | A metodologia utilizada foi devidamente referenciada? | Boa | |
+| ID | Conteudo                                                              | Possui | Qualidade | Comentario |
+|----|-----------------------------------------------------------------------|--------|-----------|------------|
+| 01 | A faixa etária é apresentada? | Sim | Excelente |            |
+| 02 | O nível de educação é apresentado? | Sim | Excelente |
+| 03 | O nível de experiência com tecnologia é apresentado? | Sim | Excelente |
+| 04 | As tarefas que o usuário realiza são apresentadas? | Sim | Excelente |
+| 05 | É apresentado a ocupação do usuário? | Sim | Excelente | |
+| 06 | Uma ou mais metodologias foram utilizadas para a definição do perfil do usuário? | Sim | Boa | |
+| 07 | Foi explicado como a coleta de dados foi realizado? | Sim | Boa | |
+| 08 | A metodologia utilizada foi devidamente referenciada? | Sim | Boa | |
 
 <p align="center">
 Tabela 02 - Tabela de verificação perfil do usuário<br>
