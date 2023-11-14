@@ -61,8 +61,10 @@ Tabela 02 - Tabela de verificação perfil do usuário<br>
 
 - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: https://www.abnt.org.br/. Acesso em: 13/11/2023.
 
+- BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em: 13/11/2023.
+
 # Historico de versão
 
 | Versão | Data       | Descrição | Autor               | Revisor |
 |--------|------------|-----------|---------------------|---------|
-| 1.0    | 13/11/2023 | Adicionado verificação do artefato perfil do usuário | Vitor Borges | Guilherme Nishimura|
+| 1.0    | 13/11/2023 | Adicionado verificação do artefato perfil do usuário | Vitor Borges | Guilherme Nishimura |
