@@ -62,5 +62,5 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 | Versão | Data       | Descrição   | Autor               | Revisor |
 |--------|------------|-------------|---------------------|---------|
-| 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas  |         |
-| 1.1    | 13/11/2023 | Realização Checklist | João Gabriel Elvas  |         |
+| 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas  | João Pedro Anacleto  |
+| 1.1    | 13/11/2023 | Realização Checklist | João Gabriel Elvas  | João Pedro Anacleto  |
