@@ -71,5 +71,5 @@ Tabela 02 - Verificação Expecifica do artefato<br>
 
 | Versão | Data       | Descrição                     | Autor               | Revisor |
 |--------|------------|-----------                    |---------------------|---------|
-| 1.0    | 13/11/2023 | Criação do documento          | João Pedro Anacleto |         |
+| 1.0    | 13/11/2023 | Criação do documento          | João Pedro Anacleto | Vitor       |
 |        |            |                               |                     |         |
