@@ -159,18 +159,23 @@ Tabela 07 - Planejamento Entrega 04<br>
 
 ### Cronograma realizado entrega 4
 
-| Atividade                                                                                                           | Início | Fim   | Autores                  | Revisores |
-| ------------------------------------------------------------------------------------------------------------------- | ------ | ----- | ------------------------ | --------- |
-| Histórias de usuário                                                                                                | 05/11  | 06/11 | João Gabriel e Pedro     |           |
-| Backlog                                                                                                             | 05/11       |  06/11     | Vitor       |     João Pedro      |
-| NFR Framework                                                                                                       | 02/11  | 06/11 | João Pedro e Guilherme         |           |
-| Correção: Refazer o casos de uso e adicionar card de login                                                           | 04/11  | 06/11 | João Pedro e Guilherme   |           |
-| Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist                                          |    04/11    |   04/11    | Vitor e Pedro            |           |
-| Reorganizar estrutura do GitPages                                                                                  | 06/11  | 06/11 | Pedro                    |           |
-| Correção: Especificação suplementar - Abranger menos e ser mais específico                                           | 05/11  | 06/11 | João Gabriel             |           |
-| Padronização: Cronograma realizado entrega 4                                                                      | 06/11  | 06/11 | Pedro                    |           |
-| Adição: Léxico 18 - CRLV                                                                                           | 06/11  | 06/11 | Pedro                    |           |
-| Adição: Histórias de Usuários                                                                                      | 05/11  | 06/11 | João Elvas e Pedro       |           |
+A Tabela 8 mostra as atividades realizadas para a entrega 4, além de seus autores, revisores e datas de entrega.
+
+*Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR
+Framework)*
+
+| Atividade                                                                   | Início | Fim   | Autores                | Revisores  |
+| --------------------------------------------------------------------------- | ------ | ----- | ---------------------- | ---------- |
+| Histórias de usuário                                                        | 05/11  | 06/11 | João Gabriel e Pedro   |            |
+| Backlog                                                                     | 05/11  | 06/11 | Vitor                  | João Pedro |
+| NFR Framework                                                               | 02/11  | 06/11 | João Pedro e Guilherme |            |
+| Correção: Refazer o casos de uso e adicionar card de login                  | 04/11  | 06/11 | João Pedro e Guilherme |            |
+| Correção: Padronização (histórico de versão, tabelas, etc.). Base checklist | 04/11  | 04/11 | Vitor e Pedro          |            |
+| Reorganizar estrutura do GitPages                                           | 06/11  | 06/11 | Pedro                  |            |
+| Correção: Especificação suplementar - Abranger menos e ser mais específico  | 05/11  | 06/11 | João Gabriel           |            |
+| Padronização: Cronograma realizado entrega 4                                | 06/11  | 06/11 | Pedro                  |            |
+| Adição: Léxico 18 - CRLV                                                    | 06/11  | 06/11 | Pedro                  |            |
+| Adição: Histórias de Usuários                                               | 05/11  | 06/11 | João Elvas e Pedro     |            |
 
 <p align="center">
 Tabela 08 - cronograma realizado da Entrega 4<br>
@@ -183,19 +188,19 @@ A Tabela 09 mostra as atividades planejadas para a entrega 5.1, além de seus au
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
-| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
-| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
-| Verificação de requisitos 1             | 06/11  | 13/11 | João Gabriel ,Guilherme e Vitor                | João Pedro, Pedro                              |
-| Validação de requisitos 1               | 06/11  | 13/11 | João Pedro, Pedro                              | João Gabriel ,Guilherme e Vitor                |
-| Gravação da apresentação                | 06/11  | 13/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
-| Correções do Ponto de Controle anterior | 06/11  | 13/11 | João Gabriel e Pedro                           | Guilherme                                      |
-| Correção: Especificar onde usar cada ferramenta do projeto                                                           | 06/11  | 13/11 | João Pedro               |           |
-| Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                   | 06/11  | 13/11 | Guilherme e João Gabriel |           |
-| Correção: Personas - Adicionar explicação do motivo da quantidade de personas                                        | 06/11  | 13/11 | Vitor e Guilherme        |           |
-| Correção: Perfil do Usuário - Ser uma aba separada do questionário                                                 | 06/11  | 13/11 | Vitor e Pedro            |           |
-| Correção: Adicionar gravação da priorização de requisitos                                                           | 06/11  | 13/11 | Guilherme e Pedro        |           |
-| Correção: Cenários (Adicionar funcionalidades não implementadas, Padronizar metodologias, criar hyperlinks para léxicos) | 06/11  | 13/11 | Guilherme e Pedro        |           |
-| Adicionar cronograma realizado entrega 3                                                                            |   |  | João Pedro               |           |
+| Atividade                                                                                                                | Início | Fim   | Autores                                        | Revisores                                      |
+| ------------------------------------------------------------------------------------------------------------------------ | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+| Verificação de requisitos 1                                                                                              | 06/11  | 13/11 | João Gabriel ,Guilherme e Vitor                | João Pedro, Pedro                              |
+| Validação de requisitos 1                                                                                                | 06/11  | 13/11 | João Pedro, Pedro                              | João Gabriel ,Guilherme e Vitor                |
+| Gravação da apresentação                                                                                                 | 06/11  | 13/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
+| Correções do Ponto de Controle anterior                                                                                  | 06/11  | 13/11 | João Gabriel e Pedro                           | Guilherme                                      |
+| Correção: Especificar onde usar cada ferramenta do projeto                                                               | 06/11  | 13/11 | João Pedro                                     |                                                |
+| Correção: Léxicos (adicionar hyperlinks, especificar usuário, redundância de verbos)                                     | 06/11  | 13/11 | Guilherme e João Gabriel                       |                                                |
+| Correção: Personas - Adicionar explicação do motivo da quantidade de personas                                            | 06/11  | 13/11 | Vitor e Guilherme                              |                                                |
+| Correção: Perfil do Usuário - Ser uma aba separada do questionário                                                       | 06/11  | 13/11 | Vitor e Pedro                                  |                                                |
+| Correção: Adicionar gravação da priorização de requisitos                                                                | 06/11  | 13/11 | Guilherme e Pedro                              |                                                |
+| Correção: Cenários (Adicionar funcionalidades não implementadas, Padronizar metodologias, criar hyperlinks para léxicos) | 06/11  | 13/11 | Guilherme e Pedro                              |                                                |
+| Adicionar cronograma realizado entrega 3                                                                                 |        |       | João Pedro                                     |                                                |
 
 <p align="center">
 Tabela 09 - Planejamento Entrega 5.1<br>
@@ -206,19 +211,19 @@ Tabela 09 - Planejamento Entrega 5.1<br>
 
 A Tabela 10 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
 
-| Atividade                   | inicio | fim   | autores    | Revisores |
-|-----------------------------|--------|-------|------------|-----------|
-| Verificação aplicativos     | 09/11  | 13/11 | João Pedro | Vitor     |
-| Verificação das ferramentas | 09/11  | 13/11 | João Pedro | Vitor     |
-| Verificação do cronograma   | 09/11  | 13/11 | João Pedro | Vitor     |
-| Verificação richPicture     | 09/11  | 13/11 | João Pedro | Vitor     |
-| Verificação 100 dolar   | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel     |
-| Verificação Moscow   | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel     |
-| Verificação Brainstorming  | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel     |
-| Verificação Casos de Usos  | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
-| Verificação Cenarios  | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
-| Verificação Especificacao Suplementar  | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
-| Verificação Lexicos | 09/11  | 13/11 | João Gabriel Elvas | Jõao Pedro Anacleto     |
+| Atividade                             | inicio | fim   | autores             | Revisores           |
+| ------------------------------------- | ------ | ----- | ------------------- | ------------------- |
+| Verificação aplicativos               | 09/11  | 13/11 | João Pedro          | Vitor               |
+| Verificação das ferramentas           | 09/11  | 13/11 | João Pedro          | Vitor               |
+| Verificação do cronograma             | 09/11  | 13/11 | João Pedro          | Vitor               |
+| Verificação richPicture               | 09/11  | 13/11 | João Pedro          | Vitor               |
+| Verificação 100 dolar                 | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel        |
+| Verificação Moscow                    | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel        |
+| Verificação Brainstorming             | 09/11  | 13/11 | Guilherme Nishimura | Jõao Gabriel        |
+| Verificação Casos de Usos             | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
+| Verificação Cenarios                  | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
+| Verificação Especificacao Suplementar | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
+| Verificação Lexicos                   | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
@@ -231,6 +236,50 @@ Tabela 10 - cronograma realizado da Entrega 5.1<br>
 
 A Tabela 11 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
 
+*Pós-Rastreabilidade - Gerência II*
+
+| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
+| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+| Backward From                           | 14/11  | 20/11 | Pedro e Guilherme                              | João Gabriel ,Pedro e Vitor                    |
+| Forward From                            | 14/11  | 20/11 | João Gabriel e Vitor                           | João Pedro, Guilherme                          |
+| Matriz de Rastreabilidade               | 14/11  | 20/11 | João Pedro Anacleto                            | João Pedro, Guilherme                          |
+| Gravação da apresentação                | 14/11  | 20/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
+| Correções do Ponto de Controle anterior | 14/11  | 20/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
+
+<p align="center">
+Tabela 11 - Planejamento Entrega 06<br>
+(Fonte: João Pedro Anacleto)
+</p>
+
+### Cronograma realizado entrega 5.2
+
+A Tabela 12 mostra as atividades reaçozadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
+
+*Pós-Rastreabilidade - Gerência II*
+
+| Atividade                                    | inicio | fim   | autores             | Revisores |
+| -------------------------------------------- | ------ | ----- | ------------------- | --------- |
+| Backward From                                |        |       |                     |           |
+| Forward From                                 |        |       |                     |           |
+| Matriz de Rastreabilidade                    | 18/11  | 20/11 | João Pedro Anacleto |           |
+| Correção checklist RichPicture               | 18/11  | 20/11 | João Pedro Anacleto |           |
+| Correção checklist Técnicas de elicitação    |        |       |                     |           |
+| Correção checklist Cenários                  |        |       |                     |           |
+| Correção checklist Diagrama de Caso de Uso   |        |       |                     |           |
+| Correção checklist Especificação Suplementar |        |       |                     |           |
+| Correção checklist NFR                       |        |       |                     |           |
+| Correção checklist Rastreabilidade           |        |       |                     |           |
+
+<p align="center">
+Tabela 12 - Cronograma realizado Entrega 5.2<br>
+(Fonte: João Pedro Anacleto)
+</p>
+
+## Entrega 6 
+
+
+A Tabela 13 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
+
 *Análise de Requisitos: Verificação e Validação II*
 
 | Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
@@ -241,27 +290,10 @@ A Tabela 11 mostra as atividades planejadas para a entrega 5.2, além de seus au
 | Correções do Ponto de Controle anterior | 20/11  | 29/11 | Pedro e Vitor                                  | Guilherme                                      |
 
 <p align="center">
-Tabela 11 - Planejamento Entrega 5.2<br>
+Tabela 13 - Planejamento Entrega 5.2<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
-## Entrega 6 
-
-A Tabela 12 mostra as atividades planejadas para a entrega 6, além de seus autores, revisores e datas de entrega.
-
-*Pós-Rastreabilidade - Gerência II*
-
-| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
-| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
-| Backward From                           | 14/11  | 20/11 | João Pedro, Guilherme                          | João Gabriel ,Pedro e Vitor                    |
-| Forward From                            | 14/11  | 20/11 | João Gabriel ,Pedro e Vitor                    | João Pedro, Guilherme                          |
-| Gravação da apresentação                | 14/11  | 20/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
-| Correções do Ponto de Controle anterior | 14/11  | 20/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
-
-<p align="center">
-Tabela 12 - Planejamento Entrega 06<br>
-(Fonte: João Pedro Anacleto)
-</p>
 
 ## Referência
 
@@ -269,9 +301,10 @@ Tabela 12 - Planejamento Entrega 06<br>
 
 ## Histórico de Versão
 
-| Versão | Data       | Descrição                      | Autor               | Revisor |
-| ------ | ---------- | ------------------------------ | ------------------- | ------- |
-| 1.0    | 01/09/2023 | Template Planejamento          | João Pedro Anacleto | Pedro   |
-| 1.1    | 21/09/2023 | Adição do cronograma realizado | João Pedro Anacleto | Pedro       |
-| 1.2    | 04/11/2023 | Padronização                   | Vitor Borges        | Pedro   |
-| 1.2    | 06/11/2023 | Padronizações, Correções e Adições no Cronograma Realizado da entrega 4 | Pedro       | Vitor Borges   |
+| Versão | Data       | Descrição                                                               | Autor               | Revisor      |
+| ------ | ---------- | ----------------------------------------------------------------------- | ------------------- | ------------ |
+| 1.0    | 01/09/2023 | Template Planejamento                                                   | João Pedro Anacleto | Pedro        |
+| 1.1    | 21/09/2023 | Adição do cronograma realizado                                          | João Pedro Anacleto | Pedro        |
+| 1.2    | 04/11/2023 | Padronização                                                            | Vitor Borges        | Pedro        |
+| 1.2    | 06/11/2023 | Padronizações, Correções e Adições no Cronograma Realizado da entrega 4 | Pedro               | Vitor Borges |
+| 1.3    | 19/11/2023 | Correção do cronograma planejado e adição do cronograma realizado       | João Pedro Anacleto | Vitor Borges |
