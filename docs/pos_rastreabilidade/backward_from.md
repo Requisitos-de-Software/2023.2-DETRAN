@@ -61,7 +61,7 @@ Tabela 2 - Tabelas de requisitos não funcionais<br>
 
 ## Elos
 
-Com base nos rquisitos será feito a representação dos elos seguindo modelo de Toranzo:
+Com base nos rquisitos será feito a representação dos elos seguindo modelo de Toranzo igual a tabela 3 abaixo:
 
 | Termo             | Descrição                                                                               |
 |:-----------------:|:---------------------------------------------------------------------------------------:|
@@ -71,9 +71,14 @@ Com base nos rquisitos será feito a representação dos elos seguindo modelo de
 | Representação     | Envolve a captura da modelagem ou representação dos requisitos em outras linguagens ou formas de expressão. |
 | Alocado           | A classe de origem está vinculada à classe de destino, representando um subsistema alocado ou relacionado. |
 | Agregação         | Destaca a forma como os elementos se agregam ou se compõem. |
+<p align="center">
+Tabela 3 - Descrição dos termos<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
 
 
+## Tabela de elo
 | id | Requisito | Tipo de Elo |
 | -- | --------- | ----------- |
 | ELO01 | RF01.1 | Representação: C03 representa ST02,UC02,C03 <br> L7 agrega RF01 <br>  |
@@ -95,7 +100,7 @@ Com base nos rquisitos será feito a representação dos elos seguindo modelo de
 | ELO17 | RNF02.1 | Recurso: ADD20 depende de RF12.1  |
 | ELO18 | RNF03.1 | Agregação: UC01 agrega RNF03.1  |
 <p align="center">
-Tabela 3 -Elo <br>
+Tabela 4 -Elo <br>
 (Fonte: Guilherme Nishimura)
 </p>
 
