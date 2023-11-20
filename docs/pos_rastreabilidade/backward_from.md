@@ -73,7 +73,7 @@ Com base nos rquisitos será feito a representação dos elos seguindo modelo de
 | Agregação         | Destaca a forma como os elementos se agregam ou se compõem. |
 <p align="center">
 Tabela 3 - Descrição dos termos<br>
-(Fonte: João Gabriel Elvas)
+(Fonte: Guilherme Nishimura da Silva)
 </p>
 
 
