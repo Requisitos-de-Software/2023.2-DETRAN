@@ -11,11 +11,12 @@ A forward-from pode ser usada para demonstrar as conexões entre requisitos e ar
 
 Na Tabela 1 é possível ver a legenda referente aos artefatos que geraram ou evoluíram algum requisito.
 
-| Legenda | Artefato | Requisito      |
+| Legenda | Artefato/Requisito      |
 | ------- | ------------------------- |
 | AD      | Análise de Documentos     |
 | US      | História usuário          |
 | ST      | Storytelling              |
+| ENT     | Entrevista                |
 | UC      | Casos de Uso              |
 | C       | Cenários                  |
 | L       | Léxico                    |
