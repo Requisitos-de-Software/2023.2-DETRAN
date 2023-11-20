@@ -51,6 +51,20 @@ Legendas:
 | RNF04.1 | O aplicativo deve fornecer o campo errado quando o usuário errar o login | UC01 | Implementado |
 
 ## Elos
+
+Com base nos rquisitos será feito a representação dos elos seguindo modelo de Toranzo:
+
+| Termo             | Descrição                                                                               |
+|:-----------------:|:---------------------------------------------------------------------------------------:|
+| Satisfação        | A relação entre a classe de origem e a classe de destino é influenciada pela satisfação da primeira com a segunda. |
+| Recurso           | A dependência entre a classe de origem e a classe de destino está associada aos recursos que a primeira utiliza da segunda. |
+| Responsabilidade  | Documenta a participação, responsabilidade e ação de indivíduos em relação aos artefatos específicos. |
+| Representação     | Envolve a captura da modelagem ou representação dos requisitos em outras linguagens ou formas de expressão. |
+| Alocado           | A classe de origem está vinculada à classe de destino, representando um subsistema alocado ou relacionado. |
+| Agregação         | Destaca a forma como os elementos se agregam ou se compõem. |
+
+
+
 | id | Requisito | Tipo de Elo |
 | -- | --------- | ----------- |
 | ELO01 | RF01.1 | Representação: C03 representa ST02,UC02,C03 <br> L7 agrega RF01 <br>  |
