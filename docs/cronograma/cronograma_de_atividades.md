@@ -267,7 +267,7 @@ A Tabela 12 mostra as atividades reaçozadas para a entrega 5.2, além de seus a
 | Correção checklist Cenários                  | 18/11  | 20/11 | João Pedro Anacleto |           |
 | Correção checklist Diagrama de Caso de Uso   |        |       |                     |           |
 | Correção checklist Especificação Suplementar |        |       |                     |           |
-| Correção checklist NFR                       |        |       |                     |           |
+| Correção checklist NFR                       | 18/11  | 20/11 | João Gabriel        |           |
 | Correção checklist Rastreabilidade           |        |       |                     |           |
 
 <p align="center">
