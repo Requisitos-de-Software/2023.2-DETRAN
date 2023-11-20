@@ -50,6 +50,15 @@ Legendas:
 | RNF03.1 | O aplicativo deverá guardar as informações de login do usuário | ADD20 | Implementado |
 | RNF04.1 | O aplicativo deve fornecer o campo errado quando o usuário errar o login | UC01 | Implementado |
 
+## Bibliografia
 
- Conforme os slides 19 e 21 da aula 26 da professora Milene Serrano, os níveis são:
-Para a execução deste método, utilizamos os slides da aula 26 da professora Milene Serrano, juntamente com o livro "Requirements Engineering Fundamentals" de Klaus Pohl e Chris Rupp.
+> SERRANO, Milene. Slides da aula 26. Aula 26 da disciplina Requisitos de Software. Universidade de Brasília, Brasília, acesso em 19/11/2023
+
+> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. 2ª ed. New York: Springer, 2010.
+
+## Histórico de versão
+
+| Versão | Data       | Descrição            | Autor              | Revisor             |
+| ------ | ---------- | -------------------- | ------------------ | ------------------- |
+| 1.0    | 18/11/2023 | Criação do documento | João Gabriel Elvas |   |
+
