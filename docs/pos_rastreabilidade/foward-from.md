@@ -78,6 +78,35 @@ Tabela 02 - Requisitos elicitados <br>
 (Fonte: Grupo 07)
 </p>
 
+## 5. Rastreabilidade
+
+Para rastrear cada requisito foi utilizado os seguintes modelos de tabela:
+
+| ID Requisito | Descrição |
+| :----------: | :-------: |
+| Épico | |
+| História de Usuário | |
+| Léxico | |
+| Casos de uso | |
+| Cenários | |
+| Artefatos de Elicitação | |
+| Funcionalidade | Implementado ou Não Implementado |
+
+<p align="center">
+Tabela 03 - Modelo de Rastreabilidade para requisitos funcionais <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ID Requisito | Descrição |
+| :----------: | :-------: |
+| NFR | |
+| Especificação Suplementar | |
+
+<p align="center">
+Tabela 04 - Modelo de Rastreabilidade para requisitos não funcionais <br>
+(Fonte: Vitor Borges)
+</p>
+
 ## Bibliografia
 > Requisitos Aula 26 - Professores: Milene Serrano e Maurício Serrano 
 
@@ -88,3 +117,4 @@ Tabela 02 - Requisitos elicitados <br>
 | 1.0    | 19/11/2023 | Introdução sobre o tema | Vitor Borges | João Pedro, Guilherme |
 | 1.1    | 19/11/2023 | Descrevendo metodologia | Vitor Borges | João Pedro, Guilherme |
 | 1.2    | 19/11/2023 | Adicionado legenda para os artefatos e requisitos | Vitor Borges | João Pedro, Guilherme |
+| 1.3    | 19/11/2023 | Adicionado modelos de tabela para rastreabilidade | Vitor Borges | João Pedro, Guilherme |
