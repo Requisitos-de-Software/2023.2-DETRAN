@@ -7,6 +7,28 @@ Sendo assim neste artefato utilizamos a técnica "foward-from" (para frente, a p
 ## 2. Metodologia
 A forward-from pode ser usada para demonstrar as conexões entre requisitos e artefatos gerados nas etapas seguintes do desenvolvimento. No contexto da conexão entre requisitos, o forward-from envolve mapear as dependências entre eles. Isso inclui entender se um requisito está relacionado a outro, se o aprimora, generaliza ou substitui.
 
+## 3. Mapeamento
+
+Na Tabela 1 é possível ver a legenda referente aos artefatos que geraram ou evoluíram algum requisito.
+
+| Legenda | Artefato | Requisito      |
+| ------- | ------------------------- |
+| AD      | Análise de Documentos     |
+| US      | História usuário          |
+| ST      | Storytelling              |
+| UC      | Casos de Uso              |
+| C       | Cenários                  |
+| L       | Léxico                    |
+| ES      | Especificação Suplementar |
+| Q       | Questionário              |
+| RF      | Requisitos Funcionais     |
+| RNF     | Requisitos não Funcionais |
+
+<p align="center">
+Tabela 01 - Legendas<br>
+(Fonte: Vitor Borges).
+</p>
+
 ## Bibliografia
 > Requisitos Aula 26 - Professores: Milene Serrano e Maurício Serrano 
 
@@ -16,3 +38,4 @@ A forward-from pode ser usada para demonstrar as conexões entre requisitos e ar
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 19/11/2023 | Introdução sobre o tema | Vitor Borges | João Pedro, Guilherme |
 | 1.1    | 19/11/2023 | Descrevendo metodologia | Vitor Borges | João Pedro, Guilherme |
+| 1.2    | 19/11/2023 | Adicionado legenda para os artefatos e requisitos | Vitor Borges | João Pedro, Guilherme |
