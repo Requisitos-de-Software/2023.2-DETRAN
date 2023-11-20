@@ -50,6 +50,34 @@ Legendas:
 | RNF03.1 | O aplicativo deverá guardar as informações de login do usuário | ADD20 | Implementado |
 | RNF04.1 | O aplicativo deve fornecer o campo errado quando o usuário errar o login | UC01 | Implementado |
 
+## Elos
+| id | Requisito | Tipo de Elo |
+| -- | --------- | ----------- |
+| ELO01 | RF01.1 | Representação: C03 representa ST02,UC02,C03 <br> L7 agrega RF01 <br>  |
+| ELO02 | RF02.1 | Satisfação: P02 Satisfaz INT02,ADD14,ST03,UC02  <br> Agregação: L7 agrega RF02.1 <br>  |
+| ELO03 | RF03.1 | Representação: ADD33 representa ST13,UC02,C04,L18,US03 |
+| ELO04 | RF04.1 | Representação: ADD16 representa PE04,ADD16,UC02 <br> Agregação: L7 agrega RF04.1 <br> |
+| ELO05 | RF05.1 | Representação: ADD27 representa RQ5,US01,ST07 |
+| ELO06 | RF06.1 | Recurso:ST15 depende de RF01.1  |
+| ELO07 | RF07.1 | Agregação:  L11 satisfaz UC03|
+| ELO08 | RF08.1 |Representação: ADD29 representa ST09 <br> Satisfação:L8 satisfaz RF08.1 <br>  |
+| ELO09 | RF09.1 | Recurso: L8 depende de RF12.1 |
+| ELO10 | RF10.1 | Agregação: ST18 agrega ST17 |
+| ELO11 | RF11.1 | Representação: ADD02 representa UC01 |
+| ELO12 | RF12.1 |  Agregação: US11 agrega RNF02|
+| ELO13 | RF13.1 | Representação: ADD30 representam ST10,L11,US04 <br> Agregação: L11 agrega ST10 <br>  |
+| ELO14 | RF14.1 | Representação: ADD04 representa PE06,RQ3,ADD18 ,ADD31,ST11,UC03,C02,US07 E US09 |
+| ELO15| RNF01.1 | Representação: ADD1 representa ADD1,ST16,ES09, E US09 <br> Agregação: L14 agrega ST10 <br>  |
+| ELO16 | RNF01.1 | Representação: ADD1 representa ADD1,ST16,ES09, E US09 <br> Agregação: L14 agrega ST10 <br>  |
+| ELO17 | RNF02.1 | Recurso: ADD20 depende de RF12.1  |
+| ELO18 | RNF03.1 | Agregação: UC01 agrega RNF03.1  |
+<p align="center">
+Tabela 3 -Elo<br>
+(Fonte: Guilherme Nishimura)
+</p>
+
+
+
 ## Bibliografia
 
 > SERRANO, Milene. Slides da aula 26. Aula 26 da disciplina Requisitos de Software. Universidade de Brasília, Brasília, acesso em 19/11/2023
@@ -60,5 +88,6 @@ Legendas:
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 18/11/2023 | Criação do documento | João Gabriel Elvas |   |
+| 1.0    | 18/11/2023 | Criação do documento | João Gabriel Elvas |  - |
+| 1.1    | 20/11/2023 | Adição de elos | Guilherme Nishimura |  - |
 
