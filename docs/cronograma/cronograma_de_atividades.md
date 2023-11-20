@@ -259,7 +259,7 @@ A Tabela 12 mostra as atividades reaçozadas para a entrega 5.2, além de seus a
 
 | Atividade                                    | inicio | fim   | autores             | Revisores |
 | -------------------------------------------- | ------ | ----- | ------------------- | --------- |
-| Backward From                                |        |       |                     |           |
+| Backward From                                | 18/11  | 20/11 | João Gabriel e Guilherme Nishimura | João Gabriel e Guilherme Nishimura |
 | Forward From                                 |        |       |                     |           |
 | Matriz de Rastreabilidade                    | 18/11  | 20/11 | João Pedro Anacleto |           |
 | Correção checklist RichPicture               | 18/11  | 20/11 | João Pedro Anacleto |           |
