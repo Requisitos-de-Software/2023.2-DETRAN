@@ -42,6 +42,11 @@ Legendas:
 | RF14.1   | Solicitar autorização de estacionamento para idoso | ADD30,ST10,L11,US04 | Implementado |
 | RF15.1   | Consultar e emitir CNH Digital | ADD04,PE06,RQ3,ADD18 E ADD31,ST11,UC03,C02,L2,US07 E US09 | Implementado |
 
+<p align="center">
+Tabela 1 - Tabelas de requisitos funcionais<br>
+(Fonte: João Gabriel Elvas)
+</p>
+
 ## Tabelas de requisitos não funcionais
 | Novo ID | Descrição | Rastreabilidade | Implementação |
 |---------|-----------|------------------|---------------|
@@ -49,6 +54,10 @@ Legendas:
 | RNF02.1 | Assegurar compatibilidade com iOS | ADD1,ADD1,ST16,ES09,L14 | Implementado |
 | RNF03.1 | O aplicativo deverá guardar as informações de login do usuário | ADD20 | Implementado |
 | RNF04.1 | O aplicativo deve fornecer o campo errado quando o usuário errar o login | UC01 | Implementado |
+<p align="center">
+Tabela 2 - Tabelas de requisitos não funcionais<br>
+(Fonte: João Gabriel Elvas)
+</p>
 
 ## Elos
 
@@ -86,7 +95,7 @@ Com base nos rquisitos será feito a representação dos elos seguindo modelo de
 | ELO17 | RNF02.1 | Recurso: ADD20 depende de RF12.1  |
 | ELO18 | RNF03.1 | Agregação: UC01 agrega RNF03.1  |
 <p align="center">
-Tabela 3 -Elo<br>
+Tabela 3 -Elo <br>
 (Fonte: Guilherme Nishimura)
 </p>
 
@@ -102,6 +111,6 @@ Tabela 3 -Elo<br>
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 18/11/2023 | Criação do documento | João Gabriel Elvas |  - |
-| 1.1    | 20/11/2023 | Adição de elos | Guilherme Nishimura |  - |
+| 1.0    | 18/11/2023 | Criação do documento | João Gabriel Elvas | Guilherme Nishimura |
+| 1.1    | 20/11/2023 | Adição de elos | Guilherme Nishimura | João Gabriel Elvas |
 
