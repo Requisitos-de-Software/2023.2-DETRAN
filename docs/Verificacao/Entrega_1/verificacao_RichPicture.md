@@ -18,16 +18,15 @@ A tabela 1 abaixo tem o objetivo de realizar a verificação geral do artefato d
 
 *Verificação Geral do artefato*
 
-| ID  | Conteudo                                                                                      | Possue | Qualidade | Comentario |
-| --- | --------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | O artefato possue autor ?                                                                     |        |           |            |
-| 2   | O artefato possue revisor ?                                                                   |        |           |            |
-| 3   | O historico de versão esta padronizado ?                                                      |        |           |            |
-| 4   | Todas as ferramentas do projeto foram citadas ?                                               |        |           |            |
-| 5   | O artefato possue Referências bibliográficas ?                                                |        |           |            |
-| 6   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |        |           |            |
-| 7   | O artefato possue um texto fazendo uma introdução ?                                           |        |           |            |
-| 8   | O artefato possui links para os outros artefatos?                                             |        |           |            |
+| ID  | Conteudo                                                                                      | Possue | Qualidade | Comentario    |
+| --- | --------------------------------------------------------------------------------------------- | ------ | --------- | ------------- |
+| 1   | O artefato possue autor ?                                                                     | sim    | Excelente |               |
+| 2   | O artefato possue revisor ?                                                                   | sim    | Excelente |               |
+| 3   | O historico de versão esta padronizado ?                                                      | sim    | Excelente |               |
+| 4   | O artefato possue Referências bibliográficas ?                                                | sim    | Excelente |               |
+| 5   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Excelente |               |
+| 6   | O artefato possue um texto fazendo uma introdução ?                                           | sim    | Excelente |               |
+| 7   | O artefato possui links para os outros artefatos?                                             | nao    |           | nao se aplica |
 
 <p align="center">
 Tabela 01 - Verificação Geral do artefato<br>
@@ -44,19 +43,18 @@ O artefato de ferramentas tem o objetivo de documentar o Rich Picture realizado 
 
 *Verificação expecifica do artefato*
 
-| ID  | Conteudo                                                                                    | Possue | Qualidade | Comentario |
-| --- | ------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | O artefato documenta todos os richPictures dos softwares selecionados ?                     |        |           |            |
-| 2   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? |        |           |            |
-| 3   | O rich picture esta de facil entendimento ?                                                 |        |           |            |
-| 4   | O rich picture esta com o seu escopo definido ?                                             |        |           |            |
-| 5   | A escolha de plavaras para o richPicture esta de facil entendimento ?                       |        |           |            |
-| 6   | A mensagem passada pelo richPicture e efetiva ?                                             |        |           |            |
-| 7   | A historia e contada de forma eficiente ?                                                   |        |           |            |
-| 8   | O richPicture possui uma legenda explicando os símbolos utilizados no diagrama?             |        |           |            |
-| 9   | O richPicture contem atores envolvidos em processos e suas responsabilidades ?              |        |           |            |
-| 10  |                                                                                             |        |           |            |
-| 11  |                                                                                             |        |           |            |
+| ID  | Conteudo                                                                                    | Possue | Qualidade  | Comentario |
+| --- | ------------------------------------------------------------------------------------------- | ------ | ---------- | ---------- |
+| 1   | O artefato documenta todos os richPictures dos softwares selecionados ?                     | não    | Incompleto |            |
+| 2   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? | sim    | Excelente  |            |
+| 3   | O rich picture esta de facil entendimento ?                                                 | sim    | Excelente  |            |
+| 4   | O rich picture esta com o seu escopo definido ?                                             | sim    | Excelente  |            |
+| 5   | A escolha de plavaras para o richPicture esta de facil entendimento ?                       | sim    | Excelente  |            |
+| 6   | A mensagem passada pelo richPicture e efetiva ?                                             | sim    | Excelente  |            |
+| 7   | A historia e contada de forma eficiente ?                                                   | sim    | Excelente  |            |
+| 8   | O richPicture possui uma legenda explicando os símbolos utilizados no diagrama?             | não    | Incompleto |            |
+| 9   | O richPicture contem atores envolvidos em processos e suas responsabilidades ?              | sim    | Excelente  |            |
+
 
 
 <p align="center">

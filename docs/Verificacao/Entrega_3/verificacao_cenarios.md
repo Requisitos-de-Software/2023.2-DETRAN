@@ -15,16 +15,15 @@ O artefato de verificação Cenários tem o objetivo de documentar se o artefato
 
 *Tabela 1: Checklist para a verificação geral do padrão do projeto*
 
-| ID  | Conteudo                                                                                       | Possui | Qualidade | Comentario |
-| --- | ---------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | O artefato possui autor?                                                                       |        |           |            |
-| 2   | O artefato possui revisor?                                                                     |        |           |            |
-| 3   | O histórico de versão está padronizado?                                                        |        |           |            |
-| 4   | Todas as ferramentas do projeto foram citadas?                                                 |        |           |            |
-| 5   | O artefato possui referências bibliográficas?                                                  |        |           |            |
-| 6   | O artefato possui tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? |        |           |            |
-| 7   | O artefato possui um texto fazendo uma introdução?                                             |        |           |            |
-| 8   | O artefato possui links para os outros artefatos?                                              |        |           |            |
+| ID  | Conteudo                                                                                      | Possue | Qualidade  | Comentario |
+| --- | --------------------------------------------------------------------------------------------- | ------ | ---------- | ---------- |
+| 1   | O artefato possue autor ?                                                                     | sim    | Excelente  |            |
+| 2   | O artefato possue revisor ?                                                                   | sim    | Excelente  |            |
+| 3   | O historico de versão esta padronizado ?                                                      | sim    | Excelente  |            |
+| 4   | O artefato possue Referências bibliográficas ?                                                | sim    | Excelente  |            |
+| 5   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Excelente  |            |
+| 6   | O artefato possue um texto fazendo uma introdução ?                                           | sim    | Excelente  |            |
+| 7   | O artefato possui links para os outros artefatos?                                             | nao    | Incompleto |            |
 
 *Fonte: Grupo 7*
 
@@ -32,17 +31,17 @@ O artefato de verificação Cenários tem o objetivo de documentar se o artefato
 
 *Tabela 2: Checklist para o artefato de Cenários*
 
-| ID  | Descrição                                                                                                                                         | Qualidade | Possui | Comentário |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ---------- |
-| 1   | O artefato inclui as especificações dos cenários para o projeto em estudo?                                                                        |           |        | -          |
-| 2   | Cada cenário é composto pelos seguintes elementos essenciais: título, metas/objetivos, contexto, atores, recursos, exceção e episódios?           |           |        | -          |
-| 3   | O título de cada cenário é autoexplicativo?                                                                                                       |           |        | -          |
-| 4   | Os objetivos dos cenários condizem adequadamente com seus títulos?                                                                                |           |        | -          |
-| 5   | Os cenários descrevem situações realistas e relevantes de interação com o sistema?                                                                |           |        | -          |
-| 6   | Os atores atribuídos a cada cenário são apropriados para o contexto apresentado?                                                                  |           |        | -          |
-| 7   | Os episódios de cada cenário são coerentes e seguem uma ordem lógica para alcançar os objetivos?                                                  |           |        | -          |
-| 8   | Existe uma correlação identificável entre os cenários e os léxicos?                                                                               |           |        | -          |
-| 9   | O artefato destaca os participantes e suas respectivas funções (usuário, personas, Eng. de Requisitos etc) na elaboração dos cenários do projeto? |           |        | -          |
+| ID  | Descrição                                                                                                                                         | Qualidade  | Possui | Comentário               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ | ------------------------ |
+| 1   | O artefato inclui as especificações dos cenários para o projeto em estudo?                                                                        | Excelente  | sim    | -                        |
+| 2   | Cada cenário é composto pelos seguintes elementos essenciais: título, metas/objetivos, contexto, atores, recursos, exceção e episódios?           | Incompleto | sim    | esta faltando a exceção  |
+| 3   | O título de cada cenário é autoexplicativo?                                                                                                       | Excelente  | sim    | -                        |
+| 4   | Os objetivos dos cenários condizem adequadamente com seus títulos?                                                                                | Excelente  | sim    | -                        |
+| 5   | Os cenários descrevem situações realistas e relevantes de interação com o sistema?                                                                | Excelente  | sim    | -                        |
+| 6   | Os atores atribuídos a cada cenário são apropriados para o contexto apresentado?                                                                  | Excelente  | sim    | -                        |
+| 7   | Os episódios de cada cenário são coerentes e seguem uma ordem lógica para alcançar os objetivos?                                                  | Excelente  | sim    | -                        |
+| 8   | Existe uma correlação identificável entre os cenários e os léxicos?                                                                               | incompleto | sim    | A correlação não e total |
+| 9   | O artefato destaca os participantes e suas respectivas funções (usuário, personas, Eng. de Requisitos etc) na elaboração dos cenários do projeto? | Excelente  | sim    | -                        |
 
 *Fonte: João Gabriel Elvas*
 
