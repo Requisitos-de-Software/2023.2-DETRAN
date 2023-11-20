@@ -89,5 +89,5 @@ Tabela 2 - Matriz de rastreabilidade<br>
 
 | Versão | Data       | Descrição            | Autor      | Revisor |
 | ------ | ---------- | -------------------- | ---------- | ------- |
-| 1.0    | 06/11/2023 | Criação do documento | João Pedro | -       |
+| 1.0    | 06/11/2023 | Criação do documento | João Pedro | João Gabriel Elvas       |
 
