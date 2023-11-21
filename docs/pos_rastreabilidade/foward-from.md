@@ -16,7 +16,7 @@ Na Tabela 1 é possível ver a legenda referente aos artefatos que geraram ou ev
 | AD      | Análise de Documentos     |
 | US      | História usuário          |
 | ST      | Storytelling              |
-| ENT     | Entrevista                |
+| INT     | Entrevista                |
 | UC      | Casos de Uso              |
 | C       | Cenários                  |
 | L       | Léxico                    |
@@ -104,6 +104,173 @@ Tabela 03 - Modelo de Rastreabilidade para requisitos funcionais <br>
 
 <p align="center">
 Tabela 04 - Modelo de Rastreabilidade para requisitos não funcionais <br>
+(Fonte: Vitor Borges)
+</p>
+
+## 5.1 Requisitos Funcionais
+
+| ADD1 | Baixar o aplicativo em sistemas Android (versão 5 ou superior) e iOS. |
+| :----------: | :-------: |
+| Épico | Compatibilidade |
+| História de Usuário | |
+| Léxico | (L1)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l1-usuario]<br> (L5)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l5-baixar] <br> (L14)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l14-compativel] |
+| Casos de uso | |
+| Cenários | |
+| Artefatos de Elicitação | (AD)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/analise_de_documentos/#9-tabela-de-requisitos] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 04 - Rastreabilidade requisito ADD1 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD2 | Permitir cadastro no Portal de Serviços, exigindo um endereço de e-mail válido. |
+| :----------: | :-------: |
+| Épico | Registro e Autenticação do Usuário |
+| História de Usuário | |
+| Léxico | (L1)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l1-usuario]<br> (L13)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l13-valido]<br> (L15)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l15-e-mail] |
+| Casos de uso | |
+| Cenários | |
+| Artefatos de Elicitação | (AD)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/analise_de_documentos/#9-tabela-de-requisitos] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 05 - Rastreabilidade requisito ADD2 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD3 | Oferecer opção de alteração de senha no aplicativo. |
+| :----------: | :-------: |
+| Épico | Registro e Autenticação do Usuário |
+| História de Usuário | |
+| Léxico | (L1)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l1-usuario]<br> (L13)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l8-alterar]<br> (L15)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l15-e-mail]|
+| Casos de uso | |
+| Cenários | |
+| Artefatos de Elicitação | (AD)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/analise_de_documentos/#9-tabela-de-requisitos] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 06 - Rastreabilidade requisito ADD3 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD4 | Disponibilizar variedade de serviços relacionados à CNH e veículos. |
+| :----------: | :-------: |
+| Épico | Serviços de CNH, Serviços de Veículos |
+| História de Usuário | (US5)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#35-historia-5-consulta-de-processo-de-habilitacao] |
+| Léxico | (L1)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l1-usuario]<br> |
+| Casos de uso | |
+| Cenários | (C01)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/#c01-baixar-documentos-do-veiculo]<br> (C02)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/#c02-gerar-cnh-digital]<br> (C03)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/#c03-consultar-infracoes]<br> (C04)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/#c04-emitir-crlv-e] |
+| Artefatos de Elicitação | (AD)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/analise_de_documentos/#9-tabela-de-requisitos] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 07 - Rastreabilidade requisito ADD4 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD13 | Deve ser possível baixar os boletos com os débitos do meu veículo. |
+| :----------: | :-------: |
+| Épico | Serviços de Veículos |
+| História de Usuário | (US10)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#310-historia-10-consultar-dados-do-veiculo] |
+| Léxico | (L3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l3-veiculo]<br>(L5)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l5-baixar]<br> |
+| Casos de uso | |
+| Cenários | (C03)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/#c03-consultar-infracoes] |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 08 - Rastreabilidade requisito ADD13 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD14 | Deve ser possível realizar o pagamento dos boletos com os débitos do meu veículo. |
+| :----------: | :-------: |
+| Épico | Serviços de Veículos, Pagamento e Multas |
+| História de Usuário | |
+| Léxico | (L3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l3-veiculo]<br>(L6)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l6-pagar]<br> |
+| Casos de uso | |
+| Cenários | |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 09 - Rastreabilidade requisito ADD14 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD15 | Deve ser possível baixar os documentos do meu veículo. |
+| :----------: | :-------: |
+| Épico | Serviços de Veículos |
+| História de Usuário | (US10)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#310-historia-10-consultar-dados-do-veiculo] |
+| Léxico | (L3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l3-veiculo]<br>(L5)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l5-baixar] |
+| Casos de uso | (UC2)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/casos_de_uso/#use-case-02-consultar-veiculo] |
+| Cenários | |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 10 - Rastreabilidade requisito ADD15 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD16 | Deve ser possível consultar os dados de veículos a partir do renavam. |
+| :----------: | :-------: |
+| Épico | Serviços de Veículos |
+| História de Usuário | (US10)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#310-historia-10-consultar-dados-do-veiculo] |
+| Léxico | (L3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l3-veiculo]<br>(L7)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l7-consultar] |
+| Casos de uso | (UC2)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/casos_de_uso/#use-case-02-consultar-veiculo] |
+| Cenários | |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 11 - Rastreabilidade requisito ADD16 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD17 | Deve ser possível consultar os dados de veículos a partir da placa. |
+| :----------: | :-------: |
+| Épico | Serviços de Veículos |
+| História de Usuário | (US10)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#310-historia-10-consultar-dados-do-veiculo] |
+| Léxico | (L3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l3-veiculo]<br>(L7)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l7-consultar] |
+| Casos de uso | (UC2)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/casos_de_uso/#use-case-02-consultar-veiculo] |
+| Cenários | |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 12 - Rastreabilidade requisito ADD17 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD18 | Deve ser possível baixar a minha CNH digital. |
+| :----------: | :-------: |
+| Épico | Serviços de CNH |
+| História de Usuário | (US7)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#37-historia-7-emitir-carteira-nacional-de-habilitacao-eletronica-cnh-e] |
+| Léxico | (L2)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l2-cnh]<br>(L5)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l5-baixar]<br>(L17)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l17-expirado] |
+| Casos de uso | (UC3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/casos_de_uso/#use-case-03-consultar-cnh] |
+| Cenários | (C2)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/#c02-gerar-cnh-digital] |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Implementado |
+
+<p align="center">
+Tabela 13 - Rastreabilidade requisito ADD18 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD19 | Deve ser possível realizar a transferência de veículo. |
+| :----------: | :-------: |
+| Épico |  |
+| História de Usuário | (US7)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/#37-historia-7-emitir-carteira-nacional-de-habilitacao-eletronica-cnh-e] |
+| Léxico | (L3)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l3-veiculo]<br>(L11)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/#l11-solicitar]<br> |
+| Casos de uso | (UC2)[https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/casos_de_uso/#use-case-02-consultar-veiculo] |
+| Cenários |  |
+| Artefatos de Elicitação | (INT)[https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/entrevista/#3-requisitos-elicitados] |
+| Funcionalidade | Não Implementado |
+
+<p align="center">
+Tabela 14 - Rastreabilidade requisito ADD19 <br>
 (Fonte: Vitor Borges)
 </p>
 
