@@ -149,7 +149,7 @@ Figura 05- Propagação:Confiabilidade<br>
 
 Com base no documento feito,pode-se concluir a partir do softgoals que a maioria  das características estudadas atendeu os requisitos não funcionais propostos porem muitos ficaram incompletos o que se faz necessários melhorias.
 
-## Referências
+## Bibliografia
 [1] Chung, Lawrence; A. Nixon, Brian; Mylopoulos, John. Non-Functional Requirements in Software Engineering. Acesso em 26 de Dezembro de 2022
 
 [2] SILVA, R. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Tese (Mestrado em Engenharia de Software) - Centro de Informática, Universidade Federal de Pernambuco. Recife, p. 155. 2019. Acesso em: 25 de Dezembro de 2022
