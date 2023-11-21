@@ -32,11 +32,10 @@ Fonte: [Plano de ensino da disciplina](https://aprender3.unb.br/pluginfile.php/2
 
 | ID  | Conteudo                                                                                      | Possui | Qualidade | Comentario |
 | --- | --------------------------------------------------------------------------------------------- | ------ | --------- | ---------- |
-| 1   | O artefato contém todas as funcionalidades desejadas e priorizadas para o produto de software?  | sim    | Boa     | O artefato contém as funcionalidades priorizadas, mas não contém todas as funcionalidades do produto de software |
+| 1   | O artefato contém todas as funcionalidades desejadas e priorizadas para o produto de software?  | sim    | Excelente     |  |
 | 2   | O artefato segue o padrão do modelo (Épico, Histórias Relacionadas, Prioridade)? |     Sim   |    Excelente      |     |
-| 3   | Os requisitos do artefato possuem um critério de aceitação?                                   |    Não    |          |   |
 | 4   | O artefato possui épicos e temas bem definidos e descritos?                                   |    Sim    |      Excelente     |            |
-| 5   | O artefato apresenta épicos, features e histórias de usuários?                               |   Sim     |      Excelente     |            |
+| 5   | O artefato apresenta épicos, features e histórias de usuários?                               |   Sim     |      Mediana     |    Inclusão de features        |
 | 8   | As prioridades das histórias de usuário refletem adequadamente as necessidades do cliente e do negócio? |   Sim     |      Excelente     |            |
 | 9   | O backlog está atualizado, refletindo as mudanças nas necessidades do produto e nas prioridades do negócio? |   Sim     |      Excelente     |            |
 
@@ -46,7 +45,7 @@ Fonte: [Slides da aula “Requisitos – Aula 15"](https://aprender3.unb.br/plug
 
 ## Considerações
 
-- Acredito que se inserirmos todas as funcionalidade do produto de software mesmo que sejam funcionalidades com baixa prioridade de implementação, o backlog ficaria mais completo e abrangente, poderíamos incluir também hyperlinks no artefato.
+- Acredito que se inserirmos o padrão de Épicos -> Features -> Histórias de usuário o nosso product backlog ficaria mais completo e melhor detalhado, ademais poderíamos incluir também hyperlinks no artefato.
 
 ## Bibliografia
 
