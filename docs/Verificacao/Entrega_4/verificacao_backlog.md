@@ -22,7 +22,7 @@ O artefato de verificação do Backlog tem o objetivo de documentar se o artefat
 | 4   | O artefato possui Referências bibliográficas ?                                                | sim    | Excelente |            |
 | 5   | O artefato possui tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Excelente |            |
 | 6   | O artefato possui um texto fazendo uma introdução ?                                           | sim    | Excelente |            |
-| 7   | O artefato possui links para os outros artefatos?                                             | sim    | Excelente |            |
+| 7   | O artefato possui links para os outros artefatos?                                             | Não    | Ruim |            |
 
 **Tabela 1 - Lista de verificação Geral**
 
@@ -46,7 +46,7 @@ Fonte: [Slides da aula “Requisitos – Aula 15"](https://aprender3.unb.br/plug
 
 ## Considerações
 
-- Acredito que se inserirmos todas as funcionalidade do produto de software mesmo que sejam funcionalidades com baixa prioridade de implementação, o backlog ficaria mais completo e abrangente.
+- Acredito que se inserirmos todas as funcionalidade do produto de software mesmo que sejam funcionalidades com baixa prioridade de implementação, o backlog ficaria mais completo e abrangente, poderíamos incluir também hyperlinks no artefato.
 
 ## Bibliografia
 
