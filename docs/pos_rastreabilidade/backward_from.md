@@ -81,7 +81,7 @@ Tabela 3 - Descrição dos termos<br>
 ## Tabela de elo
 | id | Requisito | Tipo de Elo |
 | -- | --------- | ----------- |
-| ELO01 | RF01.1 | Representação: C03 representa ST02,UC02,R02 <br> L7 agrega RF01 <br>  |
+| ELO01 | RF01.1 | Representação: C03 representa ST02,UC02,R02 <br> Agregação:L7 agrega RF01 <br>  |
 | ELO02 | RF02.1 | Satisfação: P02 Satisfaz INT02,ADD14,ST03,UC02  <br> Agregação: L7 agrega RF02.1 <br>  |
 | ELO03 | RF03.1 | Representação: ADD33 representa ST13,UC02,C04,L18,US03 |
 | ELO04 | RF04.1 | Representação: ADD16 representa PE04,ADD16,UC02 <br> Agregação: L7 agrega RF04.1 <br> |
