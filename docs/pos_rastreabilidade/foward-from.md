@@ -99,6 +99,7 @@ Tabela 03 - Modelo de Rastreabilidade para requisitos funcionais <br>
 
 | ID Requisito | Descrição |
 | :----------: | :-------: |
+| Épico | |
 | NFR | |
 | Especificação Suplementar | |
 
@@ -463,6 +464,41 @@ Tabela 26 - Rastreabilidade requisito ADD33 <br>
 
 <p align="center">
 Tabela 27 - Rastreabilidade requisito ADD34 <br>
+(Fonte: Vitor Borges)
+</p>
+
+## 5.2 Requisitos Não Funcionais
+
+| ADD5 | Garantir compatibilidade com Android 5 ou superior. |
+| :----------: | :-------: |
+| Épico | Compatibilidade |
+| NFR | (Confiabilidade)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/#confiabilidade] |
+| Especificação Suplementar | |
+
+<p align="center">
+Tabela 28 - Rastreabilidade requisito ADD5 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD6 | Garantir Assegurar compatibilidade com iOS. |
+| :----------: | :-------: |
+| Épico | Compatibilidade |
+| NFR | (Confiabilidade)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/#confiabilidade] |
+| Especificação Suplementar | |
+
+<p align="center">
+Tabela 29 - Rastreabilidade requisito ADD6 <br>
+(Fonte: Vitor Borges)
+</p>
+
+| ADD20 | Registro e Autenticação do Usuário. |
+| :----------: | :-------: |
+| Épico | Compatibilidade |
+| NFR | (Confiabilidade)[https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/#confiabilidade] |
+| Especificação Suplementar | |
+
+<p align="center">
+Tabela 30 - Rastreabilidade requisito ADD6 <br>
 (Fonte: Vitor Borges)
 </p>
 
