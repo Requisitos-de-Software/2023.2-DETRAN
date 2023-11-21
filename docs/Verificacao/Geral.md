@@ -29,7 +29,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 |                                    | Priorização In or Out | 2.0 | 04/11/2023 | [Pedro Campos](https://github.com/pedrocampos0) | [Vitor Borges](https://github.com/VitorB2002) | -- | 
 |                                    | Moscow | 2.0 | 04/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- |
 |                                    | Personas | 2.0 | 04/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- |  
-|                                    | Quesionário | 2.0 | 04/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- | 
+|                                    | Questionário | 2.0 | 04/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- | 
 |                                    | Requisitos elicitados | 2.0 | 04/11/2023 | [João Pedro](https://github.com/jpanacleto2) | [Vitor Borges](https://github.com/VitorB2002) | -- |
 |                                    | Storytelling | 2.0 | 04/11/2023 | [João Gelvas](https://github.com/JoaoGElvas) | [Vitor Borges](https://github.com/VitorB2002) | -- |  
 | Etapa 3 - Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar. | Casos de uso | 3.0 | 06/11/2023 | [João Pedro](https://github.com/jpanacleto2) | [João Pedro](https://github.com/jpanacleto2) | -- |
