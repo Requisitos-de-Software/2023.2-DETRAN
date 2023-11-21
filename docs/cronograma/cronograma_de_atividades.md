@@ -261,14 +261,11 @@ A Tabela 12 mostra as atividades reaçozadas para a entrega 5.2, além de seus a
 | -------------------------------------------- | ------ | ----- | ------------------- | --------- |
 | Backward From                                | 18/11  | 20/11 | João Gabriel e Guilherme Nishimura | João Gabriel e Guilherme Nishimura |
 | Forward From                                 | 19/11       |  20/11     |  Vitor Borges                   |  João Pedro, Guilherme         |
-| Matriz de Rastreabilidade                    | 18/11  | 20/11 | João Pedro Anacleto |           |
-| Correção checklist RichPicture               | 18/11  | 20/11 | João Pedro Anacleto |           |
-| Correção checklist Técnicas de elicitação    |        |       |                     |           |
-| Correção checklist Cenários                  | 18/11  | 20/11 | João Pedro Anacleto |           |
-| Correção checklist Diagrama de Caso de Uso   |        |       |                     |           |
-| Correção checklist Especificação Suplementar |        |       |                     |           |
+| Matriz de Rastreabilidade                    | 18/11  | 20/11 | João Pedro Anacleto |João Gabriel           |
+| Correção checklist RichPicture               | 18/11  | 20/11 | João Pedro Anacleto | João Gabriel          |
+| Correção checklist Cenários                  | 18/11  | 20/11 | João Pedro Anacleto | João Gabriel         |
 | Correção checklist NFR                       | 18/11  | 20/11 | João Gabriel        |           |
-| Correção checklist Rastreabilidade           |        |       |                     |           |
+
 
 <p align="center">
 Tabela 12 - Cronograma realizado Entrega 5.2<br>
