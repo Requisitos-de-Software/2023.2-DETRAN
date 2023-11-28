@@ -286,11 +286,49 @@ A Tabela 13 mostra as atividades planejadas para a entrega 5.2, além de seus au
 | Gravação da apresentação                | 20/11  | 29/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 | Correções do Ponto de Controle anterior | 20/11  | 29/11 | Pedro e Vitor                                  | Guilherme                                      |
 
+
 <p align="center">
 Tabela 13 - Planejamento Entrega 5.2<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
+## Cronograma realizado entrega 6
+
+| Atividade                                                                                                                                             | inicio     | fim        | Autores                  | Revisores |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|--------------------------|-----------|
+| gravação dupla inspeção Rich Picture                                                                                                                  | 25/11/2023 | 29/11/2023 | Joao Gabriel e Pedro     |           |
+| gravação dupla inspeção Entrevista                                                                                                                    | 25/11/2023 | 29/11/2023 | Joao Pedro e Guilherme   |           |
+| gravação dupla inspeção Storytelling                                                                                                                  | 25/11/2023 | 29/11/2023 | Vitor e Joao Pedro       |           |
+| gravação dupla inspeção Casos de uso                                                                                                                  | 25/11/2023 | 29/11/2023 | Guilherme e Joao Gabriel |           |
+| gravação dupla inspeção NFR                                                                                                                           | 25/11/2023 | 29/11/2023 | Pedro e Vitor            |           |
+| gravação individual inspeção aplicativos                                                                                                              | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
+| gravação individual inspeção ferramentas                                                                                                              | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| gravação individual inspeção Termos de Uso                                                                                                            | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção First Thing First                                                                                                        | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção Análise de documentos                                                                                                    | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
+| gravação individual inspeção Priorização In or Out                                                                                                    | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| gravação individual inspeção Moscow                                                                                                                   | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| gravação individual inspeção Personas                                                                                                                 | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| gravação individual inspeção Questionario                                                                                                             | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
+| gravação individual inspeção Requisitos elicitados                                                                                                    | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
+| gravação individual inspeção Cenários                                                                                                                 | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
+| gravação individual inspeção Especificação suplementar                                                                                                | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| gravação individual inspeção Lexico                                                                                                                   | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
+| gravação individual inspeção Backlog do produto                                                                                                       | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção Historias do Usuario                                                                                                     | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
+| gravação individual inspeção Backward-From                                                                                                            | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção Forward-From                                                                                                             | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| gravação individual inspeção Matriz Geral                                                                                                             | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| prototipação e gravação da validação com usuario: transferencia de pontuação                                                                          | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| prototipação e gravação da validação com usuario: notificações em tempo real sobre atualizações nas leis de trânsito e outras informações relevantes. | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| prototipação e gravação da validação com usuario: Pagamento de multas com diferentes metodos de pagamento                                             | 25/11/2023 | 04/12/2023 | Pedro                    |           |
+| prototipação e gravação da validação com usuario: Notificações sobre expiração da carteira                                                            | 25/11/2023 | 04/12/2023 | Joao Gabriel             |           |
+| prototipação e gravação da validação com usuario: Consultar multas de forma rapida(apenas inserindo placa do veiculo).                                | 25/11/2023 | 04/12/2023 | Joao Pedro               |           |
+| Enviar o email para o Detran digital a respeito das funcionalidades não implementadas                                                                 | 25/11/2023 | 04/12/2023 | Vitor,Guilherme e Pedro  |           |
+|                                                                                                                                                       |            |            |                          |           |
+|                                                                                                                                                       |            |            |                          |           |
+|                                                                                                                                                       |            |            |                          |           |
+|                                                                                                                                                       |            |            |                          |           |
 
 ## Referência
 
