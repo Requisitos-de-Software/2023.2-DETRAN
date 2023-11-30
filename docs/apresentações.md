@@ -37,11 +37,30 @@ Video 03 - Apresentação da etapa 03<br>
 
 ## 4. Entrega 04
 
-Segue abaixo o video de apresentação da entrega 3, realizado no dia 06/11/2023
+Segue abaixo o video de apresentação da entrega 4, realizado no dia 06/11/2023
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Y0Y1fTJxMw?si=NtxMtsd78TkPT24P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p align="center">
 Video 04 - Apresentação da etapa 04<br>
+(Fonte: Grupo 07).
+</p>
+
+## 5. Entrega 5.1
+
+Segue abaixo o video de apresentação da entrega 5.1, realizado no dia 13/11/2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Obz7zNKqp78?si=rNODsCKcuUqPDGrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center">
+Video 04 - Apresentação da etapa 04<br>
+(Fonte: Grupo 07).
+</p>
+
+## 6. Entrega 6
+Segue abaixo o video de apresentação da entrega 6, realizado no dia 20/11/2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QsMO7kSdkJE?si=5PlbyG-ZE3jasRoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center">
+Video 06 - Apresentação da etapa 06<br>
 (Fonte: Grupo 07).
 </p>
 
@@ -54,3 +73,4 @@ Video 04 - Apresentação da etapa 04<br>
 | 3.0    | 25/10/2023 | Adicionado video da apresentação etapa 3 | Vitor Borges |  |
 | 3.1 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
 | 4.0    | 25/10/2023 | Adicionado video da apresentação etapa 4 | Vitor Borges |  |
+| 5.0    | 20/11/2023 | Adicionado video da apresentação etapa 5.1 e 6 | Vitor Borges |  |

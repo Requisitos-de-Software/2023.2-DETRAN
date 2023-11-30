@@ -58,4 +58,4 @@ O artefato de verificação Cenários tem o objetivo de documentar se o artefato
 | Versão | Data       | Descrição               | Autor               | Revisor             |
 | ------ | ---------- | ----------------------- | ------------------- | ------------------- |
 | 1.0    | 13/11/2023 | Criacao doc             | João Gabriel Elvas  | João Pedro Anacleto |
-| 1.0    | 20/11/2023 | Adcionando bibliografia | João Pedro Anacleto |                     |
+| 1.0    | 20/11/2023 | Adcionando bibliografia | João Pedro Anacleto | João Gabriel        |

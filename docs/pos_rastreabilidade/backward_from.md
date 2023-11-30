@@ -22,7 +22,12 @@ Legendas:
 
 * RF: Requisito funcional
 * RNF: Requisito não-funcional
-
+* UC: Casos de uso
+* ST: Storytelling
+* C: Cenário
+* L: léxico
+* US: historias de usuário 
+* ADD: Requisitos elicitado
 ## Tabelas de requisitos funcionais
 
 | Novo ID | Descrição | Rastreabilidade | Implementação |

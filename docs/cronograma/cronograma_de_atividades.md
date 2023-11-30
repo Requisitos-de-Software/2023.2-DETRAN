@@ -260,18 +260,15 @@ A Tabela 12 mostra as atividades realizadas para a entrega 5.2, além de seus au
 
 *Pós-Rastreabilidade - Gerência II*
 
-| Atividade                                    | inicio | fim   | autores             | Revisores |
-| -------------------------------------------- | ------ | ----- | ------------------- | --------- |
-| Backward From                                | 18/11  | 20/11 | João Gabriel e Guilherme Nishimura | João Gabriel e Guilherme Nishimura |
-| Forward From                                 |        |       |                     |           |
-| Matriz de Rastreabilidade                    | 18/11  | 20/11 | João Pedro Anacleto |           |
-| Correção checklist RichPicture               | 18/11  | 20/11 | João Pedro Anacleto |           |
-| Correção checklist Técnicas de elicitação    |        |       |                     |           |
-| Correção checklist Cenários                  | 18/11  | 20/11 | João Pedro Anacleto |           |
-| Correção checklist Diagrama de Caso de Uso   |        |       |                     |           |
-| Correção checklist Especificação Suplementar |        |       |                     |           |
-| Correção checklist NFR                       | 18/11  | 20/11 | João Gabriel        |           |
-| Correção checklist Rastreabilidade           |        |       |                     |           |
+| Atividade                      | inicio | fim   | autores                            | Revisores                          |
+| ------------------------------ | ------ | ----- | ---------------------------------- | ---------------------------------- |
+| Backward From                  | 18/11  | 20/11 | João Gabriel e Guilherme Nishimura | João Gabriel e Guilherme Nishimura |
+| Forward From                   | 19/11  | 20/11 | Vitor Borges                       | João Pedro, Guilherme              |
+| Matriz de Rastreabilidade      | 18/11  | 20/11 | João Pedro Anacleto                | João Gabriel                       |
+| Correção checklist RichPicture | 18/11  | 20/11 | João Pedro Anacleto                | João Gabriel                       |
+| Correção checklist Cenários    | 18/11  | 20/11 | João Pedro Anacleto                | João Gabriel                       |
+| Correção checklist NFR         | 18/11  | 20/11 | João Gabriel                       |                                    |
+
 
 <p align="center">
 Tabela 12 - Cronograma realizado Entrega 5.2<br>
@@ -292,10 +289,49 @@ A Tabela 13 mostra as atividades planejadas para a entrega 5.2, além de seus au
 | Gravação da apresentação                | 20/11  | 29/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
 | Correções do Ponto de Controle anterior | 20/11  | 29/11 | Pedro e Vitor                                  | Guilherme                                      |
 
+
 <p align="center">
-Tabela 13 - Planejamento Entrega 5.2<br>
+Tabela 13 - Planejamento Entrega 6<br>
 (Fonte: João Pedro Anacleto)
 </p>
+
+### Cronograma realizado entrega 6
+
+A Tabela 14 mostra as atividades planejadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
+
+*Análise de Requisitos: Verificação e Validação II*
+
+| Atividade                                                                                                              | inicio     | fim        | Autores                  | Revisores |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------ | --------- |
+| gravação dupla inspeção Rich Picture                                                                                   | 25/11/2023 | 29/11/2023 | Joao Gabriel e Pedro     |           |
+| gravação dupla inspeção Entrevista                                                                                     | 25/11/2023 | 29/11/2023 | Joao Pedro e Guilherme   |           |
+| gravação dupla inspeção Storytelling                                                                                   | 25/11/2023 | 29/11/2023 | Vitor e Joao Pedro       |           |
+| gravação dupla inspeção Casos de uso                                                                                   | 25/11/2023 | 29/11/2023 | Guilherme e Joao Gabriel |           |
+| gravação dupla inspeção NFR                                                                                            | 25/11/2023 | 29/11/2023 | Pedro e Vitor            |           |
+| gravação individual inspeção First Thing First                                                                         | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção Priorização In or Out                                                                     | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| gravação individual inspeção Moscow                                                                                    | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| gravação individual inspeção Requisitos elicitados                                                                     | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| gravação individual inspeção Cenários                                                                                  | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
+| gravação individual inspeção Especificação suplementar                                                                 | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
+| gravação individual inspeção Lexico                                                                                    | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
+| gravação individual inspeção Backlog do produto                                                                        | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção Historias do Usuario                                                                      | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
+| gravação individual inspeção Backward-From                                                                             | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| gravação individual inspeção Forward-From                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| gravação individual inspeção Matriz Geral                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| prototipação e gravação da validação com usuario: transferencia de pontuação                                           | 25/11/2023 | 29/11/2023 | Guilherme                |           |
+| prototipação e gravação da validação com usuario: Pagina de Cursos de trânsito para cumprimento de infrações           | 25/11/2023 | 29/11/2023 | Vitor                    |           |
+| prototipação e gravação da validação com usuario: Pagamento de multas com diferentes metodos de pagamento              | 25/11/2023 | 04/12/2023 | Pedro                    |           |
+| prototipação e gravação da validação com usuario: Tela de anexação de Laudos Medicos                                   | 25/11/2023 | 04/12/2023 | Joao Gabriel             |           |
+| prototipação e gravação da validação com usuario: Consultar multas de forma rapida(apenas inserindo placa do veiculo). | 25/11/2023 | 04/12/2023 | Joao Pedro               |           |
+| Enviar o email para o Detran digital a respeito das funcionalidades não implementadas                                  | 25/11/2023 | 04/12/2023 | Vitor,Guilherme e Pedro  |           |
+
+<p align="center">
+Tabela 14 - Cronograma realizado Entrega 6<br>
+(Fonte: João Pedro Anacleto)
+</p>
+
 
 
 ## Referência
