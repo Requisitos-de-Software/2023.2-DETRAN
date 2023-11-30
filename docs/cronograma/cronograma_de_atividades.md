@@ -224,6 +224,9 @@ A Tabela 10 mostra as atividades planejadas para a entrega 5.1, além de seus au
 | Verificação Cenarios                  | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
 | Verificação Especificacao Suplementar | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
 | Verificação Lexicos                   | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
+| Verificação NFR                 | 09/11  | 13/11 | Pedro  | Vitor |
+| Verificação Backlog | 09/11  | 13/11 | Pedro  | Vitor |
+| Verificação Histórias de usuário                   | 09/11  | 13/11 | Pedro  | Vitor |
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
@@ -253,7 +256,7 @@ Tabela 11 - Planejamento Entrega 06<br>
 
 ### Cronograma realizado entrega 5.2
 
-A Tabela 12 mostra as atividades reaçozadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
+A Tabela 12 mostra as atividades realizadas para a entrega 5.2, além de seus autores, revisores e datas de entrega.
 
 *Pós-Rastreabilidade - Gerência II*
 
@@ -308,3 +311,4 @@ Tabela 13 - Planejamento Entrega 5.2<br>
 | 1.2    | 04/11/2023 | Padronização                                                            | Vitor Borges        | Pedro        |
 | 1.2    | 06/11/2023 | Padronizações, Correções e Adições no Cronograma Realizado da entrega 4 | Pedro               | Vitor Borges |
 | 1.3    | 19/11/2023 | Correção do cronograma planejado e adição do cronograma realizado       | João Pedro Anacleto | Vitor Borges |
+| 1.4    | 30/11/2023 | Correção do cronograma realizado 5.1      | Pedro | Vitor Borges |
