@@ -52,9 +52,12 @@ Fonte: [Slides da aula “Requisitos – Aula 15"](https://aprender3.unb.br/plug
 
 - Acredito que no geral fizemos um bom artefato, porém, para melhorar a qualidade do conteúdo do artefato poderíamos desmebrar as histórias de usuário em subtarefas ou tarefas menores e atribuir pontos às histórias de usuário.
 
+## Gravação inspeção
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EbHAG89Ni6M?si=fw0YkUrUwk7S81rK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Bibliografia
 
-## Histórias de usuário
 > Slides da aula “Requisitos – Aula 15” dos professores Milene Serrano e Maurício Serrano. Disponível em: https://aprender3.unb.br/pluginfile.php/2692826/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em 19 de Novembro de 2023.
 
 # Historico de versão

@@ -55,6 +55,10 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 *Fonte: João Gabriel Elvas*
 
+## Video Inspeção
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3mNgmfgNRY?si=-26PUylYgwunA2vA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bibliografia
 > GAMBLE, S. Example: Supplementary Specification. [S. l.]: Pace University, 21 dez. 1998. Disponível em: https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm. Acesso em: 19 jul. 2022.'
 
