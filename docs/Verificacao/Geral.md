@@ -38,7 +38,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 |                                    | Léxico | 2.0 | 04/11/2023 | [Gulherme Nishi](https://github.com/Guilherme-Nishi) | [Pedro Campos](https://github.com/pedrocampos0) | -- | 
 | Etapa 4 - Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR Framework). | NFR | 1.1 | 06/11/2023 | [João Pedro](https://github.com/jpanacleto2) e [Gulherme Nishi](https://github.com/Guilherme-Nishi) | [João Pedro](https://github.com/jpanacleto2) e [Gulherme Nishi](https://github.com/Guilherme-Nishi) | -- |       
 |                                    | Backlog do produto | 1.2 | 06/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- | 
-|                                    | Histório de usuários| 1.3 | 04/11/2023 | [João Gelvas](https://github.com/JoaoGElvas) e [Pedro Campos](https://github.com/pedrocampos0) | [Pedro Campos](https://github.com/pedrocampos0) | -- |  
+|                                    | Histório de usuários| 1.3 | 04/11/2023 | [João Gelvas](https://github.com/JoaoGElvas) e [Pedro Campos](https://github.com/pedrocampos0) | [Pedro Campos](https://github.com/pedrocampos0) |  [João Pedro](https://github.com/jpanacleto2) |  
 
 <p align="center"><b>Tabela 01 - Artefatos verificados</b><br></p>
 
