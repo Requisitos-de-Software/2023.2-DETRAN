@@ -17,13 +17,13 @@ O artefato de verificação do MoSCoW tem o objetivo de documentar se o artefato
 
 | ID | Conteudo                                                                                      | Cumprido | Qualidade | Comentario |
 |----|-----------------------------------------------------------------------------------------------|----------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     | | | |
-| 2  | O artefato possue revisor ?                                                                   | | | |
-| 3  | O historico de versão esta padronizado ?                                                      | | | |
-| 4  | O artefato possue Referências bibliográficas ?                                                | | | |
-| 5  | O artefato possue tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? | | | |
-| 6  | O artefato possue um texto fazendo uma introdução ?                                           | | | |
-| 7  | O artefato possui links para os outros artefatos?                                             | | | |
+| 1  | O artefato possue autor ?                                                                     | Sim | Excelente | |
+| 2  | O artefato possue revisor ?                                                                   | Sim | Excelente | |
+| 3  | O historico de versão esta padronizado ?                                                      | Sim | Excelente | |
+| 4  | O artefato possue Referências bibliográficas ?                                                | Sim | Excelente | |
+| 5  | O artefato possue tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? | Sim | Excelente | |
+| 6  | O artefato possue um texto fazendo uma introdução ?                                           | Sim | Excelente | |
+| 7  | O artefato possui links para os outros artefatos?                                             | Não | Incompleto | Adicionar link de ligação para a tabela original de requisitos elicitados |
 
 <p align="center">
 Tabela 01 - Verificação Geral<br>
@@ -36,15 +36,15 @@ O artefato MoSCoW tem o objetivo de mostrar a aplicação da tecnica de prioriza
 
 | ID | Conteudo                                                              | Cumprido | Qualidade | Comentario |
 |----|-----------------------------------------------------------------------|----------|-----------|------------|
-| 1 | A metodologia utilizada é apresentada? | | | | |
-| 2 | Os requisitos possuem rastreabilidade? | | | | |
-| 3 | O planejamento foi apresentado (data e local) para realização da priorização dos requisitos? | | | | |
-| 4 | A técnica MoSCoW foi aplicada levando em conta os elementos do framework (Must, Should, Could, Wont) | | | | |
-| 5 | Todos os requisitos elicitados tiveram sua prioridade definida? | | | | |
-| 6 | Possui legenda para identificar do que se trata o ID? | | | | |
-| 7 | A equipe envolvida na priorização incluiu stakeholders chave? | | | | |
-| 8 | Existe um plano para lidar com requisitos "won't"? | | | | |
-
+| 1 | A metodologia utilizada é apresentada? | Sim | Excelente | |
+| 2 | Os requisitos possuem rastreabilidade? | Sim | Bom | Falta criar uma legenda própria para os artefatos priorizados por essa técnica |
+| 3 | O planejamento foi apresentado (data e local) para realização da priorização dos requisitos? | Não | Incompleto | Não é apresentado o planejamento para a realização da técnica |
+| 4 | A técnica MoSCoW foi aplicada levando em conta os elementos do framework (Must, Should, Could, Wont) | Sim | Excelente | |
+| 5 | Todos os requisitos elicitados tiveram sua prioridade definida? | Sim | Excelente | |
+| 6 | Possui legenda para identificar do que se trata o ID? | Sim | Excelente | |
+| 7 | A equipe envolvida na priorização incluiu stakeholders? | Não | Incompleto | |
+| 8 | Existe um plano para lidar com requisitos "won't"? | Não | Incompleto | |
+| 9 | A gravação da priorização é apresentada? | Não | Incompleto | |
 
 <p align="center">
 Tabela 02 - Verificação Específica MoSCoW<br>
@@ -64,3 +64,4 @@ Tabela 02 - Verificação Específica MoSCoW<br>
 | Versão | Data       | Descrição | Autor               | Revisor |
 |--------|------------|-----------|---------------------|---------|
 | 1.0    | 02/12/2023 | Adicionado tabelas para a inspeção do artefato | Vitor | Pedro Campos |
+| 1.1    | 02/12/2023 | Adicionado inspeção do artefato | Vitor | Pedro Campos |
