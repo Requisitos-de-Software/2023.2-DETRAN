@@ -24,6 +24,8 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 | 5   | O artefato possui tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? | Sim    | Excelente | - |
 | 6   | O artefato possui um texto fazendo uma introdução?                                             | sim    |   Excelente         |                                             |
 | 7   | O artefato possui links para os outros artefatos?                                              | sim    |    Excelente        | -         |
+
+
 *Fonte: Grupo 7*
 
 ## Verificação expecifica do artefato
@@ -32,14 +34,14 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 | ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | :referencia | :imagem |
 | --- | -----------------------------------------------------------------------------------------------------: | ------ | ---------- | :------------------------------------------------------------------ | :---------- | :------ |
-| 1   |                                                         Os rquisitos elicitados possuem atributos dos requisitos? | Sim    |     Regular    |     Não foi explicito separadamente mas está implicito na descrição do requisito     |  CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.,pagina1 47       |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/cb6d0bde-fb1e-4132-9ec8-bdaa0c3fc82f)|
+| 1   |                                                         Os requisitos elicitados possuem atributos dos requisitos? | Sim    |     Regular    |     Não foi explicito separadamente mas está implicito na descrição do requisito     |  CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.,pagina1 47       |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/cb6d0bde-fb1e-4132-9ec8-bdaa0c3fc82f)|
 | 2  |                                                       Possiveis questões em aberto ou duvidas surgidas durante o processo de elicitação foram documentadas e estão claras | Não    |     -   |    Não apresentado   |  CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.Pagina 145       |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/2a190332-c005-4e90-b617-dea51e15268a)|
 | 3   |                                  Há Presença de um glossário/legendas para auxiliar o processo de elicitação ? | sim    | Excelente           | -                                                                   |  CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.Pagina 149         | ![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/616efb37-e18b-4af0-8769-93948a6c6262)|
 |4   |                                       Aborda quais tecnicas foram utilizadas ? | sim    | Excelente           | -                                                                   | CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.Pagina 149             | ![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/988203eb-f0cd-4068-a980-47bdc63bef6e)|
 
 
 
-*Fonte: João Gabriel Elvas*
+*Fonte:Guilherme Nishimura*
 
 ## Bibliografia
 
@@ -50,4 +52,5 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 | Versão | Data       | Descrição   | Autor              | Revisor    |
 | ------ | ---------- | ----------- | ------------------ | ---------- |
-| 1.0    | 13/11/2023 | Criacao doc | Guilherme Nishimura | - |
+| 1.0    | 01/12/2023 | Criacao doc | Guilherme Nishimura | - |
+| 1.0    | 02/12/2023 |Ajustes documentos | Guilherme Nishimura | - |
