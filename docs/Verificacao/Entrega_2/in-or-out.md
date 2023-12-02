@@ -17,14 +17,13 @@ O artefato de verificação do In or Out tem o objetivo de documentar se o artef
 
 | ID | Conteudo                                                                                      | Cumprido | Qualidade | Comentario |
 |----|-----------------------------------------------------------------------------------------------|----------|-----------|------------|
-| 1  | O artefato possue autor ?                                                                     |  Sim        | Excelente |            |
-| 2  | O artefato possue revisor ?                                                                   |  Sim          | Excelente |            |
-| 3  | O historico de versão esta padronizado ?                                                      |   Sim         | Excelente |            |
-| 4  | Todas as ferramentas do projeto foram citadas ?                                               |   Sim         | Imcompleta |            |
-| 5  | O artefato possue Referências bibliográficas ?                                                |   Sim         | Boa       |            |
-| 6  | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? |   Sim         | Excelente |            |
-| 7  | O artefato possue um texto fazendo uma introdução ?                                           |    Sim        | Excelente |            |
-| 8  | O artefato possui links para os outros artefatos?                                             |   Não     | Não realizado |            |
+| 1  | O artefato possue autor ?                                                                     | Sim | Excelente | |
+| 2  | O artefato possue revisor ?                                                                   | Sim | Excelente | |
+| 3  | O historico de versão esta padronizado ?                                                      | Sim | Excelente | |
+| 4  | O artefato possue Referências bibliográficas ?                                                | Sim | Excelente | |
+| 5  | O artefato possue tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? | Sim | Excelente | |
+| 6  | O artefato possue um texto fazendo uma introdução ?                                           | Sim | Excelente | |
+| 7  | O artefato possui links para os outros artefatos?                                             | Não | Incompleto | Adicionar link para a tabela de requisitos elicitados da etapa anterior |
 
 <p align="center">
 Tabela 01 - Verificação Geral<br>
@@ -37,13 +36,13 @@ O artefato In or Out é uma abordagem simples e eficaz para a priorização de r
 
 | ID | Conteudo                                                              | Cumprido | Qualidade | Comentario |
 |----|-----------------------------------------------------------------------|----------|-----------|------------|
-| 1 | A metodologia utilizada é apresentada? | | | | |
-| 2 | Todos os requisitos elicitados foram priorizados? | | | | |
-| 3 | A técnica foi aplicada de forma correta? | | | | |
-| 4 | O planejamento foi apresentado (data e local) para realização da priorização dos requisitos com o do cliente? | | | | |
-| 5 | O cliente participou do processo de priorização? | | | | |
-| 6 | Os requisitos priorizados são rastreáveis? | | | | |
-| 7 | É apresentado a gravação da priorização? | | | | |
+| 1 | A metodologia utilizada é apresentada? | Sim | Excelente | | |
+| 2 | Todos os requisitos elicitados foram priorizados? | Sim | Excelente | | |
+| 3 | A técnica foi aplicada de forma correta? | Sim | Excelente | | |
+| 4 | O planejamento foi apresentado (data e local) para realização da priorização dos requisitos com o do cliente? | Não | Incompleto | | Adicionar as datas onde foi realizado a técnica |
+| 5 | O cliente participou do processo de priorização? | Sim | Excelente | | |
+| 6 | Os requisitos priorizados são rastreáveis? | Sim | Bom | | Mudar a legenda do identificador |
+| 7 | É apresentado a gravação da priorização? | Sim | Excelente | | |
 
 <p align="center">
 Tabela 02 - Verificação Específica In or Out<br>
@@ -63,3 +62,4 @@ Tabela 02 - Verificação Específica In or Out<br>
 | Versão | Data       | Descrição | Autor               | Revisor |
 |--------|------------|-----------|---------------------|---------|
 | 1.0    | 02/12/2023 | Adicionado tabelas para a inspeção do artefato| Vitor | Pedro Campos |
+| 1.1    | 02/12/2023 | Inspeção realizada | Vitor | Pedro Campos |
