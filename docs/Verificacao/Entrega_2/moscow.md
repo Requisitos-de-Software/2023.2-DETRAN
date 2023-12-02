@@ -1,17 +1,17 @@
 
 # Verificação MoSCoW
 
-# Introdução
+# 1. Introdução
 
 A verificação de software é um processo sistemático de avaliação e revisão do código fonte, design e documentação de um programa de computador com objetivo principal de garantir que o software atenda aos requisitos especificados e que funcione conforme o esperado. 
 
 Esse documento tem o objetivo de documentar as verificações realizadas no artefato Moscow utilizadas no projeto. O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
 
-# Objetivo
+# 2. Objetivo
 
 O artefato de verificação do MoSCoW tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta.
 
-# Tabela de verificação
+# 3. Tabela de verificação
 
 ## Verificação Geral do padrão do projeto
 
@@ -51,6 +51,14 @@ Tabela 02 - Verificação Específica MoSCoW<br>
 (Fonte: Vitor Borges)
 </p>
 
+## 4. Vídeo Inspeção
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aZZE_u59Ja8?si=7zNZbKyRAP_KSTVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p align="center">
+Vídeo 01 - Inspeção MoSCoW<br>
+(Fonte: Vitor Borges)
+</p>
+
 ## Referências Bibliograficas
 
 - SALES, André Barros. Plano de ensino da disciplina.
@@ -65,3 +73,4 @@ Tabela 02 - Verificação Específica MoSCoW<br>
 |--------|------------|-----------|---------------------|---------|
 | 1.0    | 02/12/2023 | Adicionado tabelas para a inspeção do artefato | Vitor | Pedro Campos |
 | 1.1    | 02/12/2023 | Adicionado inspeção do artefato | Vitor | Pedro Campos |
+| 1.2    | 02/12/2023 | Adicionado gravação da inspeção | Vitor | Pedro Campos |
