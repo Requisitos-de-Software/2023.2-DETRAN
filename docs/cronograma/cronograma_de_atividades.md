@@ -315,7 +315,7 @@ A Tabela 14 mostra as atividades planejadas para a entrega 5.2, além de seus au
 | gravação individual inspeção Cenários                                                                                  | 25/11/2023 | 29/11/2023 | Joao Gabriel            |           |
 | gravação individual inspeção Especificação suplementar                                                                 | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
 | gravação individual inspeção Lexico                                                                                    | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
-| gravação individual inspeção Backlog do produto                                                                        | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| [gravação individual inspeção Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao/Entrega_4/verificacao_backlog/)                                                                        | 25/11/2023 | 29/11/2023 | Pedro                    |   Vitor        |
 | gravação individual inspeção Historias do Usuario                                                                      | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
 | gravação individual inspeção Backward-From                                                                             | 25/11/2023 | 29/11/2023 | Pedro                    |           |
 | gravação individual inspeção Forward-From                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |

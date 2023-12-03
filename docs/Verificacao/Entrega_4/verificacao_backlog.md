@@ -47,6 +47,10 @@ Fonte: [Slides da aula “Requisitos – Aula 15"](https://aprender3.unb.br/plug
 
 - Acredito que se inserirmos o padrão de Épicos -> Features -> Histórias de usuário o nosso product backlog ficaria mais completo e melhor detalhado, ademais poderíamos incluir também hyperlinks no artefato.
 
+## Vídeo da inspeção
+
+[Vídeo do youtube](https://youtu.be/EqqythcQzRg)
+
 ## Bibliografia
 
 ### Backlog de produto
