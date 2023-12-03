@@ -308,7 +308,7 @@ A Tabela 14 mostra as atividades planejadas para a entrega 5.2, além de seus au
 | gravação dupla inspeção Storytelling                                                                                   | 25/11/2023 | 29/11/2023 | Vitor e Joao Pedro       |           |
 | gravação dupla inspeção Casos de uso                                                                                   | 25/11/2023 | 29/11/2023 | Guilherme e Joao Gabriel |           |
 | gravação dupla inspeção NFR                                                                                            | 25/11/2023 | 29/11/2023 | Pedro e Vitor            |           |
-| gravação individual inspeção First Thing First                                                                         | 25/11/2023 | 29/11/2023 | Pedro                    |           |
+| [gravação individual inspeção First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao/Entrega_2/first_things_first/)| 25/11/2023 | 03/12/2023 | Pedro     | Vitor|
 | gravação individual inspeção Priorização In or Out                                                                     | 25/11/2023 | 29/11/2023 | Vitor                    |           |
 | gravação individual inspeção Moscow                                                                                    | 25/11/2023 | 29/11/2023 | Vitor                    |           |
 | gravação individual inspeção Requisitos elicitados                                                                     | 25/11/2023 | 29/11/2023 | Guilherme                |           |
