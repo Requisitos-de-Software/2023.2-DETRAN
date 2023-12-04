@@ -3,7 +3,7 @@
 # Introdução
 A verificação de software é um processo sistemático de avaliação e revisão do código fonte, design e documentação de um programa de computador com bjetivo principal de garantir que o software atenda aos requisitos especificados e que funcione conforme o esperado. 
 
-Esse documento tem o objetivo de documentar as verificações realizadas no artefato de Especificação. O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
+Esse documento tem o objetivo de documentar as verificações realizadas no artefato de [Matriz Geral](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) . O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
 
 # Objetivo
 
