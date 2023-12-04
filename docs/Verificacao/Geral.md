@@ -25,7 +25,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 |                                    | Deploy do GitPages | 1.0| 19/09/2023 | [Pedro Campos](https://github.com/pedrocampos0) | [Pedro Campos](https://github.com/pedrocampos0) | -- |
 | Etapa 2 - Elicitação – Técnicas e Priorização. | First Thing First | 2.0 | 04/11/2023 | [Gulherme Nishi](https://github.com/Guilherme-Nishi) | [Vitor Borges](https://github.com/VitorB2002) | -- |
 |                                    | Análise de documentos | 2.0 | 04/11/2023 | [João Pedro](https://github.com/jpanacleto2) | [Vitor Borges](https://github.com/VitorB2002) | -- |       
-|                                    | Entrevista | 2.0 | 04/11/2023 | [Pedro Campos](https://github.com/pedrocampos0) | [Vitor Borges](https://github.com/VitorB2002) | -- | 
+|                                    | Entrevista | 2.0 | 04/11/2023 | [Pedro Campos](https://github.com/pedrocampos0) | [Vitor Borges](https://github.com/VitorB2002) | [João Pedro](https://github.com/jpanacleto2) e [Gulherme Nishi](https://github.com/Guilherme-Nishi) | 
 |                                    | Priorização In or Out | 2.0 | 04/11/2023 | [Pedro Campos](https://github.com/pedrocampos0) | [Vitor Borges](https://github.com/VitorB2002) | -- | 
 |                                    | Moscow | 2.0 | 04/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- |
 |                                    | Personas | 2.0 | 04/11/2023 | [Vitor Borges](https://github.com/VitorB2002) | [Vitor Borges](https://github.com/VitorB2002) | -- |  
