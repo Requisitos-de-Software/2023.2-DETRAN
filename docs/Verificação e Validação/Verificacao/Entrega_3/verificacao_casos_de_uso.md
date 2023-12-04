@@ -76,3 +76,4 @@ O artefato de verificação Casos de Uso tem o objetivo de documentar se o artef
 |--------|------------|-------------|---------------------|---------|
 | 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas  | Giuilherme Nishimura |
 | 1.1    | 03/12/2023 | Checklist + Bibliografia | João Gabriel Elvas  | Giuilherme Nishimura |
+| 1.2    | 04/12/2023 | realizando inspeção | João Gabriel Elvas  | Giuilherme Nishimura |
