@@ -56,6 +56,10 @@ O artefato de verificação Casos de Uso tem o objetivo de documentar se o artef
 
 *Fonte: João Gabriel Elvas*
 
+## Vídeo da inspeção
+
+[Link para o vídeo da inspeção](https://youtu.be/IB6HvMJK_WA)
+
 ## Referencias Bibliograficas
 
 - [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf ). Acesso em 13/11/2023.
