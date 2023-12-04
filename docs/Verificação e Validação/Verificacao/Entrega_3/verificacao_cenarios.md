@@ -45,6 +45,10 @@ O artefato de verificação Cenários tem o objetivo de documentar se o artefato
 
 *Fonte: João Gabriel Elvas*
 
+## Vídeo da inspeção
+
+[Link para o vídeo da inspeção](https://youtu.be/8xG98iP7uy4)
+
 ## Referencias Bibliograficas
 
 - [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf ). Acesso em 13/11/2023.
@@ -58,4 +62,5 @@ O artefato de verificação Cenários tem o objetivo de documentar se o artefato
 | Versão | Data       | Descrição               | Autor               | Revisor             |
 | ------ | ---------- | ----------------------- | ------------------- | ------------------- |
 | 1.0    | 13/11/2023 | Criacao doc             | João Gabriel Elvas  | João Pedro Anacleto |
-| 1.0    | 20/11/2023 | Adcionando bibliografia | João Pedro Anacleto | João Gabriel        |
+| 1.1    | 20/11/2023 | Adcionando bibliografia | João Pedro Anacleto | João Gabriel        |
+| 1.2    | 04/12/2023 | Realizando inspeção     | João Gabriel Elvas  | João Pedro Anacleto |
