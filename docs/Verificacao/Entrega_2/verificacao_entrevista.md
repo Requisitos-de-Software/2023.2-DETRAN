@@ -52,6 +52,11 @@ Tabela 02 - Verificação Específica Entrevista<br>
 (Fonte: Vitor Borges)
 </p>
 
+
+A gravação da inspeção em dupla se encontra :
+
+ [Inspeção em dupla da verficação das entrevistas](https://unbbr.sharepoint.com/sites/Requisitosgrupo7/_layouts/15/stream.aspx?id=%2Fsites%2FRequisitosgrupo7%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2Finspecao%20entrevista%2D20231204%5F151652%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
 ## Bibliografia
 > SERRANO, Milene; SERRANO, Maurício. Requisitos Aula 07. Brasília: Unb-Gama, 20--. Color. Disponível em: https://aprender3.unb.br/pluginfile.php/2692779/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 03 out. 2023.
 
