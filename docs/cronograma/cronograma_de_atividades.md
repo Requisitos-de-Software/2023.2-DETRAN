@@ -303,26 +303,26 @@ A Tabela 14 mostra as atividades planejadas para a entrega 5.2, além de seus au
 
 | Atividade                                                                                                              | inicio     | fim        | Autores                  | Revisores |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------ | --------- |
-| gravação dupla inspeção Rich Picture                                                                                   | 25/11/2023 | 29/11/2023 | Joao Gabriel e Pedro     |           |
+| [gravação dupla inspeção Rich Picture](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_1/verificacao_RichPicture/)                                                                                   | 25/11/2023 | 29/11/2023 | Joao Gabriel e Pedro     |           |
 | gravação dupla inspeção Entrevista                                                                                     | 25/11/2023 | 29/11/2023 | Joao Pedro e Guilherme   |           |
 | gravação dupla inspeção Storytelling                                                                                   | 25/11/2023 | 29/11/2023 | Vitor e Joao Pedro       |           |
 | gravação dupla inspeção Casos de uso                                                                                   | 25/11/2023 | 29/11/2023 | Guilherme e Joao Gabriel |           |
 | gravação dupla inspeção NFR                                                                                            | 25/11/2023 | 29/11/2023 | Pedro e Vitor            |           |
-| [gravação individual inspeção First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao/Entrega_2/first_things_first/)| 25/11/2023 | 03/12/2023 | Pedro     | Vitor|
+| [gravação individual inspeção First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_2/first_things_first/)| 25/11/2023 | 03/12/2023 | Pedro     | Vitor|
 | gravação individual inspeção Priorização In or Out                                                                     | 25/11/2023 | 29/11/2023 | Vitor                    |           |
 | gravação individual inspeção Moscow                                                                                    | 25/11/2023 | 29/11/2023 | Vitor                    |           |
 | gravação individual inspeção Requisitos elicitados                                                                     | 25/11/2023 | 29/11/2023 | Guilherme                |           |
 | gravação individual inspeção Cenários                                                                                  | 25/11/2023 | 29/11/2023 | Joao Gabriel            |           |
 | gravação individual inspeção Especificação suplementar                                                                 | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
 | gravação individual inspeção Lexico                                                                                    | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
-| [gravação individual inspeção Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao/Entrega_4/verificacao_backlog/)                                                                        | 25/11/2023 | 03/12/2023 | Pedro                    |   Vitor        |
+| [gravação individual inspeção Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_4/verificacao_backlog/)                                                                        | 25/11/2023 | 03/12/2023 | Pedro                    |   Vitor        |
 | gravação individual inspeção Historias do Usuario                                                                      | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
-| [gravação individual inspeção Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao/Entrega_6/Backward/)| 25/11/2023 | 03/12/2023 | Pedro                    |     Vitor      |
+| [gravação individual inspeção Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_6/Backward/)| 25/11/2023 | 03/12/2023 | Pedro                    |     Vitor      |
 | gravação individual inspeção Forward-From                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |
 | gravação individual inspeção Matriz Geral                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |
 | prototipação e gravação da validação com usuario: transferencia de pontuação                                           | 25/11/2023 | 29/11/2023 | Guilherme                |           |
 | prototipação e gravação da validação com usuario: Pagina de Cursos de trânsito para cumprimento de infrações           | 25/11/2023 | 29/11/2023 | Vitor                    |           |
-| prototipação e gravação da validação com usuario: Pagamento de multas com diferentes metodos de pagamento              | 25/11/2023 | 04/12/2023 | Pedro                    |           |
+| [prototipação e gravação da validação com usuario: Pagamento de multas com diferentes metodos de pagamento](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Validação/metodos_pagamento/   )              | 25/11/2023 | 04/12/2023 | Pedro                    |           |
 | prototipação e gravação da validação com usuario: Tela de anexação de Laudos Medicos                                   | 25/11/2023 | 04/12/2023 | Joao Gabriel e Joao Pedeo            |           |
 | Enviar o email para o Detran digital a respeito das funcionalidades não implementadas                                  | 25/11/2023 | 04/12/2023 | Vitor,Joao Gabriel e Pedro  |           |
 
