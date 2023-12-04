@@ -18,15 +18,15 @@ A tabela 1 abaixo tem o objetivo de realizar a verificação geral do artefato d
 
 *Verificação Geral do artefato*
 
-| ID  | Conteudo                                                                                      | Possue | Qualidade | Comentario    |
+| ID  | Conteudo                                                                                      | Possui | Qualidade | Comentario    |
 | --- | --------------------------------------------------------------------------------------------- | ------ | --------- | ------------- |
 | 1   | O artefato possue autor ?                                                                     | sim    | Excelente |               |
 | 2   | O artefato possue revisor ?                                                                   | sim    | Excelente |               |
 | 3   | O historico de versão esta padronizado ?                                                      | sim    | Excelente |               |
 | 4   | O artefato possue Referências bibliográficas ?                                                | sim    | Excelente |               |
-| 5   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Excelente |               |
+| 5   | O artefato possue tabelas e imagens com legenda e fonte,e elas são chamadas dentro dos texto? | sim    | Boa |     Inserir hyperlinks da figura do RichPicture, realizando uma conclusão do artefato          |
 | 6   | O artefato possue um texto fazendo uma introdução ?                                           | sim    | Excelente |               |
-| 7   | O artefato possui links para os outros artefatos?                                             | nao    |           | nao se aplica |
+| 7   | O artefato possui links para os outros artefatos?                                             | nao    |           | Inserir hyperlinks para outros artefato/documentações |
 
 <p align="center">
 Tabela 01 - Verificação Geral do artefato<br>
@@ -43,7 +43,7 @@ O artefato de ferramentas tem o objetivo de documentar o Rich Picture realizado 
 
 *Verificação expecifica do artefato*
 
-| ID  | Conteudo                                                                                    | Possue | Qualidade  | Comentario |
+| ID  | Conteudo                                                                                    | Possui | Qualidade  | Comentario |
 | --- | ------------------------------------------------------------------------------------------- | ------ | ---------- | ---------- |
 | 1   | O artefato documenta todos os richPictures dos softwares selecionados ?                     | não    | Incompleto |            |
 | 2   | O rich picture possui atores, operações, armazenamento de dados, limite do sistema e setas? | sim    | Excelente  |            |
@@ -62,6 +62,10 @@ Tabela 02 - Verificação Expecifica do artefato<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
+## Vídeo da inspeção
+
+[Link para o vídeo da inspeção](https://youtu.be/OQTdftwg9BU)
+
 ## Referencias Bibliograficas
 
 - [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf ). Acesso em 13/11/2023.
@@ -79,3 +83,4 @@ Tabela 02 - Verificação Expecifica do artefato<br>
 | ------ | ---------- | --------------------- | ------------------- | ------- |
 | 1.0    | 13/11/2023 | Criação do documento  | João Pedro Anacleto | Vitor   |
 | 1.1    | 20/11/2023 | Correção do Documento | João Pedro Anacleto | João Gabriel  |
+| 1.2    | 04/12/2023 | Vídeo de inspeção | Pedro Campos Borges | João Pedro Anacleto  |
