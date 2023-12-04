@@ -1,13 +1,13 @@
-# Verificação Especificação Suplementar
+# Verificação Foward-from
 
 # Introdução
 A verificação de software é um processo sistemático de avaliação e revisão do código fonte, design e documentação de um programa de computador com bjetivo principal de garantir que o software atenda aos requisitos especificados e que funcione conforme o esperado. 
 
-Esse documento tem o objetivo de documentar as verificações realizadas no artefato de Especificação. O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
+Esse documento tem o objetivo de documentar as verificações realizadas no artefato de [Foward-from](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) . O documento ira abordar atraves do uso de uma checklist para verificar os items do artefato.
 
 # Objetivo
 
-O artefato de verificação Especificação Suplementar tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta.
+O artefato de verificação Foward-from tem o objetivo de documentar se o artefato foi realizado e se foi feito da maneira correta seguindo os padrões gerais estabelecidos pela disciplina e se os itens do artefato em questão foram realizados da maneira correta.
 
 # Tabela de verificação
 
@@ -30,7 +30,7 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 ## Verificação expecifica do artefato
 
-*Tabela 2: Checklist para o artefato de Especificação Suplementar*
+*Tabela 2: Checklist para o artefato de Foward-from*
 
 | ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | :referencia | :imagem |
 | --- | -----------------------------------------------------------------------------------------------------: | ------ | ---------- | :------------------------------------------------------------------ | :---------- | :------ |
