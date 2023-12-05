@@ -28,11 +28,11 @@ O artefato de verificação Matriz de rastreabilidade tem o objetivo de document
 
 *Fonte: Grupo 7*
 
-## Verificação expecifica do artefato
+## Verificação especifica do artefato
 
 *Tabela 2: Checklist para o artefato de Matriz de rastreabilidade*
 
-| ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | :referencia | :imagem |
+| ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | referencia | imagem |
 | --- | -----------------------------------------------------------------------------------------------------: | ------ | ---------- | :------------------------------------------------------------------ | :---------- | :------ |
 | 1   |                                                         Possui hyperlinks para outros artefatos? | Sim    |     Excelente   |     -    |  KLAUS POHL; RUPP, C. Requirements engineering fundamentals : a study guide for the certified professional for requirements engineering exam ; foundation level - IREB compliant. Santa Barbara, Calif.: Rocky Nook, 2015.Pagina 126      |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/d9e0bc46-d08b-488b-8ff4-fe2f4b33359a)|
 | 2  |                                                      Os requisitos sao expressos em linguagem natural e sao enumerados? | Sim   |    Excelente   |   -   |  SAYÃO, M.; CESAR, J. Rastreabilidade de Requisitos. [s.l: s.n.].Pagina 12      |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/49dc4574-0ccc-4749-bc3c-00cf37bb8f41)|
