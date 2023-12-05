@@ -1,4 +1,4 @@
-# Realizartransferencia de pontuação
+# Realizar transferencia de pontuação
 
 # Introdução
 
