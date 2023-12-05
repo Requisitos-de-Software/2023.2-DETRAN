@@ -12,7 +12,7 @@ Esse documento tem o objetivo de documentar se a prototipação da funcionalidad
 
 | Nome | Data da entrevista       | Estava de acordo com o termo de Uso/Imagem                 | Tipo de Feedback              | Entrevistador |
 | ------ | ---------- | -------------------------- | ------------------- | ------- |
-| José Ferreida da Silva Neto   | 04/12/2023 | Sim     | Positivo | Guilherme Nishimura da Silva |
+| José Ferreira da Silva Neto   | 04/12/2023 | Sim     | Positivo | Guilherme Nishimura da Silva |
 
 # Como acessar
 
@@ -20,7 +20,7 @@ Esse documento tem o objetivo de documentar se a prototipação da funcionalidad
 
 # Link do vídeo da validação
 
-[Link do vídeo da validação do protótipo]([https://youtu.be/G9h7BQO1](https://youtu.be/8XmkvZTkyqo))
+[Link do vídeo da validação do protótipo](https://unbbr-my.sharepoint.com/personal/200030264_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F200030264%5Faluno%5Funb%5Fbr%2FDocuments%2FV%C3%ADdeo%20sem%20t%C3%ADtulo%20%289%29%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 
 # Historico de versão
