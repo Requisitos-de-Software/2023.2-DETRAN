@@ -28,7 +28,7 @@ O artefato de verificação Foward-from tem o objetivo de documentar se o artefa
 
 *Fonte: Grupo 7*
 
-## Verificação expecifica do artefato
+## Verificação especifica do artefato
 
 *Tabela 2: Checklist para o artefato de Foward-from*
 
@@ -53,5 +53,5 @@ O artefato de verificação Foward-from tem o objetivo de documentar se o artefa
 
 | Versão | Data       | Descrição   | Autor              | Revisor    |
 | ------ | ---------- | ----------- | ------------------ | ---------- |
-| 1.0    | 01/12/2023 | Criacao doc | Guilherme Nishimura | - |
-| 1.0    | 02/12/2023 |Ajustes documentos | Guilherme Nishimura | - |
+| 1.0    | 01/12/2023 | Criacao doc | Guilherme Nishimura | Pedro |
+| 1.0    | 02/12/2023 |Ajustes documentos | Guilherme Nishimura | Pedro |
