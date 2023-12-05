@@ -52,5 +52,5 @@ O artefato de verificação Requisitos elicitados tem o objetivo de documentar s
 
 | Versão | Data       | Descrição   | Autor              | Revisor    |
 | ------ | ---------- | ----------- | ------------------ | ---------- |
-| 1.0    | 01/12/2023 | Criacao doc | Guilherme Nishimura | - |
-| 1.0    | 02/12/2023 |Ajustes documentos | Guilherme Nishimura | - |
+| 1.0    | 01/12/2023 | Criacao doc | Guilherme Nishimura | João Pedro |
+| 1.0    | 02/12/2023 |Ajustes documentos | Guilherme Nishimura |João Pedro|
