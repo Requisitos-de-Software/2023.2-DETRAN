@@ -23,7 +23,7 @@ O artefato de verificação Foward-from tem o objetivo de documentar se o artefa
 | 4   | O artefato possui referências bibliográficas?                                                  | sim    | Excelente  |                                             |
 | 5   | O artefato possui tabelas e imagens com legenda e fonte, e elas são chamadas dentro dos texto? | Sim    | Excelente | - |
 | 6   | O artefato possui um texto fazendo uma introdução?                                             | sim    |   Excelente         |                                             |
-| 7   | O artefato possui links para os outros artefatos?                                              | sim    |    Excelente        | -         |
+
 
 
 *Fonte: Grupo 7*
