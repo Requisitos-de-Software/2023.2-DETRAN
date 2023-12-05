@@ -64,6 +64,15 @@ Video 06 - Apresentação da etapa 06<br>
 (Fonte: Grupo 07).
 </p>
 
+## 7. Entrega 5.2
+Segue abaixo o vídeo da apresentação da entrega 5.2, realizado no dia 04/12/2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd12t5zlNDU?si=A7MqDN9KK14unIET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center">
+Video 07 - Apresentação da etapa 5.2<br>
+(Fonte: Grupo 07).
+</p>
+
 ## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
@@ -74,3 +83,4 @@ Video 06 - Apresentação da etapa 06<br>
 | 3.1 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
 | 4.0    | 25/10/2023 | Adicionado video da apresentação etapa 4 | Vitor Borges |  |
 | 5.0    | 20/11/2023 | Adicionado video da apresentação etapa 5.1 e 6 | Vitor Borges |  |
+| 6.0    | 04/12/2023 | Adicionado video da apresentação etapa 5.2 | Vitor Borges |  |
