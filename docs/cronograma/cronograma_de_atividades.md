@@ -11,14 +11,14 @@ Este arquivo tem como principal objetivo estabelecer um cronograma de atividas p
 A Tabela 01 mostra todos os Pontos de Controles com suas respectivas datas de entrega.
 
 | Etapa | Título                       | Descrição                                                                                                                                        | Entrega | Apresentação |
-| ----- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | ------------ |
+|-------|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------------|
 | 1     | Planejamento do projeto      | Planejamento do Projeto, equipe, App selecionado para o projeto da disciplina,  Ferramentas do projeto, cronograma das atividades, Rich Picture. | 20/09   | 21/09        |
 | 2     | Elicitação de Requisitos     | técnicas e priorização                                                                                                                           | 04/10   | 05/10        |
 | 3     | Modelagem de requisitos      | cenário léxicos, use case e especificação suplementar                                                                                            | 25/10   | 26/10        |
 | 4     | Modelagem de requisitos ágil | histórias de usuários, backlogs, NFR framework                                                                                                   | 06/11   | 07/11        |
 | 5.1   | Análise de requisitos        | verificação e validação 1                                                                                                                        | 13/11   | 14/11        |
 | 5.2   | Análise de requistos         | verificação e validação 2                                                                                                                        | 29/11   | 30/11        |
-| 6     | Pós-rastreabilidade          | Gerência II                                                                                                                                      | 20/11   | 21/11        |
+| 6     | Pós-rastreabilidade          | Gerência II                                                                                                                                     | 20/11   | 21/11        |
 | 7     | Entrrega final               | Entrega final                                                                                                                                    | 06/12   | 07/12        |
 
 <p align="center">
@@ -39,7 +39,7 @@ disciplina, Ferramentas do projeto, cronograma detalhado das atividades do proje
 atividade, responsáveis e período de gravação da apresentação), Rich Picture. *
 
 | Atividade               | Início | Fim   | Autores                                        | Revisores                                      |
-| ----------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+|-------------------------|--------|-------|------------------------------------------------|------------------------------------------------|
 | Planejamento do projeto | 01/09  | 20/09 | João Pedro                                     | Pedro                                          |
 | Cronograma              | 01/09  | 20/09 | João Pedro                                     | Pedro                                          |
 | Cronograma Realizado    | 01/09  | 20/09 | João Pedro                                     | Pedro                                          |
@@ -59,7 +59,7 @@ Tabela 02 - Planejamento Entrega 01<br>
 Segue na tabela abaixo na tabela 03 o cronograma realizado da entrega 1.
 
 | Atividade realizada   | Data  | Autores                                        |
-| --------------------- | ----- | ---------------------------------------------- |
+|-----------------------|-------|------------------------------------------------|
 | Cronograma            | 14/09 | João Pedro                                     |
 | Cronograma realizado  | 21/09 | João Pedro                                     |
 | Lista de aplicativos  | 18/09 | João Gabriel                                   |
@@ -82,7 +82,7 @@ A Tabela 04 mostra as atividades planejadas para a entrega 2, além de seus auto
 projeto.*
 
 | Atividade                | Início | Fim   | Autores                                        | Revisores                                      |
-| ------------------------ | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+|--------------------------|--------|-------|------------------------------------------------|------------------------------------------------|
 | Personas                 | 21/09  | 04/10 | Vitor                                          | João Pedro                                     |
 | Storytelling             | 21/09  | 04/10 | João Gabriel                                   | Vitor                                          |
 | Questionário             | 21/09  | 04/10 | Pedro                                          | João Gabriel                                   |
@@ -102,7 +102,7 @@ Tabela 04 - Planejamento Entrega 02<br>
 Segue na tabela abaixo na tabela 05 o cronograma realizado da entrega 1.
 
 | Atividade realizada                      | Data  | Autores                                       |
-| ---------------------------------------- | ----- | --------------------------------------------- |
+|------------------------------------------|-------|-----------------------------------------------|
 | Personas e Questionário                  | 03/10 | Vitor                                         |
 | Cronograma realizado                     | 04/10 | João Pedro                                    |
 | Storytelling                             | 03/10 | João Gabriel                                  |
@@ -123,14 +123,14 @@ A Tabela 06 mostra as atividades planejadas para a entrega 3, além de seus auto
 
 *Modelagem de Requisitos: Cenários , Léxico, Use Case, Especificação Suplementar*
 
-| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
-| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
-| Casos de uso                            | 05/10  | 25/10 | João Pedro                                     | João Gabriel                                   |
-| Cenários                                | 05/10  | 25/10 | Vitor e Pedro                                  | Guilherme                                      |
-| Léxico                                  | 05/10  | 25/10 | Guilherme                                      | Vitor e Pedro                                  | Pedro e Guilherme
-| Especificação suplementar               | 05/10  | 25/10 | João Gabriel                                   | João Pedro                                     |
-| Gravação da apresentação                | 05/10  | 25/10 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
-| Correções do Ponto de Controle anterior | 05/10  | 25/10 | Pedro e Guilherme                              | Vitor                                          |
+| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |                   |
+|-----------------------------------------|--------|-------|------------------------------------------------|------------------------------------------------|-------------------|
+| Casos de uso                            | 05/10  | 25/10 | João Pedro                                     | João Gabriel                                   |                   |
+| Cenários                                | 05/10  | 25/10 | Vitor e Pedro                                  | Guilherme                                      |                   |
+| Léxico                                  | 05/10  | 25/10 | Guilherme                                      | Vitor e Pedro                                  | Pedro e Guilherme |
+| Especificação suplementar               | 05/10  | 25/10 | João Gabriel                                   | João Pedro                                     |                   |
+| Gravação da apresentação                | 05/10  | 25/10 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |                   |
+| Correções do Ponto de Controle anterior | 05/10  | 25/10 | Pedro e Guilherme                              | Vitor                                          |                   |
 
 <p align="center">
 Tabela 06 - Planejamento Entrega 03<br>
@@ -144,13 +144,13 @@ A Tabela 7 mostra as atividades planejadas para a entrega 4, além de seus autor
 *Modelagem de Requisitos - Ágil (Histórias de Usuário, Backlogs, NFR
 Framework)*
 
-| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
-| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
-| Histórias de usuário                    | 26/10  | 06/11 | João Gabriel                                   | João Pedro                                     |
-| Backlog                                 | 26/10  | 06/11 | Vitor e Guilherme                              | Pedro                                          | Pedro
-| NFR Framework                           | 26/10  | 06/11 | Pedro                                          | Vitor e GUilherme                              |
-| Gravação da apresentação                | 26/10  | 06/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
-| Correções do Ponto de Controle anterior | 26/10  | 06/11 | João Pedro e Guilherme                         | João Gabriel                                   |
+| Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |       |
+|-----------------------------------------|--------|-------|------------------------------------------------|------------------------------------------------|-------|
+| Histórias de usuário                    | 26/10  | 06/11 | João Gabriel                                   | João Pedro                                     |       |
+| Backlog                                 | 26/10  | 06/11 | Vitor e Guilherme                              | Pedro                                          | Pedro |
+| NFR Framework                           | 26/10  | 06/11 | Pedro                                          | Vitor e GUilherme                              |       |
+| Gravação da apresentação                | 26/10  | 06/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |       |
+| Correções do Ponto de Controle anterior | 26/10  | 06/11 | João Pedro e Guilherme                         | João Gabriel                                   |       |
 
 <p align="center">
 Tabela 07 - Planejamento Entrega 04<br>
@@ -165,7 +165,7 @@ A Tabela 8 mostra as atividades realizadas para a entrega 4, além de seus autor
 Framework)*
 
 | Atividade                                                                   | Início | Fim   | Autores                | Revisores  |
-| --------------------------------------------------------------------------- | ------ | ----- | ---------------------- | ---------- |
+|-----------------------------------------------------------------------------|--------|-------|------------------------|------------|
 | Histórias de usuário                                                        | 05/11  | 06/11 | João Gabriel e Pedro   |            |
 | Backlog                                                                     | 05/11  | 06/11 | Vitor                  | João Pedro |
 | NFR Framework                                                               | 02/11  | 06/11 | João Pedro e Guilherme |            |
@@ -189,7 +189,7 @@ A Tabela 09 mostra as atividades planejadas para a entrega 5.1, além de seus au
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
 | Atividade                                                                                                                | Início | Fim   | Autores                                        | Revisores                                      |
-| ------------------------------------------------------------------------------------------------------------------------ | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+|--------------------------------------------------------------------------------------------------------------------------|--------|-------|------------------------------------------------|------------------------------------------------|
 | Verificação de requisitos 1                                                                                              | 06/11  | 13/11 | João Gabriel ,Guilherme e Vitor                | João Pedro, Pedro                              |
 | Validação de requisitos 1                                                                                                | 06/11  | 13/11 | João Pedro, Pedro                              | João Gabriel ,Guilherme e Vitor                |
 | Gravação da apresentação                                                                                                 | 06/11  | 13/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
@@ -212,7 +212,7 @@ Tabela 09 - Planejamento Entrega 5.1<br>
 A Tabela 10 mostra as atividades planejadas para a entrega 5.1, além de seus autores, revisores e datas de entrega.
 
 | Atividade                             | inicio | fim   | autores             | Revisores           |
-| ------------------------------------- | ------ | ----- | ------------------- | ------------------- |
+|---------------------------------------|--------|-------|---------------------|---------------------|
 | Verificação aplicativos               | 09/11  | 13/11 | João Pedro          | Vitor               |
 | Verificação das ferramentas           | 09/11  | 13/11 | João Pedro          | Vitor               |
 | Verificação do cronograma             | 09/11  | 13/11 | João Pedro          | Vitor               |
@@ -224,9 +224,9 @@ A Tabela 10 mostra as atividades planejadas para a entrega 5.1, além de seus au
 | Verificação Cenarios                  | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
 | Verificação Especificacao Suplementar | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
 | Verificação Lexicos                   | 09/11  | 13/11 | João Gabriel Elvas  | Jõao Pedro Anacleto |
-| Verificação NFR                 | 09/11  | 13/11 | Pedro  | Vitor |
-| Verificação Backlog | 09/11  | 13/11 | Pedro  | Vitor |
-| Verificação Histórias de usuário                   | 09/11  | 13/11 | Pedro  | Vitor |
+| Verificação NFR                       | 09/11  | 13/11 | Pedro               | Vitor               |
+| Verificação Backlog                   | 09/11  | 13/11 | Pedro               | Vitor               |
+| Verificação Histórias de usuário      | 09/11  | 13/11 | Pedro               | Vitor               |
 
 *Análise de Requisitos: Verificação e Validação – Grupo + 1*
 
@@ -242,7 +242,7 @@ A Tabela 11 mostra as atividades planejadas para a entrega 5.2, além de seus au
 *Pós-Rastreabilidade - Gerência II*
 
 | Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
-| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+|-----------------------------------------|--------|-------|------------------------------------------------|------------------------------------------------|
 | Backward From                           | 14/11  | 20/11 | Pedro e Guilherme                              | João Gabriel ,Pedro e Vitor                    |
 | Forward From                            | 14/11  | 20/11 | João Gabriel e Vitor                           | João Pedro, Guilherme                          |
 | Matriz de Rastreabilidade               | 14/11  | 20/11 | João Pedro Anacleto                            | João Pedro, Guilherme                          |
@@ -261,7 +261,7 @@ A Tabela 12 mostra as atividades realizadas para a entrega 5.2, além de seus au
 *Pós-Rastreabilidade - Gerência II*
 
 | Atividade                      | inicio | fim   | autores                            | Revisores                          |
-| ------------------------------ | ------ | ----- | ---------------------------------- | ---------------------------------- |
+|--------------------------------|--------|-------|------------------------------------|------------------------------------|
 | Backward From                  | 18/11  | 20/11 | João Gabriel e Guilherme Nishimura | João Gabriel e Guilherme Nishimura |
 | Forward From                   | 19/11  | 20/11 | Vitor Borges                       | João Pedro, Guilherme              |
 | Matriz de Rastreabilidade      | 18/11  | 20/11 | João Pedro Anacleto                | João Gabriel                       |
@@ -283,7 +283,7 @@ A Tabela 13 mostra as atividades planejadas para a entrega 5.2, além de seus au
 *Análise de Requisitos: Verificação e Validação II*
 
 | Atividade                               | Início | Fim   | Autores                                        | Revisores                                      |
-| --------------------------------------- | ------ | ----- | ---------------------------------------------- | ---------------------------------------------- |
+|-----------------------------------------|--------|-------|------------------------------------------------|------------------------------------------------|
 | Verificação de requisitos 2             | 20/11  | 29/11 | João Gabriel ,Guilherme e Vitor                | João Pedro, Pedro                              |
 | Validação de requisitos 2               | 20/11  | 29/11 | João Pedro, Pedro                              | João Gabriel ,Guilherme e Vitor                |
 | Gravação da apresentação                | 20/11  | 29/11 | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro | João Pedro,João Gabriel,,Guilherme,Vitor,Pedro |
@@ -301,30 +301,30 @@ A Tabela 14 mostra as atividades planejadas para a entrega 5.2, além de seus au
 
 *Análise de Requisitos: Verificação e Validação II*
 
-| Atividade                                                                                                              | inicio     | fim        | Autores                  | Revisores |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------ | --------- |
-| [gravação dupla inspeção Rich Picture](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_1/verificacao_RichPicture/)                                                                                   | 25/11/2023 | 29/11/2023 | Joao Gabriel e Pedro     |           |
-| gravação dupla inspeção Entrevista                                                                                     | 25/11/2023 | 29/11/2023 | Joao Pedro e Guilherme   |           |
-| gravação dupla inspeção Storytelling                                                                                   | 25/11/2023 | 29/11/2023 | Vitor e Joao Pedro       |           |
-| gravação dupla inspeção Casos de uso                                                                                   | 25/11/2023 | 29/11/2023 | Guilherme e Joao Gabriel |           |
-| gravação dupla inspeção NFR                                                                                            | 25/11/2023 | 29/11/2023 | Pedro e Vitor            |           |
-| [gravação individual inspeção First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_2/first_things_first/)| 25/11/2023 | 03/12/2023 | Pedro     | Vitor|
-| gravação individual inspeção Priorização In or Out                                                                     | 25/11/2023 | 29/11/2023 | Vitor                    |           |
-| gravação individual inspeção Moscow                                                                                    | 25/11/2023 | 29/11/2023 | Vitor                    |           |
-| gravação individual inspeção Requisitos elicitados                                                                     | 25/11/2023 | 29/11/2023 | Guilherme                |           |
-| gravação individual inspeção Cenários                                                                                  | 25/11/2023 | 29/11/2023 | Joao Gabriel            |           |
-| gravação individual inspeção Especificação suplementar                                                                 | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
-| gravação individual inspeção Lexico                                                                                    | 25/11/2023 | 29/11/2023 | Joao Gabriel             |           |
-| [gravação individual inspeção Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_4/verificacao_backlog/)                                                                        | 25/11/2023 | 03/12/2023 | Pedro                    |   Vitor        |
-| gravação individual inspeção Historias do Usuario                                                                      | 25/11/2023 | 29/11/2023 | Joao Pedro               |           |
-| [gravação individual inspeção Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_6/Backward/)| 25/11/2023 | 03/12/2023 | Pedro                    |     Vitor      |
-| gravação individual inspeção Forward-From                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |
-| gravação individual inspeção Matriz Geral                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                |           |
-| prototipação e gravação da validação com usuario: transferencia de pontuação                                           | 25/11/2023 | 29/11/2023 | Guilherme                |           |
-| prototipação e gravação da validação com usuario: Pagina de Cursos de trânsito para cumprimento de infrações           | 25/11/2023 | 29/11/2023 | Vitor                    |           |
-| [prototipação e gravação da validação com usuario: Pagamento de multas com diferentes metodos de pagamento](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Validação/metodos_pagamento/   )              | 25/11/2023 | 04/12/2023 | Pedro                    |           |
-| prototipação e gravação da validação com usuario: Tela de anexação de Laudos Medicos                                   | 25/11/2023 | 04/12/2023 | Joao Gabriel e Joao Pedeo            |           |
-| Enviar o email para o Detran digital a respeito das funcionalidades não implementadas                                  | 25/11/2023 | 04/12/2023 | Vitor,Joao Gabriel e Pedro  |           |
+| Atividade                                                                                                                                                                                                                       | inicio     | fim        | Autores                    | Revisores |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------|-----------|
+| [gravação dupla inspeção Rich Picture](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_1/verificacao_RichPicture/)                                                       | 25/11/2023 | 29/11/2023 | Joao Gabriel e Pedro       |           |
+| gravação dupla inspeção Entrevista                                                                                                                                                                                              | 25/11/2023 | 29/11/2023 | Joao Pedro e Guilherme     |           |
+| gravação dupla inspeção Storytelling                                                                                                                                                                                            | 25/11/2023 | 29/11/2023 | Vitor e Joao Pedro         | Guilherme |
+| gravação dupla inspeção Casos de uso                                                                                                                                                                                            | 25/11/2023 | 29/11/2023 | Guilherme e Joao Gabriel   |           |
+| gravação dupla inspeção NFR                                                                                                                                                                                                     | 25/11/2023 | 29/11/2023 | Pedro e Vitor              |           |
+| [gravação individual inspeção First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_2/first_things_first/)                                                  | 25/11/2023 | 03/12/2023 | Pedro                      | Vitor     |
+| gravação individual inspeção Priorização In or Out                                                                                                                                                                              | 25/11/2023 | 29/11/2023 | Vitor                      |           |
+| gravação individual inspeção Moscow                                                                                                                                                                                             | 25/11/2023 | 29/11/2023 | Vitor                      |           |
+| gravação individual inspeção Requisitos elicitados                                                                                                                                                                              | 25/11/2023 | 29/11/2023 | Guilherme                  |           |
+| gravação individual inspeção Cenários                                                                                                                                                                                           | 25/11/2023 | 29/11/2023 | Joao Gabriel               |           |
+| gravação individual inspeção Especificação suplementar                                                                                                                                                                          | 25/11/2023 | 29/11/2023 | Joao Pedro                 |           |
+| gravação individual inspeção Lexico                                                                                                                                                                                             | 25/11/2023 | 29/11/2023 | Joao Gabriel               |           |
+| [gravação individual inspeção Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_4/verificacao_backlog/)                                                | 25/11/2023 | 03/12/2023 | Pedro                      | Vitor     |
+| gravação individual inspeção Historias do Usuario                                                                                                                                                                               | 25/11/2023 | 29/11/2023 | Joao Pedro                 |           |
+| [gravação individual inspeção Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Entrega_6/Backward/)                                                                | 25/11/2023 | 03/12/2023 | Pedro                      | Vitor     |
+| gravação individual inspeção Forward-From                                                                                                                                                                                       | 25/11/2023 | 29/11/2023 | Guilherme                  |           |
+| gravação individual inspeção Matriz Geral                                                                                                                                                                                       | 25/11/2023 | 29/11/2023 | Guilherme                  |           |
+| prototipação e gravação da validação com usuario: transferencia de pontuação                                                                                                                                                    | 25/11/2023 | 29/11/2023 | Guilherme                  |           |
+| prototipação e gravação da validação com usuario: Pagina de Cursos de trânsito para cumprimento de infrações                                                                                                                    | 25/11/2023 | 29/11/2023 | Vitor                      |           |
+| [prototipação e gravação da validação com usuario: Pagamento de multas com diferentes metodos de pagamento](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Validação/metodos_pagamento/   ) | 25/11/2023 | 04/12/2023 | Pedro                      |           |
+| prototipação e gravação da validação com usuario: Tela de anexação de Laudos Medicos                                                                                                                                            | 25/11/2023 | 04/12/2023 | Joao Gabriel e Joao Pedeo  |           |
+| Enviar o email para o Detran digital a respeito das funcionalidades não implementadas                                                                                                                                           | 25/11/2023 | 04/12/2023 | Vitor,Joao Gabriel e Pedro |           |
 
 <p align="center">
 Tabela 14 - Cronograma realizado Entrega 6<br>
@@ -340,10 +340,10 @@ Tabela 14 - Cronograma realizado Entrega 6<br>
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                                                               | Autor               | Revisor      |
-| ------ | ---------- | ----------------------------------------------------------------------- | ------------------- | ------------ |
+|--------|------------|-------------------------------------------------------------------------|---------------------|--------------|
 | 1.0    | 01/09/2023 | Template Planejamento                                                   | João Pedro Anacleto | Pedro        |
 | 1.1    | 21/09/2023 | Adição do cronograma realizado                                          | João Pedro Anacleto | Pedro        |
 | 1.2    | 04/11/2023 | Padronização                                                            | Vitor Borges        | Pedro        |
 | 1.2    | 06/11/2023 | Padronizações, Correções e Adições no Cronograma Realizado da entrega 4 | Pedro               | Vitor Borges |
 | 1.3    | 19/11/2023 | Correção do cronograma planejado e adição do cronograma realizado       | João Pedro Anacleto | Vitor Borges |
-| 1.4    | 30/11/2023 | Correção do cronograma realizado 5.1      | Pedro | Vitor Borges |
+| 1.4    | 30/11/2023 | Correção do cronograma realizado 5.1                                    | Pedro               | Vitor Borges |

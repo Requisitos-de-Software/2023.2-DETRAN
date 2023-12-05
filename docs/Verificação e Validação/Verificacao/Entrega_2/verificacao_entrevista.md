@@ -66,3 +66,4 @@ A gravação da inspeção em dupla se encontra :
 | ------ | ---------- | ----------- | ------------------------------ | ---------- |
 | 1.0    | 04/12/2023 | Criacao doc | João Pedro                     | Guilherme  |
 | 1.1    | 04/12/2023 | Inspeção    | Adição do video e Bibliografia | João Pedro |
+
