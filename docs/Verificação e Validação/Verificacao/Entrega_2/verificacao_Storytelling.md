@@ -59,6 +59,9 @@ Tabela 02 - Verificação Específica Storytelling<br>
 (Fonte: João Pedro)
 </p>
 
+## Video inspeção Storytelling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GdkDEVXCkWM?si=xURNzBd1WO-iR6Eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Referencias Bibliograficas
 
