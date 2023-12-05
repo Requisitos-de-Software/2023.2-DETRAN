@@ -32,7 +32,7 @@ O artefato de verificação Foward-from tem o objetivo de documentar se o artefa
 
 *Tabela 2: Checklist para o artefato de Foward-from*
 
-| ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | :referencia | :imagem |
+| ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | referencia | imagem |
 | --- | -----------------------------------------------------------------------------------------------------: | ------ | ---------- | :------------------------------------------------------------------ | :---------- | :------ |
 | 1   |                                                         Possui hyperlinks para outros artefatos? | Sim    |     Excelente   |     -    |  KLAUS POHL; RUPP, C. Requirements engineering fundamentals : a study guide for the certified professional for requirements engineering exam ; foundation level - IREB compliant. Santa Barbara, Calif.: Rocky Nook, 2015.Pagina 126      |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/d9e0bc46-d08b-488b-8ff4-fe2f4b33359a)|
 | 2  |                                                       Faz a ligação entre artefatos de desenho e implementação | Sim   |    Regular   |   -   |  SAYÃO, M.; CESAR, J. Rastreabilidade de Requisitos. [s.l: s.n.].Pagina 4      |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/380db8e1-a7ed-46bf-822e-f0b96f4d882a)|
