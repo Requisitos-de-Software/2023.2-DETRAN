@@ -20,7 +20,7 @@ Esse documento tem o objetivo de documentar se a prototipação da funcionalidad
 
 # Link do vídeo da validação
 
-[Link do vídeo da validação do protótipo](https://youtu.be/G9h7BQO1)
+[Link do vídeo da validação do protótipo]([https://youtu.be/G9h7BQO1](https://youtu.be/8XmkvZTkyqo))
 
 
 # Historico de versão
