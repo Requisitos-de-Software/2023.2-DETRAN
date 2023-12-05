@@ -28,11 +28,11 @@ O artefato de verificação Requisitos elicitados tem o objetivo de documentar s
 
 *Fonte: Grupo 7*
 
-## Verificação expecifica do artefato
+## Verificação especifica do artefato
 
-*Tabela 2: Checklist para o artefato de Especificação Suplementar*
+*Tabela 2: Checklist para o artefato de Requisitos Elicitados*
 
-| ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | :referencia | :imagem |
+| ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          | referencia | imagem |
 | --- | -----------------------------------------------------------------------------------------------------: | ------ | ---------- | :------------------------------------------------------------------ | :---------- | :------ |
 | 1   |                                                         Os requisitos elicitados possuem atributos dos requisitos? | Sim    |     Regular    |     Não foi explicito separadamente mas está implicito na descrição do requisito     |  CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.,pagina1 47       |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/cb6d0bde-fb1e-4132-9ec8-bdaa0c3fc82f)|
 | 2  |                                                       Possiveis questões em aberto ou duvidas surgidas durante o processo de elicitação foram documentadas e estão claras | Não    |     -   |    Não apresentado   |  CARLOS EDUARDO VAZQUEZ; GUILHERME SIQUEIRA SIMÕES. Engenharia de Requisitos. [s.l.] Brasport, 2016.Pagina 145       |![image](https://github.com/Requisitos-de-Software/2023.2-DETRAN/assets/78215376/2a190332-c005-4e90-b617-dea51e15268a)|
