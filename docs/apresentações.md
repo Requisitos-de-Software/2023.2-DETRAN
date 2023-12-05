@@ -66,7 +66,7 @@ Video 06 - Apresentação da etapa 06<br>
 
 ## 7. Entrega 5.2
 Segue abaixo o vídeo da apresentação da entrega 5.2, realizado no dia 04/12/2023
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd12t5zlNDU?si=A7MqDN9KK14unIET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B8wxCt5MReE?si=iPi_hn7joyTlt5Fd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p align="center">
 Video 07 - Apresentação da etapa 5.2<br>
