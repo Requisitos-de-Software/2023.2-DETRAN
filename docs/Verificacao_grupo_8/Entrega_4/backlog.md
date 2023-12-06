@@ -191,6 +191,13 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 - O artefato atendeu parcialmente as expectativas. A pergunta com o ID 9 refer-se à coerência do Product Backlog, acredito que a escrita faz parte da estilização de um documento, sendo assim, o product backlog ficaria mais coerente se:
     - O [Épico 3 - Escrita do documento](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/#epicos) fosse incorporado pelo [Épico 2 - Estilização do documentos](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/#epicos), dessa forma as features de 1 a 5 fariam parte do Épico 2 e a feature 6 faria parte do [Épico 4 - Ferramentas do sistema](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/#epicos). Com essa mudança o [Product Backlog](https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/agil/backlog/)" ficaria mais coeso.
+ 
+## Referencias Bibliograficas
+
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf ). Acesso em 13/11/2023.
+
+> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em:[ABNT](https://www.abnt.org.br/) Acesso em: 13/11/2023.
+
 
 # Historico de versão
 
