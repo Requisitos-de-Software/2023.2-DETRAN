@@ -57,6 +57,11 @@ Os 23 participantes aceitaram o termo de consentimento.
 
 ![Questão 01](../../assets/q1.png)
 
+<p align="center">
+  Gráfico 01 - Acordo com o termo de consentimento<br>
+  Fonte: Vitor Borges
+</p>
+
 * Seção 02 | Verificação de Uso
 
 <p align="justify">
@@ -64,6 +69,11 @@ A maioria dos participantes ou conhecem ou acessam o Detran de suas respectivas 
 </p>
 
 ![Questão 02](../../assets/q2.png)
+
+<p align="center">
+  Gráfico 02 - Conheceminto do Detran ou outras plataformas<br>
+  Fonte: Vitor Borges
+</p>
 
 * Seção 03 | Dados demográficos
 
@@ -73,13 +83,38 @@ Essa seção mostra que os participantes são jovens entre 18 a 25 anos com cert
 
 ![Questão 03](../../assets/q3.png)
 
+<p align="center">
+  Gráfico 03 - Faixa etária dos participantes<br>
+  Fonte: Vitor Borges
+</p>
+
 ![Questão 04](../../assets/q4.png)
+
+<p align="center">
+  Gráfico 04 - Tempo médio utilizando eletrónicos por dia<br>
+  Fonte: Vitor Borges
+</p>
 
 ![Questão 05](../../assets/q5.png)
 
+<p align="center">
+  Gráfico 05 - Escolaridade<br>
+  Fonte: Vitor Borges
+</p>
+
 ![Questão 06](../../assets/q6.png)
 
+<p align="center">
+  Gráfico 06 - Gênero dos participantes<br>
+  Fonte: Vitor Borges
+</p>
+
 ![Questão 07](../../assets/q7.png)
+
+<p align="center">
+  Gráfico 07 - Afinidade com a tecnologia<br>
+  Fonte: Vitor Borges
+</p>
 
 * Seção 04 | Aplicativo Detran Digital
 
@@ -89,11 +124,31 @@ Os participantes possuem em maioria CNH categoria AB, dirigem quatro vezes ou ma
 
 ![Questão 08](../../assets/q8.png)
 
+<p align="center">
+  Gráfico 08 - Quantidade de participantes que possuem CNH<br>
+  Fonte: Vitor Borges
+</p>
+
 ![Questão 09](../../assets/q9.png)
+
+<p align="center">
+  Gráfico 09 - Frequência em que dirigem<br>
+  Fonte: Vitor Borges
+</p>
 
 ![Questão 10](../../assets/q10.png)
 
+<p align="center">
+  Gráfico 10 - Serviços mais utilizados no aplicativo<br>
+  Fonte: Vitor Borges
+</p>
+
 ![Questão 11](../../assets/q11.png)
+
+<p align="center">
+  Gráfico 11 - Serviços menos utilizados no aplicativo<br>
+  Fonte: Vitor Borges
+</p>
 
 # 4. Tabela de Requisitos
 
