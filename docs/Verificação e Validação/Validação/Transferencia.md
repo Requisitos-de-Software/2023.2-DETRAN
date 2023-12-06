@@ -8,7 +8,7 @@ A validação de software é um processo sistemático que consiste em aferir se 
 
 Esse documento tem o objetivo de documentar se a prototipação da funcionalidade de transferencia de pontuação que  iria ajudar no uso do aplicativo do Detran, facilitando a vida do usuário.
 
-## 3. Usuário
+## 3. Cliente
 
 | Nome | Data da entrevista       | Estava de acordo com o termo de Uso/Imagem                 | Tipo de Feedback              | Entrevistador |
 | ------ | ---------- | -------------------------- | ------------------- | ------- |
