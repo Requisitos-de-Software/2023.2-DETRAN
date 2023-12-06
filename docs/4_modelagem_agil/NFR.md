@@ -34,7 +34,7 @@ Figura 01 - Rotulos e representacoes das Softgoals<br>
 ## 4. NFRs
 
 
-### Usabilidade
+### 4.1 Usabilidade
 
 Usabilidade (Usability) refere-se à facilidade de uso de um produto ou sistema. Suas cinco principais características incluem: facilidade de aprendizado (Learnability), eficiência de uso (Efficiency), memorabilidade (Memorability), satisfação do usuário (User Satisfaction) e tolerância a erros (Error Tolerance). Uma boa usabilidade visa tornar a interação dos usuários eficaz, eficiente, satisfatória, fácil de aprender (Learnability) e capaz de lidar com erros (Error Tolerance). Esses aspectos são cruciais para garantir uma experiência positiva e produtiva para os usuários.
 
@@ -56,7 +56,7 @@ Figura 03- Propagação:Usabilidade<br>
 (Fonte: João Pedro)
 </p>
 
-### Confiabilidade
+### 4.2 Confiabilidade
 
 A Confiabilidade é um aspecto fundamental para garantir que o aplicativo Detran digital atenda efetivamente às necessidades de seus usuários:
 
@@ -84,7 +84,7 @@ Figura 09- Propagação:Suportabilidade<br>
 
 
 
-### Desempenho
+### 4.3 Desempenho
 
 Desempenho em uma aplicação refere-se à sua capacidade de executar tarefas de forma eficiente. Duas características-chave do desempenho são o tempo de resposta ágil e o baixo uso de memória. Um tempo de resposta rápido garante que a aplicação seja responsiva, enquanto o uso eficiente de memória otimiza o uso dos recursos do sistema, proporcionando uma experiência mais suave e eficaz aos usuários.
 
@@ -106,23 +106,23 @@ Figura 07- Propagação:Desempenho<br>
 (Fonte: João Pedro)
 </p>
 
-### Suportabilidade
+### 4.4 Suportabilidade
 Garanti  que o aplicativo Detran digital seja suportável e eficaz para os usuários:
 
 
-1. **Desempenho**: Este subnó garante que o aplicativo funcione de maneira eficiente e rápida. Isso inclui:
+ 4.4.1 **Desempenho**: Este subnó garante que o aplicativo funcione de maneira eficiente e rápida. Isso inclui:
     - **Eficiência**: O aplicativo deve usar recursos de maneira eficiente para garantir um bom desempenho.
     - **Alta performance**: O aplicativo deve ser capaz de lidar com altas cargas de trabalho e ainda manter um bom desempenho.
 
-2. **Segurança**: Este subnó garante que os dados no aplicativo sejam seguros e protegidos. Isso inclui:
+ 4.4.2 **Segurança**: Este subnó garante que os dados no aplicativo sejam seguros e protegidos. Isso inclui:
     - **Proteção de dados**: O aplicativo deve ter mecanismos para proteger os dados dos usuários de acessos não autorizados.
     - **Autenticação segura**: O aplicativo deve ter um sistema de autenticação seguro para garantir que apenas usuários autorizados tenham acesso.
 
-3. **Compatibilidade**: Este subnó garante que o aplicativo possa funcionar em diferentes dispositivos e sistemas operacionais. Isso inclui:
+ 4.4.3 **Compatibilidade**: Este subnó garante que o aplicativo possa funcionar em diferentes dispositivos e sistemas operacionais. Isso inclui:
     - **Suporte a múltiplos dispositivos**: O aplicativo deve ser compatível com uma variedade de dispositivos, como smartphones, tablets e computadores.
     - **Suporte a múltiplos sistemas operacionais**: O aplicativo deve ser capaz de funcionar em diferentes sistemas operacionais, como Android, iOS, Windows, etc.
 
-4. **Robustez**: Este subnó garante que o aplicativo possa lidar com falhas e erros de maneira eficaz. Isso inclui:
+ 4.4.4 **Robustez**: Este subnó garante que o aplicativo possa lidar com falhas e erros de maneira eficaz. Isso inclui:
     - **Tolerância a falhas de rede**: O aplicativo deve ser capaz de lidar com falhas de rede e ainda funcionar corretamente.
     - **Recuperação de erros**: Se ocorrerem erros, o aplicativo deve ser capaz de se recuperar e continuar funcionando.
 
