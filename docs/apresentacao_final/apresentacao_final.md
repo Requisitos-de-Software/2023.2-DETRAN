@@ -95,12 +95,21 @@ Etapa cuja finalidade foi vincular os requisitos  que são criados durante o cic
 | [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | Artefato contendo a tecnica de Backward-From para matriz de rastreabilidade |
 | [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | Artefato contendo a tecnica de Forward-From  |   | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | Artefato contento a matriz geral de rastreabilidade do projeto |
 
-
-
-
-
-
 ## Resultados alcançados
+
+Esta seção apresenta os resultados obtidos ao término do projeto conduzido. No desenvolvimento do projeto, nossa equipe empenhou-se em realizar uma análise das principais necessidades dos usuários, os requisitos já atendidos pelo aplicativo e requisitos que poderiam ser implementados no aplicativo. Buscamos utilizar métodos e ferramentas para auxiliar no desenvolvimento preciso e embasado do projeto.
+
+### Conhecimentos Adquiridos
+
+No desenvolvimento do projeto, a equipe adquiriu e aplicou conhecimentos na identificação, documentação e validação de requisitos. Além do conhecimento técnico foi necessário buscar meios de estabelecer comunicação entre os usuários e a equipe de desenvolvimento para a validação e a evolução dos artefatos. Este percurso não apenas solidificou nosso conhecimento técnico como fortaleceu nossa capacidade de análise crítica. Além disso destacou a importância da colaboração e adaptação contínua para o desenvolvimento de software.
+
+### Compreensão das necessidades
+
+No decorrer do desenvolvimento do projeto, com a criação e evolução dos artefatos foi possível ao entrar em contato com os usuários, a partir destes contatos diretos foi possível entender suas necessidades, expectativas e como eles utilizam o aplicativo. Esta compreensão resultou em especificações mais claras e alinhadas com as expectativas dos usuários.
+
+### Requisitos não elicitados
+
+Conforme os artefatos foram sendo criados, requisitos não implementados foram elicitados a partir da análise das demandas dos usuários que permitiu a criação de especificações mais precisas. Estes requisitos foram sendo aprimorados no desenvolvimento do projeto e nas etapas finais foi possível criar e validar protótipos diretamente com os clientes.
 
 ## Tecnicas utilizadas em cada etapa do projeto
 
