@@ -1,9 +1,9 @@
 # Backward-From
 
-## Introdução
+## 1. Introdução
 Este artefato aborda o método de rastreabilidade backward-from, uma técnica essencial para vincular os requisitos elicitados durante o projeto às suas respectivas fontes. A rastreabilidade, por sua vez, representa a habilidade de rastrear os requisitos ao longo de todo o ciclo de vida no sistema.
 
-## Metodologia
+## 2. Metodologia
 Ao aplicar o método backward-from, além de suas peculiaridades, adotamos o meta-modelo de Toranzo, classificando os requisitos elicitados pelo grupo em níveis e elos.
 
 * Ambiental: informações provenientes do ambiente e contexto nos quais a organização está inserida;
@@ -52,7 +52,7 @@ Tabela 1 - Tabelas de requisitos funcionais<br>
 (Fonte: João Gabriel Elvas)
 </p>
 
-## Tabelas de requisitos não funcionais
+## 3. Tabelas de requisitos não funcionais
 | Novo ID | Descrição | Rastreabilidade | Implementação |
 |---------|-----------|------------------|---------------|
 | RNF01.1 | Garantir compatibilidade com Android 5 ou superior | ADD1,ADD1,ST16,ES09,L14 | Implementado |
@@ -64,7 +64,7 @@ Tabela 2 - Tabelas de requisitos não funcionais<br>
 (Fonte: João Gabriel Elvas)
 </p>
 
-## Elos
+## 4. Elos
 
 Com base nos rquisitos será feito a representação dos elos seguindo modelo de Toranzo igual a tabela 3 abaixo:
 
@@ -83,7 +83,7 @@ Tabela 3 - Descrição dos termos<br>
 
 
 
-## Tabela de elo
+## 5. Tabela de elo
 | id | Requisito | Tipo de Elo |
 | -- | --------- | ----------- |
 | ELO01 | RF01.1 | Representação: C03 representa ST02,UC02,R02 <br> Agregação:L7 agrega RF01 <br>  |
@@ -122,5 +122,5 @@ Tabela 4 -Elo <br>
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
 | 1.0    | 18/11/2023 | Criação do documento | João Gabriel Elvas | Guilherme Nishimura |
-| 1.1    | 20/11/2023 | Adição de elos | Guilherme Nishimura | João Gabriel Elvas |
-
+| 1.1    | 20/11/2023 | Adição de elos | Guilherme Nishimura |João Gabriel Elvas  |
+| 2.1    | 06/12/2023 | Padronização | João Gabriel Elvas|  Guilherme Nishimura  |
