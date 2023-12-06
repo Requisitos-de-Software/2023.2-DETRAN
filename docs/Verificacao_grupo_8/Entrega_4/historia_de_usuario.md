@@ -193,7 +193,7 @@ Nesta seção, serão apresentados os problemas encontrados durante a verificaç
 
 # Historico de versão!
 
-| Versão | Data       | Descrição | Autor               |             Revisor |
-|--------|------------|-----------|---------------------|---------------------|
-| 1.0    | 13/11/2023 | Criação do documento         | [Pedro Campos](https://github.com/pedrocampos0) |         |
-|        |            |                                 |                     |         |
+| Versão | Data       | Descrição            | Autor                                           | Revisor   |
+| ------ | ---------- | -------------------- | ----------------------------------------------- | --------- |
+| 1.0    | 13/11/2023 | Criação do documento | [Pedro Campos](https://github.com/pedrocampos0) | Guilherme |
+|        |            |                      |                                                 |           |

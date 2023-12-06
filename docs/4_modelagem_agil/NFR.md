@@ -158,5 +158,4 @@ Com base no documento feito,pode-se concluir a partir do softgoals que a maioria
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0 | 06/11/2023 | Criação do documento | João Pedro e Guilherme | - |
-| 1.1 | 06/11/2023 | Adição de tabelas | João Pedro e Guilherme | - |
+| 1.0 | 06/11/2023 | Criação do documento | João Pedro e Guilherme | João Gabriel |

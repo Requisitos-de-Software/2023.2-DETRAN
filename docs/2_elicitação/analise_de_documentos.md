@@ -97,5 +97,5 @@ Tabela 01 - Requisitos levantados<br>
 
 | Versão | Data       | Descrição            | Autor              | Revisor             |
 | ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 03/10/2023 | Criação do documento | João Pedro Anacleto | |
+| 1.0    | 03/10/2023 | Criação do documento | João Pedro Anacleto | João Gabriel  |
 | 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |

@@ -4,6 +4,10 @@
 
 ## Cronogramas planejados e executados
 
+Na etapa inicial do projeto foi definido um cronograma base a ser seguido afim de garantir uma consistencia na criação dos artefatos, ademais durante cada entrega do projeto foram documentados os cronogramas realizados consistindo em tabelas onde se e possivel identificar a Atividade,inicio,fim,autores e revisores.
+
+Todas as tabelas referentes a ambos os cronogramas preenchidos podem ser ascessados no artefato de [cronograma](https://requisitos-de-software.github.io/2023.2-DETRAN/cronograma/cronograma_de_atividades/).
+
 ## O que foi feito em cada etapa 
 
 ### Etapa 1
