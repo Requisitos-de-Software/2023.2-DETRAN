@@ -192,6 +192,9 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 
 ## Tabela sobre o metodo de verificação e validação 
 
+### Verificação
+
+Para a realização da verificação dos artefatos foi utilizado uma adptação da inspeção. Desenvolvida originalmente para códigos de software por Michael E. Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos, cada artefato possui um documento de verificacão específico com suas respectivas listas de verificações necessárias.Para visualizar com detalhes acessar: [Tabela de verificação](https://requisitos-de-software.github.io/2023.2-DETRAN/Verifica%C3%A7%C3%A3o%20e%20Valida%C3%A7%C3%A3o/Verificacao/Geral/#objetos-de-verificacao)
 
 ## Tabela de utilização de ferramentas
 
