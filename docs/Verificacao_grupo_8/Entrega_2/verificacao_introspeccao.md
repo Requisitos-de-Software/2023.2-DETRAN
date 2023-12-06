@@ -55,11 +55,11 @@ Tabela 02 - Tabela de verificação da técnica de Inspecção<br>
 
 ## Referencias Bibliograficas
 
-- [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: . Acesso em 13/11/2023.
+> [1] SALES, André Barros. Plano de ensino da disciplina. Disponível em: [Plano de ensino](https://aprender3.unb.br/pluginfile.php/2692699/mod_resource/content/34/Plano_de_Ensino%20RE%20022023%20Turma%202.pdf ). Acesso em 13/11/2023.
 
-- ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em: https://www.abnt.org.br/. Acesso em: 13/11/2023.
+> ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT. Disponível em:[ABNT](https://www.abnt.org.br/) Acesso em: 13/11/2023.
 
-- SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Acesso em: 13/11/2023.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Acesso em: 13/11/2023.
 
 # Historico de versão
 
