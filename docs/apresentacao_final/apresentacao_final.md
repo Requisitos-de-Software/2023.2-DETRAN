@@ -124,6 +124,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 | [Ferramentas](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/ferramentas/) | 2.0 | 04/11/2023 | <details><summary>Consulta aos integrantes do grupo</summary> Os integrantes do grupo forneceram as informações necessárias para a criação do artefato. </details> |<details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
 | [Termos de uso](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/termos/) | 2.0 | 04/11/2023 | <details><summary>Busca de informações</summary> Consiste em obter informações que serão necessárias para a criação do artefato </details> |<details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |  
 
+*Fonte: Pedro Campos*
+
 ### Etapa 2
 
 | Artefato | Versão | Data | Técnicas | Técnicas utilizadas por |
@@ -138,7 +140,7 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 | [Requisitos elicitados](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/requisitos_elicitados/) | 2.0 | 04/11/2023 | <details><summary>Junção de informações</summary> Consiste em agrupar todas as informações de artefatos diferentes em apenas um único artefato. </details> | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |
 | [Storytelling](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/storytelling/) | 2.0 | 04/11/2023 | <details><summary>Técnica de elicitação</summary> Uma técnica de elicitação, é nada mais nada menos que uma forma de obter requisitos, cada tipo de técnica possui suas particularidades para elicitar um requisito. Todas técnicas de elicitação tem o mesmo objetivo: elicitar os requisitos de um determinado projeto/produto de software. </details> <details><summary>Perfil do usuário</summary> Trata-se de utilizar o perfil do usuário que utiliza o produto de software analisado, contendo as características desse usuário. </details> <details><summary>Personas</summary> Trata-se de utilizar as personas criadas pelo grupo, contando as experiências dessas personas em cenários específicos. </details>  | <details><summary>Integrantes</summary> [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
 
-
+*Fonte: Pedro Campos*
 
 ### Etapa 3
 
@@ -149,6 +151,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 | [Especificação suplementar](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/especificacao_suplementar/) | 2.1 | 04/11/2023 | <details><summary>[FURPS+](https://csis.pace.edu/~marchese/SE616_New/Samples/Example%20%20Supplementary%20Specification.htm)</summary> Nessa metodologia, os requisitos são divididos em categorias específicas: Funcionalidade (F), Usabilidade (U), Confiabilidade (R), Desempenho (P) e Suportabilidade (S). Além disso, incluímos requisitos não-funcionais como Design, Implementação e Interface. </details> | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
 | [Léxico](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/) | 2.0 | 04/11/2023 | <details><summary>Consulta aos integrantes do grupo</summary> Os integrantes do grupo forneceram as informações necessárias para a criação do artefato. </details> <details><summary>Busca de informações</summary> Consiste em obter informações que serão necessárias para a criação do artefato </details> | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> | 
 
+*Fonte: Pedro Campos*
+
 ### Etapa 4
 
 
@@ -158,6 +162,8 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 | [Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/backlog/) | 1.2 | 04/11/2023 | <details><summary>Adaptação do SCRUM</summary> O Scrum é um framework de gerenciamento que as equipes usam para se auto-organizar e trabalhar em direção a um objetivo em comum. </details> <details><summary>Histórias de usuário</summary> Para realizar a priorização do backlog, utilizamos como base as histórias de usuário que criamos. </details> | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@VitorB2002](https://github.com/VitorB2002) </details> |       
 | [Historias De Usuarios](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/) | 2.1 | 04/11/2023 | <details><summary>Histórias de usuário</summary> Criamos as histórias de usuário a partir de um modelo pré-definido no início do documento. Basicamente as histórias seguem a estrutura: Nome * ID: Identificação da história para futura rastreabilidade (USXX) * Origem: Requisito do qual a história deriva * Descrição: "Eu, como [usuário], desejo [o que]" * Motivo: O porquê dessa história * Critérios de Aceitação: Descrição dos critérios que a história deve atender para ser considerada válida </details> | <details><summary>Integrantes</summary> [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
 
+*Fonte: Pedro Campos*
+
 ### Etapa 5
 
 | Artefato | Versão | Data | Técnicas | Técnicas utilizadas por |
@@ -165,30 +171,91 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 | [Verificações](http://127.0.0.1:8000/Verificação%20e%20Validação/Verificacao/Geral/) | 3.0 | 06/11/2023 | <details><summary> Método de inspeção </summary> FAGAN (1976) desenvolveu o processo tradicional de inspeção de software, uma forma detalhada de se realizar uma verificação por inspeção. Neste processo, existem seis atividades principais: Planejamento, Apresentação, Preparação, Reunião, Retrabalho, Continuação. Esse processo pode ser melhor descrito [no link](https://www-di.inf.puc-rio.br/~kalinowski/publications/KalinowskiS07.pdf). </details> | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
 | [Validações](http://127.0.0.1:8000/Verificação%20e%20Validação/Validação/metodos_pagamento/) | 2.0 | 04/11/2023 | <details><summary> Validação por protótipo </summary> Esse processo de validação por protótipo consiste em realizar a criação do protótipo de uma determinada funcionalidade e depois realizar uma reunião com o cliente mostrando o protótipo criado para que ele valide aquela funcionalidade. </details>  | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
 
+*Fonte: Pedro Campos*
+
 ### Etapa 6
 
 | Artefato | Versão | Data | Técnicas | Técnicas utilizadas por |
 |----------|--------|------|----------------|----------------|
-| [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | 20/11/2023 | <details><summary>Backward-From</summary>Ao aplicar o método backward-from, além de suas peculiaridades, adotamos o meta-modelo de Toranzo, classificando os requisitos elicitados pelo grupo em níveis e elos. [Mais detalhes](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/#metodologia)</details> | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
-| [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | 04/11/2023 | <details><summary>Foward-From</summary>A forward-from pode ser usada para demonstrar as conexões entre requisitos e artefatos gerados nas etapas seguintes do desenvolvimento. No contexto da conexão entre requisitos, o forward-from envolve mapear as dependências entre eles. Isso inclui entender se um requisito está relacionado a outro, se o aprimora, generaliza ou substitui.</details>  | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@VitorB2002](https://github.com/VitorB2002) </details> |       
-| [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | 04/11/2023 | <details><summary>Matriz de rastreabilidade</summary>A metodologia escolhida consiste na criação de uma matriz composta por 5 colunas(ID, Descrição, Elicitação, Artefatos, Implementação), a matriz buscam apresentar requisitos de maneira organizada e direta ao ponto.</details>  | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
+| [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | 20/11/2023 | <details><summary>Backward-From</summary>Ao aplicar o método backward-from, além de suas peculiaridades, adotamos o meta-modelo de Toranzo, classificando os requisitos elicitados pelo grupo em níveis e elos. [Mais detalhes](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/#metodologia)</details> <details><summary>Rastreabilidade de requisitos</summary>Essa técnica consiste em realizar o rastreamento de requisitos, buscando suas origens e os produtos derivados desses requisitos, para que o grupo consiga alcançar um determinado objetivo com essa informação de rastreabilidade.</details> | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
+| [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | 04/11/2023 | <details><summary>Foward-From</summary>A forward-from pode ser usada para demonstrar as conexões entre requisitos e artefatos gerados nas etapas seguintes do desenvolvimento. No contexto da conexão entre requisitos, o forward-from envolve mapear as dependências entre eles. Isso inclui entender se um requisito está relacionado a outro, se o aprimora, generaliza ou substitui.</details> <details><summary>Rastreabilidade de requisitos</summary>Essa técnica consiste em realizar o rastreamento de requisitos, buscando suas origens e os produtos derivados desses requisitos, para que o grupo consiga alcançar um determinado objetivo com essa informação de rastreabilidade.</details>  | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@VitorB2002](https://github.com/VitorB2002) </details> |       
+| [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | 04/11/2023 | <details><summary>Matriz de rastreabilidade</summary>A metodologia escolhida consiste na criação de uma matriz composta por 5 colunas(ID, Descrição, Elicitação, Artefatos, Implementação), a matriz buscam apresentar requisitos de maneira organizada e direta ao ponto.</details> <details><summary>Rastreabilidade de requisitos</summary>Essa técnica consiste em realizar o rastreamento de requisitos, buscando suas origens e os produtos derivados desses requisitos, para que o grupo consiga alcançar um determinado objetivo com essa informação de rastreabilidade.</details>  | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
+
+*Fonte: Pedro Campos*
+
 
 ## Artefatos criados no projeto em cada etapa 
-
 ### Etapa 1
+
+Na tabela 1 estão os artefatos verificados e os responsáveis pela verificação.
+
+| Artefato | Versão | Data | Descrição | Autores e revisores |
+|----------|--------|------|----------------|----------------|
+| [Rich Picture](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/Rich_picture/) | 2.0 | 04/11/2023 | Um Rich Picture é uma representação visual ou diagrama que é usado para capturar e comunicar de forma eficaz informações complexas e contextuais sobre um determinado sistema, situação ou problema. | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+| [Aplicativos](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/aplicativos/) | 2.0 | 04/11/2023 | Concatenação de informações dos aplicativos que foram escolhidos por cada um dos membros do grupo. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |        
+| [Ferramentas](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/ferramentas/) | 2.0 | 04/11/2023 | Trata-se de um artefato que contém todas as ferramentas utilizadas ao longo do semestre para o desenvolvimento do projeto. |<details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+| [Termos de uso](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/termos/) | 2.0 | 04/11/2023 | Neste artefato, estamos trazendo o termo de uso do aplicativo do Detran, disponibilizando para download e também as informações de acesso. |<details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |  
+
+*Fonte: Pedro Campos*
 
 ### Etapa 2
 
+| Artefato | Versão | Data | Descrição | Autores e revisores |
+|----------|--------|------|----------------|----------------|
+| [First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/FTF/) | 2.0 | 04/11/2023 | Uma técnica de priorização de requisitos, caracterizada pela distribuição de valores/pesos para os requisitos que elicitamos ao longo do projeto. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Análise de documentos](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/analise_de_documentos/) | 2.0 | 04/11/2023 | Técnica de elicitação de requisito, que consiste em obter informações dos documentos que o Detran disponibiliza, para que consigamos encontrar funcionalidades do aplicativo que posteriormente serão transformadas em requisitos. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |  
+| [Entrevista](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/entrevista/) | 2.0 | 04/11/2023 | Técnica de elicitação de requisitos, que consiste em realizar uma entrevista com um usuário do aplicativo para que consigamos encontrar novos requisitos.  | <details><summary>Integrantes</summary> [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+| [Priorização In or Out](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/in_or_out/) | 2.0 | 04/11/2023 | Uma técnica de priorização de requisitos, caracterizada pela decisão binária, alinha com o cliente, para realizar a priorização. | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+| [Moscow](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/moscow/) | 2.0 | 04/11/2023 | Uma técnica de priorização de requisitos, caracterizada pela análise da importância de cada requisito seguindo os padrões da técnica MOSCOW. | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Personas](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/personas/) | 2.0 | 04/11/2023 | Personagens fictícias criadas para representar os usuários do aplicativo. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |  
+| [Questionário](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/questionario/) | 2.0 | 04/11/2023 | Técnica de elicitação de requisitos, que consiste em realizar a criação de um questionário com perguntas e resposta, para que consigamos obter os perfis de usuário e elicitar requisitos de acordo com a análise das respostas. | <details><summary>Integrantes</summary> [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+| [Requisitos elicitados](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/requisitos_elicitados/) | 2.0 | 04/11/2023 | Artefato de concatenação dos requisitos elicitados | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Storytelling](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/storytelling/) | 2.0 | 04/11/2023 |  Técnica de elicitação de requisitos, que consiste na coleta de requisitos por meio de narrativas fornecidas pelos usuários.| <details><summary>Integrantes</summary> [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
+
+*Fonte: Pedro Campos*
+
 ### Etapa 3
+
+| Artefato | Versão | Data | Descrição | Autores e revisores |
+|----------|--------|------|----------------|----------------|
+| [Casos de uso](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/casos_de_uso/) | 3.0 | 06/11/2023 | Um caso de uso se refere a uma descrição detalhada de como o sistema será utilizado em uma determinada situação ou contexto. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Cenários](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/) | 2.0 | 04/11/2023 | Os cenários se apresentam como descrições detalhadas, geralmente em linguagem natural, de situações ou eventos que envolvem determinados atores. |<details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> |       
+| [Especificação suplementar](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/especificacao_suplementar/) | 2.1 | 04/11/2023 | Especificação Suplementar pode ser definida como um documento em linguagem natural no qual são descritos os requisitos num sistema. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+| [Léxico](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/) | 2.0 | 04/11/2023 | O Léxico é uma notação que, por meio da descrição de termos, tem como objetivo descrever os símbolos de uma linguagem. | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@VitorB2002](https://github.com/VitorB2002) </details> | 
+
+*Fonte: Pedro Campos*
 
 ### Etapa 4
 
-### Etapa 5
-#### Etapa 5.1
 
-#### Etapa 5.2
+| Artefato | Versão | Data | Descrição | Autores e revisores |
+|----------|--------|------|----------------|----------------|
+| [NFR](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/) | 1.1 | 06/11/2023 | O NFR é uma abordagem sistêmica e estruturada para lidar com os requisitos que não se relacionam diretamente com as funcionalidades de um sistema de software, mas sim com as suas características de desempenho, segurança, usabilidade, confiabilidade e outros atributos que não são funcionalidades específicas. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi) </details> |
+| [Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/backlog/) | 1.2 | 04/11/2023 | O Backlog do Produto é um artefato da metodologia ágil que é dinâmico, adaptando-se às mudanças à medida que o projeto evolui. Ele fornece uma visão de alto nível das funcionalidades desejadas e é a fonte de tarefas a serem planejadas em cada sprint. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@VitorB2002](https://github.com/VitorB2002) </details> |       
+| [Historias De Usuarios](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/) | 2.1 | 04/11/2023 | As histórias de usuário são uma abordagem centrada no usuário para especificar os elementos do backlog de um projeto. Ao contrário de especificações tradicionais, as histórias de usuário são registros concisos que descrevem os requisitos de forma clara e objetiva, concentrando-se no "o que" precisa ser alcançado, ao invés de detalhar o "como" será implementado. | <details><summary>Integrantes</summary> [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
+
+*Fonte: Pedro Campos*
+
+### Etapa 5
+
+#### Nesta etapa realizamos verifições do nosso grupo, do grupo+1 e fizemos também as validações, apenas do nosso grupo, das funcionalidades que não foram implementadas.
+
+| Artefato | Versão | Data | Descrição | Autores e revisores |
+|----------|--------|------|----------------|----------------|
+| [Verificações](http://127.0.0.1:8000/Verificação%20e%20Validação/Verificacao/Geral/) | 3.0 | 06/11/2023 | Artefatos de verificações | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Validações](http://127.0.0.1:8000/Verificação%20e%20Validação/Validação/metodos_pagamento/) | 2.0 | 04/11/2023 | Artefatos de validações | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
+
+*Fonte: Pedro Campos*
 
 ### Etapa 6
+
+| Artefato | Versão | Data | Descrição | Autores e revisores |
+|----------|--------|------|----------------|----------------|
+| [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | 20/11/2023 | O Backward-From trata-se de uma técnica essencial para vincular os requisitos elicitados durante o projeto às suas respectivas fontes. | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
+| [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | 04/11/2023 | Foward-from, (para frente, a partir de), que consiste no relacionamento dos requisitos a a artefatos de desenho e implementação (diagramas, protótipos, estrutura). | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@VitorB2002](https://github.com/VitorB2002) </details> |       
+| [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | 04/11/2023 | A matriz de rastreabilidade é um documento que permite a apresentação dos requisitos elicitados no projeto juntamente com sua pré e pós rastreabilidade. | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
+
+*Fonte: Pedro Campos*
 
 ## Tabela sobre o metodo de verificação e validação 
 
