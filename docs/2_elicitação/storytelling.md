@@ -75,9 +75,6 @@ Tabela 01 - Requisitos elicitados <br>
 (Fonte: João Gabriel)
 </p>
 
-## 5. Explicação da Elicitação
-
-Video Explicativo
   
 ## Bibliografia
 > Sommerville, I., Engenharia de software, 10ª ed., Editora Pearson, 2016.
