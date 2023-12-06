@@ -1,6 +1,18 @@
 # Apresentação Final
 
-## Aplicativo Escolhido
+## Aplicativo Escolhido (Detran digital)
+
+### Critérios de avaliação
+* Aplicativo não ter sido trabalhado na disciplina;
+* Facilidade de contato com o público-alvo;
+* Complexidade do aplicativo;
+* Disponibilidade de informações.
+### Motivações para escolha
+Baseado nos critérios anteriores, e após instrução do professor, o grupo decidiu escolher o aplicativo do Detran Digital. Entre as motivações, estas são as principais:
+
+* Aplicativo de complexidade média, ou seja, nem muito complexo para o escopo da disciplina, nem muito simplório para a quantidade de integrantes do grupo, que apresenta requisitos funcionais e não funcionais que serão trabalhados no projeto.
+* Público-alvo amplo e de fácil acesso. Visto que o aplicativo aborda algo do cotidiano de muitas pessoas e o escopo de faixa etária é alto.
+* Site do governo.
 
 ## Cronogramas planejados e executados
 
