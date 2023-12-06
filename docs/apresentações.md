@@ -55,21 +55,21 @@ Video 04 - Apresentação da etapa 04<br>
 (Fonte: Grupo 07).
 </p>
 
-## 6. Entrega 6
-Segue abaixo o video de apresentação da entrega 6, realizado no dia 20/11/2023
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QsMO7kSdkJE?si=5PlbyG-ZE3jasRoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<p align="center">
-Video 06 - Apresentação da etapa 06<br>
-(Fonte: Grupo 07).
-</p>
-
-## 7. Entrega 5.2
+## 6. Entrega 5.2
 Segue abaixo o vídeo da apresentação da entrega 5.2, realizado no dia 04/12/2023
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B8wxCt5MReE?si=iPi_hn7joyTlt5Fd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <p align="center">
 Video 07 - Apresentação da etapa 5.2<br>
+(Fonte: Grupo 07).
+</p>
+
+## 7. Entrega 6
+Segue abaixo o video de apresentação da entrega 6, realizado no dia 20/11/2023
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QsMO7kSdkJE?si=5PlbyG-ZE3jasRoi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p align="center">
+Video 06 - Apresentação da etapa 06<br>
 (Fonte: Grupo 07).
 </p>
 
