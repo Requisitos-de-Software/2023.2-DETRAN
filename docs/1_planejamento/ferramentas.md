@@ -6,15 +6,15 @@
 
 ## 2. Ferramentas utilizadas
 
-| Logo | Ferramenta | Finalidade |
-| :-----: | :----: | ----------- |
-| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width=75px> | <a id="a" href="#aa">Github</a>  | Manter o repositorio e hospedar |
-| <img src="https://static.vecteezy.com/system/resources/previews/018/930/708/original/telegram-logo-telegram-icon-transparent-free-png.png" alt="Telegram" width=75px> |  <a id="b" href="#bb">Telegram</a> | Aplicativo escolhido para manter a comunicação do grupo. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon-youtube.png" alt="YouTube" width=75px> |  <a id="c" href="#cc">Youtube</a> | Utilizado para hospedar as gravações do projeto. |
-| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_vscode.png" alt="VScode" width=75px> |  <a id="d" href="#dd">VScode</a> | IDE utilizada para criar a git page do projeto. |
-| <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" alt="Teams" width=75px> | <a id="e" href="#ee">Teams</a> | Utilizado para realizar as reuniões e gravações das mesmas, além de realizar entrevistas. |
-| <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0" alt="Lucid Hart" width=75px> | <a id="h" href="#hh">Lucidchart</a> | Criação do rich picture|
-| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width=50px> | <a id="j" href="#jj">Figma</a> | Prototipação e o guia de estilo do projeto. |
+|                                                                                 Logo                                                                                  |             Ferramenta              | Finalidade                                                                                |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: | ----------------------------------------------------------------------------------------- |
+|                             <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width=75px>                             |   <a id="a" href="#aa">Github</a>   | Manter o repositorio e hospedar                                                           |
+| <img src="https://static.vecteezy.com/system/resources/previews/018/930/708/original/telegram-logo-telegram-icon-transparent-free-png.png" alt="Telegram" width=75px> |  <a id="b" href="#bb">Telegram</a>  | Aplicativo escolhido para manter a comunicação do grupo.                                  |
+|            <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon-youtube.png" alt="YouTube" width=75px>             |  <a id="c" href="#cc">Youtube</a>   | Utilizado para hospedar as gravações do projeto.                                          |
+|             <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.1-VLC/master/docs/img/icon/icon_vscode.png" alt="VScode" width=75px>              |   <a id="d" href="#dd">VScode</a>   | IDE utilizada para criar a git page do projeto.                                           |
+|                                       <img src="https://cdn-icons-png.flaticon.com/512/906/906349.png" alt="Teams" width=75px>                                        |   <a id="e" href="#ee">Teams</a>    | Utilizado para realizar as reuniões e gravações das mesmas, além de realizar entrevistas. |
+|           <img src="https://play-lh.googleusercontent.com/o4vT3StM8rw3Hn15GMtLjuTA6VUWt6jxDvV4d5ahKj9E9nGaLut06tM83NESuTBr-t0" alt="Lucid Hart" width=75px>           | <a id="h" href="#hh">Lucidchart</a> | Criação do rich picture                                                                   |
+|                                      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" width=50px>                                       |   <a id="j" href="#jj">Figma</a>    | Prototipação e o guia de estilo do projeto.                                               |
 
 
 
@@ -43,7 +43,7 @@
 
 ## Histórico de Versão
 
-| Versão | Data     | Descrição                  | Autor               | Revisor             |
-| ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 01/09/23 | Ferramentas iniciais       | João Pedro Anacleto | João Gabriel Elvas  |
-| 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
+| Versão | Data       | Descrição            | Autor               | Revisor            |
+| ------ | ---------- | -------------------- | ------------------- | ------------------ |
+| 1.0    | 01/09/23   | Ferramentas iniciais | João Pedro Anacleto | João Gabriel Elvas |
+| 2.0    | 04/11/2023 | Padronização         | Vitor Borges        | Pedro              |

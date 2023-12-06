@@ -32,26 +32,26 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 | ID  |                                                                                              Descrição | Possui | Qualidade  | Comentário                                                          |
 | --- | -----------------------------------------------------------------------------------------------------: | ------ | ---------- | :------------------------------------------------------------------ |
-| 1   |                                                         O artefato inclui a especificação suplementar? | sim    |  Excelente          | -                                                                   |
-| 2   |                                                     A especificação suplementar segue o modelo FURPS+? | sim    | Excelente           | -                                                                   |
-| 3   |                           O artefato possui uma seção de Funcionalidade contendo requisitos testáveis? | sim    | Excelente           |                              |
-| 4   |                                   O artefato inclui uma seção de Usabilidade com requisitos testáveis? | sim    | Excelente           | -                                                                   |
-| 5   | Os requisitos apresentados são formulados de maneira a facilitar as tarefas realizadas pelos usuários? | sim    | Excelente           | -                                                                   |
-| 6   |                                                         O artefato possui uma seção de Confiabilidade? | sim    | Excelente           | -                                                                   |
-| 7   |                       Os requisitos apresentados contribuem para aumentar a confiabilidade do sistema? | sim    | Excelente           | -                                                                   |
-| 8   |                                               O artefato especifica o Tempo Médio entre Falhas (MTBF)? | não    |Incompleto            | -                                                                   |
-| 9   |                                                O artefato especifica o Tempo Médio para Reparo (MTTR)? | não    | Incompleto           | -                                                                   |
+| 1   |                                                         O artefato inclui a especificação suplementar? | sim    | Excelente  | -                                                                   |
+| 2   |                                                     A especificação suplementar segue o modelo FURPS+? | sim    | Excelente  | -                                                                   |
+| 3   |                           O artefato possui uma seção de Funcionalidade contendo requisitos testáveis? | sim    | Excelente  |                                                                     |
+| 4   |                                   O artefato inclui uma seção de Usabilidade com requisitos testáveis? | sim    | Excelente  | -                                                                   |
+| 5   | Os requisitos apresentados são formulados de maneira a facilitar as tarefas realizadas pelos usuários? | sim    | Excelente  | -                                                                   |
+| 6   |                                                         O artefato possui uma seção de Confiabilidade? | sim    | Excelente  | -                                                                   |
+| 7   |                       Os requisitos apresentados contribuem para aumentar a confiabilidade do sistema? | sim    | Excelente  | -                                                                   |
+| 8   |                                               O artefato especifica o Tempo Médio entre Falhas (MTBF)? | não    | Incompleto | -                                                                   |
+| 9   |                                                O artefato especifica o Tempo Médio para Reparo (MTTR)? | não    | Incompleto | -                                                                   |
 | 10  |                                Os requisitos relacionados à segurança são explicitamente apresentados? | não    | Incompleto | E apenas referenciado no ID CON02                                   |
-| 11  |                                    O artefato possui uma seção de Desempenho com requisitos testáveis? | sim    | Excelente           | Podem ser testados de maneira intuitiva no aplicativo               |
-| 12  |           Os requisitos relacionados aos tempos de resposta são apresentados com tempos especificados? | não    | Incompleto           | Não e apresentado um tempo de resposta especificado                 |
-| 13  |                                                Os requisitos sobre a disponibilidade são apresentados? | não    |  Incompleto          | Não são apresentados                                                |
-| 14  |                               O artefato possui uma seção de Suportabilidade com requisitos testáveis? | não    | Incompleto           | Não sao testaveis uma vez que não possuimos acesso ao codigo fonte  |
+| 11  |                                    O artefato possui uma seção de Desempenho com requisitos testáveis? | sim    | Excelente  | Podem ser testados de maneira intuitiva no aplicativo               |
+| 12  |           Os requisitos relacionados aos tempos de resposta são apresentados com tempos especificados? | não    | Incompleto | Não e apresentado um tempo de resposta especificado                 |
+| 13  |                                                Os requisitos sobre a disponibilidade são apresentados? | não    | Incompleto | Não são apresentados                                                |
+| 14  |                               O artefato possui uma seção de Suportabilidade com requisitos testáveis? | não    | Incompleto | Não sao testaveis uma vez que não possuimos acesso ao codigo fonte  |
 | 15  |                              São apresentados os sistemas operacionais nos quais o sistema funcionará? | sim    | Excelente  | -                                                                   |
-| 16  |                          O artefato possui uma seção de Restrições de Design com requisitos testáveis? | sim    | Excelente           | -                                                                   |
-| 17  |                              Os requisitos apresentados especificam ou restringem o design do sistema? | sim    | Excelente           | Como exemplo  "O aplicativo deve seguir a paleta de cores definida" |
-| 18  |                   O artefato possui uma seção de Requisitos de Implementação com requisitos testáveis? | sim    | Excelente           | E possivel testar a partir do seu sistema utilizado                 |
-| 19  |                       O artefato possui uma seção de Requisitos de Interface com requisitos testáveis? | sim    | Excelente           | E possivel verificar a padronizacao por exemplo                     |
-| 20  |                            O artefato possui uma seção de Requisitos Físicos com requisitos testáveis? | não    | Incompleto           | Não possui                                                          |
+| 16  |                          O artefato possui uma seção de Restrições de Design com requisitos testáveis? | sim    | Excelente  | -                                                                   |
+| 17  |                              Os requisitos apresentados especificam ou restringem o design do sistema? | sim    | Excelente  | Como exemplo  "O aplicativo deve seguir a paleta de cores definida" |
+| 18  |                   O artefato possui uma seção de Requisitos de Implementação com requisitos testáveis? | sim    | Excelente  | E possivel testar a partir do seu sistema utilizado                 |
+| 19  |                       O artefato possui uma seção de Requisitos de Interface com requisitos testáveis? | sim    | Excelente  | E possivel verificar a padronizacao por exemplo                     |
+| 20  |                            O artefato possui uma seção de Requisitos Físicos com requisitos testáveis? | não    | Incompleto | Não possui                                                          |
 
 *Fonte: João Gabriel Elvas*
 
@@ -67,7 +67,7 @@ O artefato de verificação Especificação Suplementar tem o objetivo de docume
 
 # Historico de versão
 
-| Versão | Data       | Descrição   | Autor              | Revisor    |
-| ------ | ---------- | ----------- | ------------------ | ---------- |
-| 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas | João Pedro |
-| 1.1    | 01/12/2023 | Inspeção    | João Pedro         |            |
+| Versão | Data       | Descrição   | Autor              | Revisor      |
+| ------ | ---------- | ----------- | ------------------ | ------------ |
+| 1.0    | 13/11/2023 | Criacao doc | João Gabriel Elvas | João Pedro   |
+| 1.1    | 01/12/2023 | Inspeção    | João Pedro         | João Gabriel |

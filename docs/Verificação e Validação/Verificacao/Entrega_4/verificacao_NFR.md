@@ -58,4 +58,4 @@ Fonte: [Non-Functional Requirements in Software Engineering.](https://edisciplin
 | Versão | Data       | Descrição | Autor               |             Revisor |
 |--------|------------|-----------|---------------------|---------------------|
 | 1.0    | 13/11/2023 | Criação do modelo base          | João Pedro Anacleto |    [Pedro Campos](https://github.com/pedrocampos0)      |
-| 2.0    | 20/11/2023 | Tabelas de verificação         |        [Pedro Campos](https://github.com/pedrocampos0)   |         |
+| 2.0    | 20/11/2023 | Tabelas de verificação         |        [Pedro Campos](https://github.com/pedrocampos0)   |  Vitor       |

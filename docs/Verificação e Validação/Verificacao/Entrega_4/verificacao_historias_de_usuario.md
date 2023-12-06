@@ -66,4 +66,4 @@ Fonte: [Slides da aula “Requisitos – Aula 15"](https://aprender3.unb.br/plug
 |--------|------------|-----------|---------------------|---------------------|
 | 1.0    | 13/11/2023 | Criação do modelo base          | João Pedro Anacleto |    [Pedro Campos](https://github.com/pedrocampos0)      |
 | 2.0    | 20/11/2023 | Tabelas de verificação         |        [Pedro Campos](https://github.com/pedrocampos0)   |   [João Pedro](https://github.com/jpanacleto2)       |
-| 3.0    | 01/12/2023 | inspeção        |         [João Pedro](https://github.com/jpanacleto2)  |         |
+| 3.0    | 01/12/2023 | inspeção        |         [João Pedro](https://github.com/jpanacleto2)  |  João Gabriel       |
