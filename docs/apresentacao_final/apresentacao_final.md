@@ -196,6 +196,21 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 
 Para a realização da verificação dos artefatos foi utilizado uma adptação da inspeção. Desenvolvida originalmente para códigos de software por Michael E. Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos, cada artefato possui um documento de verificacão específico com suas respectivas listas de verificações necessárias.Para visualizar com detalhes acessar: [Tabela de verificação](https://requisitos-de-software.github.io/2023.2-DETRAN/Verifica%C3%A7%C3%A3o%20e%20Valida%C3%A7%C3%A3o/Verificacao/Geral/#objetos-de-verificacao)
 
+### Validação
+
+A validação de software é um processo sistemático que consiste em aferir se uma determinada funcionalidade do produto de software está funcional. Para realizar a abordagem desta técnica da engenharia de software, foram utilizados funcionalidades não implementadas dentro do aplicativo do Detran, por meio de uma prototipação dessas funcionalidades os clientes em uma entrevista conseguiram testar, validar e fornecer feedbacks.
+
+| Funcionalidade | Validação com o Cliente | Tipo Feedback | Observações |
+|----------------|-------------------------|---------------|-------------|
+| Métodos de pagamento | [Acessar entrevista](https://youtu.be/G9h7BQO18dI) | Positivo | |
+| Anexar Laudos | [Acessar entrevista](https://youtu.be/-vPuLM29oR4) | Positivo | |
+| Realizar Cursos | [Acessar entrevista](https://youtu.be/8XmkvZTkyqo) | Positivo | O usuário sugeriu uma forma de visualizar a quantidade de aulas realizadas de forma mais intuitiva |
+| Realizar transferencia de pontuação | [Acessar entrevista](https://unbbr-my.sharepoint.com/personal/200030264_aluno_unb_br/_layouts/15/stream.aspx?id=%2Fpersonal%2F200030264%5Faluno%5Funb%5Fbr%2FDocuments%2FV%C3%ADdeo%20sem%20t%C3%ADtulo%20%289%29%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview) | Positivo | |
+
+<div align= "center">
+<p>Tabela : Validação dos protótipos (Fonte:Vitor Borges. 2023). </p>
+</div>
+
 ## Tabela de utilização de ferramentas
 
 Segue abaixo apresentado na tabela as ferramentas utilizadas dentro do projeto e em qual artefato que cada uma foi utilizada.
@@ -240,3 +255,4 @@ Segue abaixo apresentado na tabela as ferramentas utilizadas dentro do projeto e
 |--------|------------|----------------|------------|---------|
 | 1.0 | 13/11/2023 | criação do doc | João Pedro | Pedro |
 | 1.1 | 06/12/2023 | Adicionando tabela de vídeos | Vitor Borges | Pedro |
+| 1.2 | 06/12/2023 | Adicionado tabela de validação dos protótipos | Vitor Borges | João Pedro |
