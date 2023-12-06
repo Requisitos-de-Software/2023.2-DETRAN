@@ -194,9 +194,24 @@ Segue abaixo apresentado na tabela as ferramentas utilizadas dentro do projeto e
 
 ## Tabela de videos
 
+| Etapa | Vídeo |
+|--------|-------|
+| 1 | [Acesse aqui](https://www.youtube.com/embed/IgOLEJmudfQ?si=MCIQBuhKqI7K6MyU) |
+| 2 | [Acesse aqui](https://www.youtube.com/embed/gCFwgyw3wN0?si=LX0ZPapbOTq8rZ9J) |
+| 3 | [Acesse aqui](https://www.youtube.com/embed/lrU3SYFXFvs?si=GFfp6pRGnuP4d7_G) |
+| 4 | [Acesse aqui](https://www.youtube.com/embed/_Y0Y1fTJxMw?si=NtxMtsd78TkPT24P) |
+| 5.1 | [Acesse aqui](https://www.youtube.com/embed/Obz7zNKqp78?si=rNODsCKcuUqPDGrg) |
+| 6 | [Acesse aqui](https://www.youtube.com/embed/QsMO7kSdkJE?si=5PlbyG-ZE3jasRoi) |
+| 5.2 | [Acesse aqui](https://www.youtube.com/embed/B8wxCt5MReE?si=iPi_hn7joyTlt5Fd) |
+| Final | [Acesse aqui]() |
+
+<div align= "center">
+<p>Tabela : Apresentações das etapas (Fonte:Vitor Borges. 2023). </p>
+</div>
 
 # Historico de versão
 
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------------|----------------|------------|---------|
 | 1.0 | 13/11/2023 | criação do doc | João Pedro | Pedro |
+| 1.1 | 06/12/2023 | Adicionando tabela de vídeos | Vitor Borges | Pedro |
