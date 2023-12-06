@@ -108,8 +108,8 @@ Tabela 09 - Priorização do Backlog<br>
 Um backlog oferece inúmeras vantagens no desenvolvimento, principalmente em metodologias ágeis. Permite a priorização de tarefas com base no valor, oferecendo visibilidade sobre todas as funcionalidades a serem desenvolvidas. Facilita entregas incrementais e adaptação a mudanças, promovendo feedback constante. Torna o progresso transparente e ajuda no planejamento eficiente de sprints e releases.
 
 ## Referência
-[1] https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/requisitos_elicitados/
-[2] https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_4/historias_de_usuarios/#3especificacao-das-historias-de-usuario-para-o-detran-digital
+> https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_2/requisitos_elicitados/
+> https://requisitos-de-software.github.io/2023.2-DETRAN/Entrega_4/historias_de_usuarios/#3especificacao-das-historias-de-usuario-para-o-detran-digital
 
 ## Bibliografia
 > PRESSMAN, R. S. Engenharia de software: uma abordagem profissional. [s.l.] Porto Alegre (Rs): Amgh, 2011.
