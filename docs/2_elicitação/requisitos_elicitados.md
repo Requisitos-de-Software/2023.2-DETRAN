@@ -67,6 +67,6 @@ Tabela 01 - Requisitos elicitados <br>
 
 | Versão | Data     | Descrição                  | Autor               | Revisor             |
 | ------ | -------- | -------------------------- | ------------------- | ------------------- |
-| 1.0    | 04/10/2023 | Primeira versão dos requisitos elicitados      | João Pedro Anacleto |     |
+| 1.0 | 04/10/2023 | Primeira versão dos requisitos elicitados      | João Pedro Anacleto | João Gabriel Ekvas    |
 | 2.0 | 04/11/2023 | Padronização | Vitor Borges | Pedro |
 
