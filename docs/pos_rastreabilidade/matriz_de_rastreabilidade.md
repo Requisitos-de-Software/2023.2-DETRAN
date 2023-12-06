@@ -1,10 +1,10 @@
 # Matriz Geral
 
-## Introdução
+## 1. Introdução
 
 Esse documento tem como objetivo organizar/reastrear os requisitos elicitados durante o projeto, linkando cada requisito com sua origem atraves de uma matriz de rastreabilidade.
 
-## Metodologia
+## 2. Metodologia
 
   A metodologia escolhida consiste na criação de uma  matriz composta por 5 colunas, especificadas abaixo, no qual buscam apresentar requisitos de maneira organizada e direta ao ponto.
 
@@ -17,7 +17,7 @@ ID:identificação do requisito.
 - Artefatos: Documentos aonde se pode rastrear a origem desses requisitos.
 - Implementação: Identifica se o requisito esta implementado, incompleto ou não implementado.
 
-## Mapeamento de simbolos
+## 3. Mapeamento de simbolos
 
 E apresentado na *Tabela 1*, o mapeamento dos simbolos que envolvem seus respectivos documentos e sua referência dos artefatos apresentados em seguida.
 
@@ -44,7 +44,7 @@ Tabela 1 - Mapeamento dos simbolos<br>
 (Fonte: João Pedro Anacleto)
 </p>
 
-## Matriz de Rastreabilidade
+## 4. Matriz de Rastreabilidade
 
  A Tabela 2 abaixo representa todos os requisitos elicitados e suas respectivas descrições,rastreabilidadese se os requisitos estão implementados, incompletos ou não implementados, para que se possa ter uma noção de como esta a atual situação do aplicativo.
 
@@ -89,5 +89,5 @@ Tabela 2 - Matriz de rastreabilidade<br>
 
 | Versão | Data       | Descrição            | Autor      | Revisor |
 | ------ | ---------- | -------------------- | ---------- | ------- |
-| 1.0    | 06/11/2023 | Criação do documento | João Pedro | João Gabriel Elvas       |
-
+| 1.0    | 06/11/2023 | Criação do documento | João Pedro | João Gabriel Elvas |
+| 2.0    | 06/12/2023 | Padronização | João Gabriel Elvas  | João Pedro |
