@@ -80,9 +80,9 @@ Tabela 2 - Matriz de rastreabilidade<br>
 
 ## Bibliografia
 
-[1] SERRANO, Milene. Slides da [aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). [Aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da disciplina Requisitos de Software. Universidade de Brasília, Brasília, acesso em 19/11/2023
+> SERRANO, Milene. Slides da [aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf). [Aula 26](https://aprender3.unb.br/pluginfile.php/2692879/mod_resource/content/1/Requisitos%20-%20Aula%20026.pdf) da disciplina Requisitos de Software. Universidade de Brasília, Brasília, acesso em 19/11/2023
 
-[2] POHL, Klaus; RUPP, Chris. [Requirements Engineering Fundamentals](https://aprender3.unb.br/pluginfile.php/2692881/mod_resource/content/2/Rastreabilidade.pdf). 2ª ed. New York: Springer, 2010.
+> POHL, Klaus; RUPP, Chris. [Requirements Engineering Fundamentals](https://aprender3.unb.br/pluginfile.php/2692881/mod_resource/content/2/Rastreabilidade.pdf). 2ª ed. New York: Springer, 2010.
 
 
 ## Histórico de versão
