@@ -53,26 +53,26 @@ nav:
     - Planejamento:
       - Aplicativos: 1_planejamento/aplicativos.md
       - Ferramentas: 1_planejamento/ferramentas.md
-      - Rich Picture: 1_planejamento/rich_picture.md
-      - Termo: 1_planejamento/termo.md
+      - Rich Picture: 1_planejamento/Rich_picture.md
+      - Termo: 1_planejamento/termos.md
     - Elicitação e Priorização:
-      - Entrevista: 2_elicitacao/entrevista.md
-      - Questionário: 2_elicitacao/questionario.md
-      - Análise de documentos: 2_elicitacao/analise_de_documentos.md
-      - First things first: 2_elicitacao/FTF.md
-      - In or Out: 2_elicitacao/in_or_out.md
-      - Moscow: 2_elicitacao/moscow.md
-      - Personas: 2_elicitacao/personas.md
-      - Storytelling: 2_elicitacao/storytelling.md
-      - Requisitos elicitados: 2_elicitacao/requisitos_elicitados.md
+      - Entrevista: 2_elicitação/entrevista.md
+      - Questionário: 2_elicitação/questionario.md
+      - Análise de documentos: 2_elicitação/analise_de_documentos.md
+      - First things first: 2_elicitação/FTF.md
+      - In or Out: 2_elicitação/in_or_out.md
+      - Moscow: 2_elicitação/moscow.md
+      - Personas: 2_elicitação/personas.md
+      - Storytelling: 2_elicitação/storytelling.md
+      - Requisitos elicitados: 2_elicitação/requisitos_elicitados.md
     - Modelagem:
       - Casos de uso: 3_modelagem/casos_de_uso.md
       - Cenários: 3_modelagem/cenarios.md
       - Especificação suplementar: 3_modelagem/especificacao_suplementar.md
-      - Léxicos: 3_modelagem/lexicos.md
+      - Léxicos: 3_modelagem/lexico.md
     - Modelagem ágil:
       - Not Functionals Requirements: 4_modelagem_agil/NFR.md
-      - Histórias de Usuário: 4_modelagem_agil/historias_de_usuario.md
+      - Histórias de Usuário: 4_modelagem_agil/historias_de_usuarios.md
       - Backlog do Produto: 4_modelagem_agil/backlog.md
   - Verificação & Validação:
     - Verificação:
@@ -84,25 +84,25 @@ nav:
           - Verificação Ferramentas: Verificação e Validação/Verificacao/Entrega_1/verificacao_ferramentas.md
           - Verificação Rich Picture: Verificação e Validação/Verificacao/Entrega_1/verificacao_RichPicture.md
         - Elicitação e Priorização:
-          - Verificaçao 100$: Verificação e Validação/Verificacao/Entrega_2/verificacao_100.md
+          - Verificaçao 100$: Verificação e Validação/Verificacao/Entrega_2/100.md
           - Verificação Moscow: Verificação e Validação/Verificacao/Entrega_2/moscow.md
-          - Verificação first things first: Verificação e Validação/Verificacao/Entrega_2/firts_things_first.md
-          - Verificação in or out: Verificação e Validação/Verificacao/Entrega_2/in_or_out.md
-          - Verificação entrevista: Verificação e Validação/Verificacao/Entrega_2/entrevista.md
-          - Verificação Storytelling: Verificação e Validação/Verificacao/Entrega_2/Storytelling.md
+          - Verificação first things first: Verificação e Validação/Verificacao/Entrega_2/first_things_first.md
+          - Verificação in or out: Verificação e Validação/Verificacao/Entrega_2/in-or-out.md
+          - Verificação entrevista: Verificação e Validação/Verificacao/Entrega_2/verificacao_entrevista.md
+          - Verificação Storytelling: Verificação e Validação/Verificacao/Entrega_2/verificacao_Storytelling.md
         - Modelagem:
           - Verificação Casos de uso: Verificação e Validação/Verificacao/Entrega_3/verificacao_casos_de_uso.md
           - Verificação Cenários: Verificação e Validação/Verificacao/Entrega_3/verificacao_cenarios.md
           - Verificação Especificação suplementar: Verificação e Validação/Verificacao/Entrega_3/verificacao_especificacao_suplementar.md
           - Verificação Léxicos: Verificação e Validação/Verificacao/Entrega_3/verificacao_lexicos.md
-          - Verificação Requisitos elicitados: Verificação e Validação/Verificacao/Entrega_3/Verificacao_Requisitos ilicitados.md
+          - Verificação Requisitos elicitados: Verificação e Validação/Verificacao/Entrega_3/Verificação_Requisitos ilicitados.md
         - Modelagem ágil:
           - Verificação Backlog do Produto: Verificação e Validação/Verificacao/Entrega_4/verificacao_backlog.md
           - Verificação Histórias de Usuário: Verificação e Validação/Verificacao/Entrega_4/verificacao_historias_de_usuario.md
           - Verificação Not Functionals Requirements: Verificação e Validação/Verificacao/Entrega_4/verificacao_NFR.md
         - Pós-rastreabilidade:
           - Verificação Backward: Verificação e Validação/Verificacao/Entrega_6/Backward.md
-          - Verificação Forward: Verificação e Validação/Verificacao/Entrega_6/Forward.md
+          - Verificação Forward: Verificação e Validação/Verificacao/Entrega_6/fowrard.md
           - Verificação matriz de rastreabilidade: Verificação e Validação/Verificacao/Entrega_6/matriz.md
       - Verificação GRUPO + 1:
         - Planejamento:
@@ -114,9 +114,9 @@ nav:
           - Verificaçao 100$: Verificacao_grupo_8/Entrega_2/100.md
           - Verificação Moscow: Verificacao_grupo_8/Entrega_2/Moscow.md
           - Verificação Brainstorming: Verificacao_grupo_8/Entrega_2/Verificação_Brasinstorming.md
-          - Verificação introspecção: Verificacao_grupo_8/Entrega_2/verificação_introspecção.md
-          - Verificação Perfil de usuário: Verificacao_grupo_8/Entrega_2/verificação_perfil_do_usuario.md
-          - Verificação Questionário: Verificacao_grupo_8/Entrega_2/verificação_questionario.md
+          - Verificação introspecção: Verificacao_grupo_8/Entrega_2/verificacao_introspeccao.md
+          - Verificação Perfil de usuário: Verificacao_grupo_8/Entrega_2/verificacao_perfil_do_usuario.md
+          - Verificação Questionário: Verificacao_grupo_8/Entrega_2/verificacao_questionario.md
         - Modelagem:
           - Verificação Casos de uso: Verificacao_grupo_8/Entrega_3/verificacao_casos_de_uso.md
           - Verificação Cenários: Verificacao_grupo_8/Entrega_3/verificacao_cenarios.md
@@ -124,25 +124,25 @@ nav:
           - Verificação Léxicos: Verificacao_grupo_8/Entrega_3/verificacao_lexicos.md
         - Modelagem ágil:
           - Verificação Backlog do Produto: Verificacao_grupo_8/Entrega_4/backlog.md
-          - Verificação Histórias de Usuário: Verificacao_grupo_8/Entrega_4/historias_de_usuario.md
+          - Verificação Histórias de Usuário: Verificacao_grupo_8/Entrega_4/historia_de_usuario.md
           - Verificação Not Functionals Requirements: Verificacao_grupo_8/Entrega_4/NFR.md
     - Validação:
-      - Métodos de pagamento: Verificação e Validação/Validacao/metodos_de_pagamento.md
-      - Anexar laudos: Verificação e Validação/Validacao/anexo.md
-      - Realizar cursos: Verificação e Validação/Validacao/realizar-cursos.md
-      - Transferência de pontuação: Verificação e Validação/Validacao/transferencia.md
+      - Métodos de pagamento: Verificação e Validação/Validação/metodos_pagamento.md
+      - Anexar laudos: Verificação e Validação/Validação/anexo.md
+      - Realizar cursos: Verificação e Validação/Validação/realizar-cursos.md
+      - Transferência de pontuação: Verificação e Validação/Validação/Transferencia.md
   - Pós-rastreabilidade:
       - Backward From: pos_rastreabilidade/backward_from.md
-      - Forward From: pos_rastreabilidade/forward_from.md
+      - Forward From: pos_rastreabilidade/foward-from.md
       - Matriz de Rastreabilidade: pos_rastreabilidade/matriz_de_rastreabilidade.md
   - Apresentações & Atas:
     - Apresentações: apresentações.md
     - Atas:
-      - Ata 1: Atas/ata_1.md
-      - Ata 2: Atas/ata_2.md
-      - Ata 3: Atas/ata_3.md
-      - Ata 4: Atas/ata_4.md
-      - Ata 5: Atas/ata_5.md
+      - Ata 1: Atas/ata1.md
+      - Ata 2: Atas/ata2.md
+      - Ata 3: Atas/ata3.md
+      - Ata 4: Atas/ata4.md
+      - Ata 5: Atas/ata5.md
       - Modelo: Atas/modelo_atas.md
   - Cronograma: cronograma/cronograma_de_atividades.md
   - Conclusão:

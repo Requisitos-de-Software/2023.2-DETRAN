@@ -72,11 +72,9 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 
 | Artefato | Versão | Data | Técnicas | Técnicas utilizadas por |
 |----------|--------|------|----------------|----------------|
-| Casos de uso | 3.0 | 06/11/2023 | -- | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
-| Cenários | 2.0 | 04/11/2023 | -- | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |       
-| Especificação suplementar | 2.1 | 04/11/2023 | -- | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
-| Léxico | 2.0 | 04/11/2023 | -- | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> | 
-
+| [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | 20/11/2023 | -- | <details><summary>Integrantes</summary> [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
+| [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | 04/11/2023 | -- | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@VitorB2002](https://github.com/VitorB2002) </details> |       
+| [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | 04/11/2023 | -- | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@JoaoGElvas](https://github.com/JoaoGElvas) </details> |
 ## Artefatos criados no projeto em cada etapa 
 
 ### Etapa 1
