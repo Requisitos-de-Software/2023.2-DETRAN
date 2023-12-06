@@ -17,7 +17,7 @@ Itens nesta categoria são explicitamente descartados do escopo do projeto atual
 
 ## 2. Detran
 
-Com base nessas informações a equipe gerou uma *tabela 1*  contendo essas informações ao requisitos elicitados.
+A seguinte tabela contém foi baseada na [tabela de requisitos elicitados](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicita%C3%A7%C3%A3o/requisitos_elicitados/#2-documentos-elicitados), porém para a priorização foi adicionado uma nova coluna de categoria em nossa tabela 01 para definir a prioridade de cada requisito.
 
 | Número do Requisito | Categoria       | Requisito                                                                                   |
 |---------------------|-----------------|----------------------------------------------------------------------------------------------|
@@ -57,8 +57,8 @@ Com base nessas informações a equipe gerou uma *tabela 1*  contendo essas info
 | ADD34               | Could (Poderia) | Solicitar a recolocação de placa em caso de perda, roubo ou dano irreparável pelo aplicativo.    |
 
 <p align="center">
-Tabela 01 - Requisitos elicitados <br>
-(Fonte: Grupo 07)
+Tabela 01 - Requisitos Priorizados <br>
+(Fonte: Vitor Borges)
 </p>
 
 ## Referências
