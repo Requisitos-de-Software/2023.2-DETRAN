@@ -32,22 +32,28 @@ Nesta etapa a equipe foi responsavel por fazer o planejamento de ferremantas e d
 | [Aplicativos](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/aplicativos/) | 1.0 | 06/11/2023 | Este Artefato consiste em detalhar os aplicativos analisados e os motivos que levaram a equipe a escolher o Detran Digital   |        
 | [Ferramentas](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/ferramentas/) | 1.0 | 06/11/2023 | Informações contendo que ferramentas foram utilizadas durante o projeto pela equipe bem como sua descrição da sua funcionalidade   | 
 | [Termos de uso](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/termos/) | 1.0 | 06/11/2023 | Termos de uso do aplicativo Detran Digital que permitem fazer o uso do mesmo no projeto sem ferir algum direito legal.   |
+
+
 Tabela : Etapa 1 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 2
 
 A etapa 2 tambem conhecida como elicitação e priorização consistiu em aplicar tecnicas de elicitção de requisitos e após essa elicitação saber a priorização dos requisitos com outras tecnicas .
 | Artefato | Versão | Descrição |
-|----------|--------|----------|
-| [First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/FTF/) | 1.0 | Este artefato consiste em demonstrar a prorização dos requisitos com base na tecnica First Thing First | 
-| [Análise de documentos](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/analise_de_documentos/) | 2.0 | Este artefato consiste em demonstrar a Elicitação dos requisitos com base na tecnica Analise de documentos  |  
-| [Entrevista](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/entrevista/) | 2.0 | Este artefato consiste em demonstrar a Elicitação dos requisitos com base na tecnica Entrevista | 
-| [Priorização In or Out](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/in_or_out/) | 2.0 | Este artefato consiste em demonstrar a prorização dos requisitos com base na tecnica Priorização In or Out | 
-| [Moscow](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/moscow/) | 2.0 |Este artefato consiste em demonstrar a prorização dos requisitos com base na tecnica MOSCOW | 
-| [Personas](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/personas/) | 2.0 |  Este artefato consiste em demonstrar o perfil do usúario com base na tecnica Personas|  
-| [Questionário](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/questionario/) | 2.0 | Este artefato consiste em demonstrar a Elicitação dos requisitos bem como o perfil do usuário com base na tecnica Questionario | 
-| [Requisitos elicitados](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/requisitos_elicitados/) | 2.0 |Este artefato consiste em agregar as informações e elicitar os requisitos . </details> | 
-| [Storytelling](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/storytelling/) | 2.0 | Este artefato consiste em demonstrar a Elicitação dos requisitos bem como o perfil do usuário com base na tecnica Storytellyng. |
+|----------|--------|-----------|
+| [First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/FTF/) | 1.0 | Este artefato consiste em demonstrar a priorização dos requisitos com base na técnica First Thing First. | 
+| [Análise de documentos](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/analise_de_documentos/) | 2.0 | Este artefato consiste em demonstrar a elicitação dos requisitos com base na técnica Análise de documentos. |  
+| [Entrevista](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/entrevista/) | 2.0 | Este artefato consiste em demonstrar a elicitação dos requisitos com base na técnica Entrevista. | 
+| [Priorização In or Out](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/in_or_out/) | 2.0 | Este artefato consiste em demonstrar a priorização dos requisitos com base na técnica Priorização In or Out. | 
+| [Moscow](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/moscow/) | 2.0 | Este artefato consiste em demonstrar a priorização dos requisitos com base na técnica MOSCOW. | 
+| [Personas](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/personas/) | 2.0 | Este artefato consiste em demonstrar o perfil do usuário com base na técnica Personas.|  
+| [Questionário](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/questionario/) | 2.0 | Este artefato consiste em demonstrar a elicitação dos requisitos, bem como o perfil do usuário, com base na técnica Questionário. | 
+| [Requisitos elicitados](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/requisitos_elicitados/) | 2.0 | Este artefato consiste em agregar as informações e elicitar os requisitos. | 
+| [Storytelling](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/storytelling/) | 2.0 | Este artefato consiste em demonstrar a elicitação dos requisitos, bem como o perfil do usuário, com base na técnica Storytelling. |
+
+
+
+
 Tabela : Etapa 2 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 3
@@ -60,17 +66,26 @@ Nesta etapa tambem conhecida como modelagem a equipe documento os comportamento 
 | [Cenários](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/) | 2.0 | Utilização da tecnica de cenários para descerver os possiveis cenários ao aplicativo Detran digital|       
 | [Especificação suplementar](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/especificacao_suplementar/) | 2.1 | Artefado criado para estabelecer os requisitos adicionais e as expectativas para o Detran Digital. | 
 | [Léxico](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/) | 2.0 |Artefato cuja finalidade consiste em especificar as semntaticas relacionadas a uma palavra dentro do contexto do Detran Digital. |
+
+
+
 Tabela : Etapa 3 (Fonte:Guilherme Nishimura 2023).
 
 
 ### Etapa 4
 
 Etapa da modelagem agil que consistiu em Estabelecer um organização  melhor do backlog ,usúarios e requisitos.
+
+
 | Artefato | Versão | Técnicas |
 |----------|--------|----------|
-| [NFR](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/) | 1.1 | Artefato criado para utilizar a tecnica NFR Framework para lidar com os requisitos que não se relacionam diretamente com as funcionalidades de um sistema de software |
-| [Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/backlog/) | 1.2 | Traz o backlog do projeto(lista de itens pendentes, tarefas ou funcionalidades a serem realizadas em um projeto ou processo).|       
-| [Historias De Usuarios](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/) | 2.1 | Utilização das tecnicas de historias de usuários para especificar os elementos do backlog de um projeto |
+| [NFR](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/) | 1.1 | Artefato criado para utilizar a técnica NFR Framework para lidar com os requisitos que não se relacionam diretamente com as funcionalidades de um sistema de software. |
+| [Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/backlog/) | 1.2 | Traz o backlog do projeto (lista de itens pendentes, tarefas ou funcionalidades a serem realizadas em um projeto ou processo).|       
+| [Histórias de Usuários](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/) | 2.1 | Utilização das técnicas de histórias de usuários para especificar os elementos do backlog de um projeto. |
+
+
+
+
 Tabela : Etapa 4 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 5
@@ -83,6 +98,8 @@ Equipe ficou responsavel por fazer a verificação do projeto do grupo  N+1 ,que
 | Artefato | Versão | Técnicas |
 |----------|--------|----------|
 | [Verificações](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao_grupo_8/Entrega_1/verificacao_aplicativos/) | 1.0 | Coletania de verificações referentes aos artefatos do grupo [Libre Office Writers](https://requisitos-de-software.github.io/2023.2-LibreOffice/)  |
+
+
 Tabela : Etapa 5.1 (Fonte:Guilherme Nishimura 2023).
 
 #### 5.2
@@ -97,10 +114,15 @@ Tabela : Etapa 5.2 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 6
 Etapa cuja finalidade foi vincular os requisitos  que são criados durante o ciclo de vida de desenvolvimento do sistema.
+
 | Artefato | Versão | Técnicas |
 |----------|--------|----------|
-| [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | Artefato contendo a tecnica de Backward-From para matriz de rastreabilidade |
-| [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | Artefato contendo a tecnica de Forward-From  |   | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | Artefato contento a matriz geral de rastreabilidade do projeto |
+| [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | Artefato contendo a técnica de Backward-From para matriz de rastreabilidade. |
+| [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/forward-from/) | 2.0 | Artefato contendo a técnica de Forward-From. |
+| [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | Artefato contendo a matriz geral de rastreabilidade do projeto. |
+
+
+
 Tabela : Etapa 6 (Fonte:Guilherme Nishimura 2023).
 
 ## Resultados alcançados
