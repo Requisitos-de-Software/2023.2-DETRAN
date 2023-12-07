@@ -32,6 +32,7 @@ Nesta etapa a equipe foi responsavel por fazer o planejamento de ferremantas e d
 | [Aplicativos](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/aplicativos/) | 1.0 | 06/11/2023 | Este Artefato consiste em detalhar os aplicativos analisados e os motivos que levaram a equipe a escolher o Detran Digital   |        
 | [Ferramentas](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/ferramentas/) | 1.0 | 06/11/2023 | Informações contendo que ferramentas foram utilizadas durante o projeto pela equipe bem como sua descrição da sua funcionalidade   | 
 | [Termos de uso](https://requisitos-de-software.github.io/2023.2-DETRAN/1_planejamento/termos/) | 1.0 | 06/11/2023 | Termos de uso do aplicativo Detran Digital que permitem fazer o uso do mesmo no projeto sem ferir algum direito legal.   |
+Tabela : Etapa 1 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 2
 
@@ -47,6 +48,7 @@ A etapa 2 tambem conhecida como elicitação e priorização consistiu em aplica
 | [Questionário](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/questionario/) | 2.0 | Este artefato consiste em demonstrar a Elicitação dos requisitos bem como o perfil do usuário com base na tecnica Questionario | 
 | [Requisitos elicitados](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/requisitos_elicitados/) | 2.0 |Este artefato consiste em agregar as informações e elicitar os requisitos . </details> | 
 | [Storytelling](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/storytelling/) | 2.0 | Este artefato consiste em demonstrar a Elicitação dos requisitos bem como o perfil do usuário com base na tecnica Storytellyng. |
+Tabela : Etapa 2 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 3
 
@@ -58,6 +60,7 @@ Nesta etapa tambem conhecida como modelagem a equipe documento os comportamento 
 | [Cenários](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/cenarios/) | 2.0 | Utilização da tecnica de cenários para descerver os possiveis cenários ao aplicativo Detran digital|       
 | [Especificação suplementar](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/especificacao_suplementar/) | 2.1 | Artefado criado para estabelecer os requisitos adicionais e as expectativas para o Detran Digital. | 
 | [Léxico](https://requisitos-de-software.github.io/2023.2-DETRAN/3_modelagem/lexico/) | 2.0 |Artefato cuja finalidade consiste em especificar as semntaticas relacionadas a uma palavra dentro do contexto do Detran Digital. |
+Tabela : Etapa 3 (Fonte:Guilherme Nishimura 2023).
 
 
 ### Etapa 4
@@ -68,6 +71,7 @@ Etapa da modelagem agil que consistiu em Estabelecer um organização  melhor do
 | [NFR](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/NFR/) | 1.1 | Artefato criado para utilizar a tecnica NFR Framework para lidar com os requisitos que não se relacionam diretamente com as funcionalidades de um sistema de software |
 | [Backlog do produto](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/backlog/) | 1.2 | Traz o backlog do projeto(lista de itens pendentes, tarefas ou funcionalidades a serem realizadas em um projeto ou processo).|       
 | [Historias De Usuarios](https://requisitos-de-software.github.io/2023.2-DETRAN/4_modelagem_agil/historias_de_usuarios/) | 2.1 | Utilização das tecnicas de historias de usuários para especificar os elementos do backlog de um projeto |
+Tabela : Etapa 4 (Fonte:Guilherme Nishimura 2023).
 
 ### Etapa 5
 Esta etapa foi dividido em 5.1 e 5.2 :
@@ -79,6 +83,7 @@ Equipe ficou responsavel por fazer a verificação do projeto do grupo  N+1 ,que
 | Artefato | Versão | Técnicas |
 |----------|--------|----------|
 | [Verificações](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificacao_grupo_8/Entrega_1/verificacao_aplicativos/) | 1.0 | Coletania de verificações referentes aos artefatos do grupo [Libre Office Writers](https://requisitos-de-software.github.io/2023.2-LibreOffice/)  |
+Tabela : Etapa 5.1 (Fonte:Guilherme Nishimura 2023).
 
 #### 5.2
 Etapa para fazer  a verificação do proprio  projeto ,alem de fazer as validações dos prototipos :
@@ -88,12 +93,15 @@ Etapa para fazer  a verificação do proprio  projeto ,alem de fazer as validaç
 | [Verificações](http://127.0.0.1:8000/Verificação%20e%20Validação/Verificacao/Geral/) | 3.0 |Coletania de verificações referentes aos artefatos do proprio Grupo e inspeções|
 | [Validações](http://127.0.0.1:8000/Verificação%20e%20Validação/Validação/metodos_pagamento/) | 2.0 | Artefato com os prototipos de alta fidelidade e validação com o usuário |
 
+Tabela : Etapa 5.2 (Fonte:Guilherme Nishimura 2023).
+
 ### Etapa 6
 Etapa cuja finalidade foi vincular os requisitos  que são criados durante o ciclo de vida de desenvolvimento do sistema.
 | Artefato | Versão | Técnicas |
 |----------|--------|----------|
 | [Backward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/backward_from/) | 1.1 | Artefato contendo a tecnica de Backward-From para matriz de rastreabilidade |
 | [Forward-From](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/foward-from/) | 2.0 | Artefato contendo a tecnica de Forward-From  |   | [Matriz de rastreabilidade](https://requisitos-de-software.github.io/2023.2-DETRAN/pos_rastreabilidade/matriz_de_rastreabilidade/) | 2.1 | Artefato contento a matriz geral de rastreabilidade do projeto |
+Tabela : Etapa 6 (Fonte:Guilherme Nishimura 2023).
 
 ## Resultados alcançados
 
