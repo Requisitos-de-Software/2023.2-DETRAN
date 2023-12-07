@@ -348,6 +348,10 @@ Segue abaixo apresentado na tabela as ferramentas utilizadas dentro do projeto e
 <p>Tabela : Apresentações das etapas (Fonte:Vitor Borges. 2023). </p>
 </div>
 
+## E-mail Detran
+![Email Detran 1](email_detran_1.png)
+![Email Detran 2](email_detran_2.png)
+
 # Historico de versão
 
 | Versão | Data | Descrição | Autor | Revisor |
