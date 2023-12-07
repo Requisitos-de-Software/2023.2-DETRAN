@@ -39,6 +39,7 @@ Tabela : Etapa 1 (Fonte:Guilherme Nishimura 2023).
 ### Etapa 2
 
 A etapa 2 tambem conhecida como elicitação e priorização consistiu em aplicar tecnicas de elicitção de requisitos e após essa elicitação saber a priorização dos requisitos com outras tecnicas .
+
 | Artefato | Versão | Descrição |
 |----------|--------|-----------|
 | [First Thing First](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/FTF/) | 1.0 | Este artefato consiste em demonstrar a priorização dos requisitos com base na técnica First Thing First. | 
@@ -52,9 +53,9 @@ A etapa 2 tambem conhecida como elicitação e priorização consistiu em aplica
 | [Storytelling](https://requisitos-de-software.github.io/2023.2-DETRAN/2_elicitação/storytelling/) | 2.0 | Este artefato consiste em demonstrar a elicitação dos requisitos, bem como o perfil do usuário, com base na técnica Storytelling. |
 
 
-
-
 Tabela : Etapa 2 (Fonte:Guilherme Nishimura 2023).
+
+
 
 ### Etapa 3
 
