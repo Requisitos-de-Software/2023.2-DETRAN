@@ -23,7 +23,7 @@ A seguir, com base na *tabela 1* acima, foram gerados pela equipe os léxicos:
 
 | Léxico | Sinônimo | Noção | Impacto | Classificação | ID dos requisitos |
 | --- | --- | --- | --- | --- | --- |
-| Usuario | Cliente | Pessoa que ira utilizar o aplicativo | Usuario que que possui CNH ou deseja verificar situação do veiculo que é a pessoa ativa que irá utilizar o aplicativo Detran .| Objeto | ADD1, ADD2, ADD3, ADD4, ADD5, ADD6, ADD7, ADD8, ADD9, ADD10, ADD11, ADD12 |
+| Usuario | Cliente,Motorista,Portador de CNH | Pessoa que ira utilizar o aplicativo | Usuario que que possui CNH ou deseja verificar situação do veiculo que é a pessoa ativa que irá utilizar o aplicativo Detran .| Objeto | ADD1, ADD2, ADD3, ADD4, ADD5, ADD6, ADD7, ADD8, ADD9, ADD10, ADD11, ADD12 |
 
 <p align="center">
 Tabela 02 - Léxico Usuario<br>
