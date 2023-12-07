@@ -84,7 +84,7 @@ nav:
           - Verificação Ferramentas: Verificação e Validação/Verificacao/Entrega_1/verificacao_ferramentas.md
           - Verificação Rich Picture: Verificação e Validação/Verificacao/Entrega_1/verificacao_RichPicture.md
         - Elicitação e Priorização:
-          - Verificaçao 100$: Verificação e Validação/Verificacao/Entrega_2/100.md
+          #- Verificaçao 100$: Verificação e Validação/Verificacao/Entrega_2/100.md
           - Verificação Moscow: Verificação e Validação/Verificacao/Entrega_2/moscow.md
           - Verificação first things first: Verificação e Validação/Verificacao/Entrega_2/first_things_first.md
           - Verificação in or out: Verificação e Validação/Verificacao/Entrega_2/in-or-out.md

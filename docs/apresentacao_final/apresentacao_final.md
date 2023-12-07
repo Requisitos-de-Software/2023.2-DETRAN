@@ -242,10 +242,12 @@ Na tabela 1 estão os artefatos verificados e os responsáveis pela verificaçã
 
 | Artefato | Versão | Data | Descrição | Autores e revisores |
 |----------|--------|------|----------------|----------------|
-| [Verificações](http://127.0.0.1:8000/Verificação%20e%20Validação/Verificacao/Geral/) | 3.0 | 06/11/2023 | Artefatos de verificações | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
-| [Validações](http://127.0.0.1:8000/Verificação%20e%20Validação/Validação/metodos_pagamento/) | 2.0 | 04/11/2023 | Artefatos de validações | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Verificações](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Geral/) | 3.0 | 06/11/2023 | Artefatos de verificações | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
+| [Validações](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Validação/metodos_pagamento/) | 2.0 | 04/11/2023 | Artefatos de validações | <details><summary>Integrantes</summary> [@joãopedro](https://github.com/jpanacleto2), [@Guilherme-Nishi ](https://github.com/Guilherme-Nishi), [@pedrocampos0](https://github.com/pedrocampos0), [@JoaoGElvas](https://github.com/JoaoGElvas), [@VitorB2002](https://github.com/VitorB2002) </details> |
 
 *Fonte: Pedro Campos*
+
+#### O artefato sintetizando todas as inspeções de verificação dos artefatos do nosso grupo podem ser encontradas [no artefato de verificação geral](https://requisitos-de-software.github.io/2023.2-DETRAN/Verificação%20e%20Validação/Verificacao/Geral/)
 
 ### Etapa 6
 
