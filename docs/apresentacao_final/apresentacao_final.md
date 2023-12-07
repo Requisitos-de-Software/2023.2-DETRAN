@@ -341,8 +341,8 @@ Segue abaixo apresentado na tabela as ferramentas utilizadas dentro do projeto e
 | 3 | [Acesse aqui](https://www.youtube.com/embed/lrU3SYFXFvs?si=GFfp6pRGnuP4d7_G) |
 | 4 | [Acesse aqui](https://www.youtube.com/embed/_Y0Y1fTJxMw?si=NtxMtsd78TkPT24P) |
 | 5.1 | [Acesse aqui](https://www.youtube.com/embed/Obz7zNKqp78?si=rNODsCKcuUqPDGrg) |
-| 6 | [Acesse aqui](https://www.youtube.com/embed/QsMO7kSdkJE?si=5PlbyG-ZE3jasRoi) |
 | 5.2 | [Acesse aqui](https://www.youtube.com/embed/B8wxCt5MReE?si=iPi_hn7joyTlt5Fd) |
+| 6 | [Acesse aqui](https://youtu.be/1qKEq7C3QNA) |
 | Final | [Acesse aqui](https://youtu.be/FVZi8GKbvmU) |
 
 <div align= "center">
